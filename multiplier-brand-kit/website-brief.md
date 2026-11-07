@@ -52,7 +52,7 @@ All three audience pages share one template. See the wireframes for layout.
 
 **For sponsors:** hero; four benefits (qualified reach, efficient raise, brand-safe, clear data); who we work with and what we look for; five-step process (apply, diligence, onboard, raise, manage); platform tools; distribution (direct investors and advisers); commercials; FAQ; call to action.
 
-**For advisers:** the page is about confidence and uniqueness, not economics. Hero (opportunities clients cannot find elsewhere, vetted before they reach you); three assurances (fully diligenced, compliance reviewed, genuinely selective); the five-gate vetting process (sourcing, sponsor review, full due diligence, legal and compliance, listed with a full pack); what comes with every deal (investment memo, due diligence report, legal and compliance sign-off, risk assessment, sponsor profile, ongoing monitoring); something unique for clients (differentiation for the adviser's practice, with example deal cards); light tools section; standards and governance (investment committee, conflicts policy, regulatory status); three-step partner onboarding; FAQ led by vetting questions; call to action. No fee or referral-economics detail on the page.
+**For advisers:** four benefits of equal weight, none of them fees. Hero (private markets for your clients: vetted, simple and entirely digital); the four benefits (vetted deals, onboard once, entirely digital, bespoke experience); one compact "deals you can stand behind" section (five vetting gates plus the diligence pack, so compliance is a strong point but not the whole page); onboard once, invest many times (one verification and profile per client reused across every deal); entirely digital (documents, e-signature, subscriptions, live status, reporting, with a product screen); a bespoke experience (tailored to the practice, shortlists per client, a dedicated team; what we can actually tailor is to be confirmed); something unique for clients (example deal cards); three-step partner onboarding; FAQ balanced across the four benefits; call to action. Governance and regulatory status sit in About and the footer. No fee or referral-economics detail on the page.
 
 **Get started:** user-type selector, form (name, work email, firm, country, one type-specific field, optional message, consent), what happens next.
 
@@ -65,7 +65,7 @@ All three audience pages share one template. See the wireframes for layout.
 | Regulatory setting | Global, multiple regions. Region-aware disclosures and eligibility notices; every claim reviewed by compliance. |
 | Product status | The platform is live. Show real screens (with sensitive data removed) and link Log in to the platform app. |
 | Fees and referral terms | Not detailed on the public site, because advisers' clients read it. Partner terms are shared in the partner agreement after sign-up; deal-level costs are shown to registered investors. Public pages say only that terms are clear and shared after registration or sign-up. |
-| Adviser message | Confidence first: vetted deals, full due diligence, compliance reviewed, and something unique to offer clients. |
+| Adviser message | Four equal benefits: vetted deals (full diligence, compliance reviewed), onboard your client once, everything digital, and a bespoke experience, plus something unique to offer clients. Compliance is one pillar, not the whole story. |
 
 ## 7. Functional requirements
 
