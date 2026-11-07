@@ -48,11 +48,11 @@ All three audience pages share one template. See the wireframes for layout.
 
 **Home:** hero (positioning, two actions, visual); choose your path (three cards); proof strip (only real figures and logos); how it works (curate, connect, complete); platform features with product screens; principles accordion (curated, transparent, principled); trust and compliance; closing call to action (the single dark band); footer with regulatory disclosure.
 
-**For investors:** hero with eligibility note; four benefits; how investing works (register and verify, explore, invest, track); illustrative example deal cards, clearly labelled as examples; fees and transparency table including any adviser referral fee; eligibility and security; FAQ; call to action.
+**For investors:** hero with eligibility note; four benefits; how investing works (register and verify, explore, invest, track); illustrative example deal cards, clearly labelled as examples; our standards (full due diligence, compliance reviewed, clear terms per deal), with no fee table on the public page; eligibility and security; FAQ; call to action.
 
 **For sponsors:** hero; four benefits (qualified reach, efficient raise, brand-safe, clear data); who we work with and what we look for; five-step process (apply, diligence, onboard, raise, manage); platform tools; distribution (direct investors and advisers); commercials; FAQ; call to action.
 
-**For advisers:** hero; four benefits (curated shelf, disclosed fees, client tools, compliance support); who it is for and supported working models; four-step process; economics flow (client invests, sponsor pays, adviser receives a disclosed fee); adviser tools; conduct and compliance; FAQ; call to action.
+**For advisers:** the page is about confidence and uniqueness, not economics. Hero (opportunities clients cannot find elsewhere, vetted before they reach you); three assurances (fully diligenced, compliance reviewed, genuinely selective); the five-gate vetting process (sourcing, sponsor review, full due diligence, legal and compliance, listed with a full pack); what comes with every deal (investment memo, due diligence report, legal and compliance sign-off, risk assessment, sponsor profile, ongoing monitoring); something unique for clients (differentiation for the adviser's practice, with example deal cards); light tools section; standards and governance (investment committee, conflicts policy, regulatory status); three-step partner onboarding; FAQ led by vetting questions; call to action. No fee or referral-economics detail on the page.
 
 **Get started:** user-type selector, form (name, work email, firm, country, one type-specific field, optional message, consent), what happens next.
 
@@ -64,6 +64,8 @@ All three audience pages share one template. See the wireframes for layout.
 | Deal visibility | Deals, names, terms and fees are visible only after registration. Public pages show illustrative example cards only, labelled "Example". |
 | Regulatory setting | Global, multiple regions. Region-aware disclosures and eligibility notices; every claim reviewed by compliance. |
 | Product status | The platform is live. Show real screens (with sensitive data removed) and link Log in to the platform app. |
+| Fees and referral terms | Not detailed on the public site, because advisers' clients read it. Partner terms are shared in the partner agreement after sign-up; deal-level costs are shown to registered investors. Public pages say only that terms are clear and shared after registration or sign-up. |
+| Adviser message | Confidence first: vetted deals, full due diligence, compliance reviewed, and something unique to offer clients. |
 
 ## 7. Functional requirements
 
@@ -94,7 +96,7 @@ All three audience pages share one template. See the wireframes for layout.
 ## 10. Compliance and risk (to be confirmed with legal)
 
 - Financial-promotion rules differ by region. The site must not be the only gate: eligibility and suitability checks happen in the platform.
-- Referral fees paid to advisers must be disclosed to clients; the site must explain this plainly.
+- Referral fees paid to advisers must still be disclosed to clients where the rules require it. Confirm with compliance where and how that disclosure appears (for example in the platform and partner agreement) so the public site can stay light on fees.
 - Risk warning and regulatory disclosure text per region comes from compliance and is rendered from one editable source.
 - This brief is not legal advice. Compliance and counsel must review all copy before launch.
 
