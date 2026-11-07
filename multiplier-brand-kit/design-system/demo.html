@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Multiplier component demo</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="./tokens.css">
+<link rel="stylesheet" href="./components/bundle.css">
+<style>
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font-sans); font-weight: 300; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: var(--space-9) max(16px, 5vw); display: flex; flex-direction: column; gap: var(--space-8); }
+  .hero h1 { margin: 0; max-width: 14ch; }
+  .hero p { margin: var(--space-5) 0 var(--space-6); max-width: 46ch; color: var(--ink-muted); }
+  .actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-5); }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+<script src="./components/bundle.js"></script>
+<script>
+  var M = window.Multiplier, h = React.createElement;
+  function Demo() {
+    return h('div', null,
+      h(M.Nav, {
+        links: [{ label: 'Deals', href: '#', current: true }, { label: 'How it works', href: '#' }, { label: 'Insights', href: '#' }],
+        actions: [h(M.Button, { key: 'l', variant: 'secondary' }, 'Log in'), h(M.Button, { key: 'p' }, 'Become a partner')]
+      }),
+      h('div', { className: 'wrap' },
+        h('section', { className: 'hero' },
+          h('span', { className: 'label', style: { color: 'var(--accent)' } }, 'The curated deal platform for advisers'),
+          h('h1', { className: 'display' }, 'Access, curated.'),
+          h('p', { className: 'body-lg' }, 'We review every deal, you introduce it to the clients it suits, and you earn a disclosed referral fee.'),
+          h('div', { className: 'actions' }, h(M.Button, { size: 'lg' }, 'Become a partner'), h(M.Button, { size: 'lg', variant: 'secondary' }, 'Browse deals'))
+        ),
+        h('section', { className: 'grid' },
+          h(M.DealCard, { assetClass: 'Private equity', title: '[Deal name]', summary: '[One-line thesis.]', minimum: '[amount]', fee: '[x]%', status: 'Open' }),
+          h(M.DealCard, { assetClass: 'Real assets', title: '[Deal name]', summary: '[One-line thesis.]', minimum: '[amount]', fee: '[x]%', status: 'Closing soon', statusTone: 'caution' }),
+          h(M.DealCard, { assetClass: 'Venture', title: '[Deal name]', summary: '[One-line thesis.]', minimum: '[amount]', fee: '[x]%', status: 'Fully subscribed', statusTone: 'critical' })
+        ),
+        h('section', { className: 'grid' },
+          h(M.Field, { label: 'Work email', type: 'email', placeholder: 'name@firm.com' }),
+          h(M.Field, { label: 'Firm name', hint: 'As registered with your regulator.' })
+        )
+      )
+    );
+  }
+  ReactDOM.createRoot(document.getElementById('root')).render(h(Demo));
+</script>
+</body>
+</html>

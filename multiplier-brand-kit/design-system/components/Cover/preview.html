@@ -1,0 +1,38 @@
+<!-- @dsCard height=320 -->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&display=swap">
+<style>
+html,body{margin:0}
+body{position:relative;width:960px;height:320px;overflow:hidden;background:var(--bg);color:var(--ink);font-family:var(--font-sans)}
+svg{position:absolute;left:0;top:0}
+.teal{fill:var(--teal)}
+.action{fill:var(--action)}
+.ink{fill:var(--ink)}
+.navy{fill:var(--chart-navy)}
+.cut{fill:var(--bg)}
+.b{rx:var(--radius-sm)}
+.text{position:absolute;left:48px;bottom:40px;width:440px}
+h1{margin:0;font-weight:300;font-size:72px;line-height:.95;letter-spacing:-.045em}
+p{margin:12px 0 0;font-size:14px;line-height:20px;font-weight:300;color:var(--ink-muted)}
+</style>
+</head>
+<body>
+<svg width="960" height="320" viewBox="0 0 960 320" aria-hidden="true">
+<!--
+blocks: teal 96x208, action 160x136, ink 160x104, chart-navy 176x256 (sides are multiples of space-2 = 8px)
+arrangement: unequal bands hanging from the top edge, right of x = 480
+pattern: the mark's own lens geometry, drawn at 8x in the ground colour so it is cut out of the blocks; picked because the logo is a literal motif built from radii
+scales: radius-sm on every block; mark scale 8 centred at 744,176
+-->
+<rect class="b teal" x="496" y="0" width="96" height="208"/>
+<rect class="b action" x="608" y="0" width="160" height="136"/>
+<rect class="b ink" x="608" y="152" width="160" height="104"/>
+<rect class="b navy" x="784" y="0" width="176" height="256"/>
+<path class="cut" fill-rule="evenodd" transform="translate(744 176) scale(8)" d="M-13.47 -13.47A22 22 0 0 1 13.47 13.47A22 22 0 0 1 -13.47 -13.47ZM-13.47 13.47A22 22 0 0 1 13.47 -13.47A22 22 0 0 1 -13.47 13.47Z"/>
+</svg>
+<div class="text"><h1>Multiplier</h1><p>Private markets, done with care.</p></div>
+</body>
+</html>

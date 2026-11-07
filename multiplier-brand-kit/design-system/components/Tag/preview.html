@@ -1,0 +1,24 @@
+<!-- @dsCard group="Status" height=120 subtitle="Neutral, open, closing, closed" -->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+body{margin:0;padding:24px;background:var(--bg);color:var(--ink);font-family:var(--font-sans)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+var T = window.Multiplier.Tag, h = React.createElement;
+ReactDOM.createRoot(document.getElementById('root')).render(h('div', { className: 'row' },
+  h(T, null, 'Private equity'),
+  h(T, { tone: 'accent' }, 'Open'),
+  h(T, { tone: 'caution' }, 'Closing soon'),
+  h(T, { tone: 'critical' }, 'Closed')
+));
+</script>
+</body>
+</html>

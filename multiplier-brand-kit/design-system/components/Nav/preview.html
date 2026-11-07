@@ -1,0 +1,26 @@
+<!-- @dsCard group="Navigation" height=140 subtitle="Logo, links, actions" -->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-sans)}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+var M = window.Multiplier, h = React.createElement;
+ReactDOM.createRoot(document.getElementById('root')).render(
+  h(M.Nav, {
+    links: [{ label: 'Deals', href: '#', current: true }, { label: 'How it works', href: '#' }, { label: 'Insights', href: '#' }],
+    actions: [
+      h(M.Button, { key: 'a', variant: 'secondary' }, 'Log in'),
+      h(M.Button, { key: 'b', variant: 'primary' }, 'Start a conversation')
+    ]
+  })
+);
+</script>
+</body>
+</html>

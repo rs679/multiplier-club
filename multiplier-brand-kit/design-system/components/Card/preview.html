@@ -1,0 +1,26 @@
+<!-- @dsCard group="Surfaces" height=240 subtitle="Raised, pine, navy" -->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+body{margin:0;padding:24px;background:var(--bg);color:var(--ink);font-family:var(--font-sans)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+h4{margin:0;font-size:20px;line-height:28px;font-weight:300;letter-spacing:-.01em}
+p{margin:0;font-size:15px;line-height:24px;font-weight:300;color:var(--ink-muted)}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+var C = window.Multiplier.Card, h = React.createElement;
+function Body(t) { return [h('h4', { key: 'h' }, t), h('p', { key: 'p' }, 'Short supporting copy in ink-muted.')]; }
+ReactDOM.createRoot(document.getElementById('root')).render(h('div', { className: 'grid' },
+  h(C, { eyebrow: 'Raised' }, Body('bg-raised')),
+  h(C, { tone: 'pine', eyebrow: 'Pine' }, Body('bg-pine')),
+  h(C, { tone: 'navy', eyebrow: 'Navy' }, Body('bg-navy'))
+));
+</script>
+</body>
+</html>

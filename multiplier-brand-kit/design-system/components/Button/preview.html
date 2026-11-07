@@ -1,0 +1,29 @@
+<!-- @dsCard group="Actions" height=200 subtitle="Primary, secondary, ghost" -->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+body{margin:0;padding:24px;background:var(--bg);color:var(--ink);font-family:var(--font-sans)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:16px}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+var B = window.Multiplier.Button, h = React.createElement;
+ReactDOM.createRoot(document.getElementById('root')).render(h('div', null,
+  h('div', { className: 'row' },
+    h(B, { variant: 'primary' }, 'Become a partner'),
+    h(B, { variant: 'secondary' }, 'Log in'),
+    h(B, { variant: 'ghost' }, 'View deals')
+  ),
+  h('div', { className: 'row' },
+    h(B, { variant: 'primary', size: 'lg' }, 'Start a conversation'),
+    h(B, { variant: 'primary', disabled: true }, 'Unavailable')
+  )
+));
+</script>
+</body>
+</html>
