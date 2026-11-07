@@ -4,7 +4,7 @@ Status: draft for review. Wireframes: https://claude.ai/artifact/DRU4iJ8PFGAY7PE
 
 ## 1. Summary
 
-Multiplier is a curated alternative-investments platform that brings together three groups: **investors**, **deal sponsors and asset managers**, and **financial advisers, wealth managers and distributors**. The platform is live. This project is a lean marketing site that explains the proposition to each audience in a calm, premium way, and moves them into registration or an application.
+Multiplier is a technology platform (not an adviser, arranger or broker) that connects regulated advisers and deal sponsors with accredited investors. It brings together three groups: **investors**, **deal sponsors and asset managers**, and **financial advisers, wealth managers and distributors**. The platform is live. This project is a lean marketing site that explains the proposition to each audience in a calm, premium way, and moves them into registration or an application.
 
 Reference points:
 - **Structure and feel:** optoinvest.com. Clean, modern, minimal, product-led, with audience routing on the home page and product screens as proof.
@@ -66,6 +66,11 @@ All three audience pages share one template. See the wireframes for layout.
 | Product status | The platform is live. Show real screens (with sensitive data removed) and link Log in to the platform app. |
 | Fees and referral terms | Not detailed on the public site, because advisers' clients read it. Partner terms are shared in the partner agreement after sign-up; deal-level costs are shown to registered investors. Public pages say only that terms are clear and shared after registration or sign-up. |
 | Adviser message | Four equal benefits: vetted deals (full diligence, compliance reviewed), onboard your client once, everything digital, and a bespoke experience, plus something unique to offer clients. Compliance is one pillar, not the whole story. |
+| Regulatory stance | Multiplier is a technology platform only. Regulated advisers and regulated deal sponsors use it to reach accredited investors. Site wording must be neutral and cover most regions, and must never imply that Multiplier gives advice, arranges deals or guarantees outcomes. Needs counsel's review. |
+| Commercial model | Planned platform fees, plus introducer fees paid by deal sponsors. Not detailed on the public site; shared after application or sign-up. |
+| Proof at launch | None yet. Illustrative figures are used in wireframes only and are clearly marked. They must be replaced with real, approved figures or removed before anything goes public. |
+| Language and team | English only. Built and maintained by the in-house team. |
+| Adviser working model | Not decided. Default assumption: introducer model. To be developed. |
 
 ## 7. Functional requirements
 
@@ -95,6 +100,9 @@ All three audience pages share one template. See the wireframes for layout.
 
 ## 10. Compliance and risk (to be confirmed with legal)
 
+- Multiplier is a technology platform. The site must not describe Multiplier as providing advice, arranging investments, recommending deals or guaranteeing quality. Suitability stays with the regulated adviser; regulated status belongs to advisers and sponsors, not to the platform.
+- Claims about vetting ("fully diligenced", "compliance reviewed") need care. Counsel must confirm who performs each check (Multiplier, the sponsor, or third parties) and the wording must say so accurately, for example "deals are screened against our platform criteria" rather than implying Multiplier endorses them.
+- Use "accredited or professional investors" as the generic term; the legal definition varies by region and each region's notice must carry the right one.
 - Financial-promotion rules differ by region. The site must not be the only gate: eligibility and suitability checks happen in the platform.
 - Referral fees paid to advisers must still be disclosed to clients where the rules require it. Confirm with compliance where and how that disclosure appears (for example in the platform and partner agreement) so the public site can stay light on fees.
 - Risk warning and regulatory disclosure text per region comes from compliance and is rendered from one editable source.
@@ -121,12 +129,12 @@ Blog or Insights hub, deal listings or search on the public site, investor dashb
 
 ## 14. Open questions
 
-1. Regulatory status and licences in each target region, and who is the regulated entity.
-2. How Multiplier is paid, and exactly how adviser referral fees work.
-3. Proof available at launch: figures, sponsor and partner logos, testimonials.
-4. Languages beyond English.
-5. Who owns imagery, screens and copy; who approves compliance wording.
-6. Timeline, budget and launch date; whether the CMS must be Lovable-compatible or standalone.
+1. Who actually performs due diligence and compliance review on each deal (Multiplier, sponsors, third parties)? This decides how every vetting claim is worded.
+2. Adviser working model (introducer, distribution agreement, or other). Not decided; needs developing.
+3. Real proof for launch: figures, sponsor and partner logos. Illustrative placeholders only for now.
+4. Product screens: to be supplied by the owner soon; until then use mocked screens.
+5. Which regions and investor definitions the footer and investor page must cover first.
+6. Launch date and the name of the subdomain for the legacy M&A marketplace.
 
 ## 15. Suggested milestones
 
