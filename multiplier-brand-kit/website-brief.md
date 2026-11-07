@@ -70,7 +70,11 @@ All three audience pages share one template. See the wireframes for layout.
 | Commercial model | Planned platform fees, plus introducer fees paid by deal sponsors. Not detailed on the public site; shared after application or sign-up. |
 | Proof at launch | None yet. Illustrative figures are used in wireframes only and are clearly marked. They must be replaced with real, approved figures or removed before anything goes public. |
 | Language and team | English only. Built and maintained by the in-house team. |
-| Adviser working model | Not decided. Default assumption: introducer model. To be developed. |
+| Adviser working model | Introducer model (confirmed as the default). Details to be developed. |
+| Due diligence | Run by AI. Public wording says "AI-powered due diligence" and describes what it covers. Do not claim it is better than human diligence unless it can be substantiated; see section 10. |
+| Launch regions | UAE, Malaysia and Mexico. Region notices and investor definitions for each. |
+| Legacy M&A marketplace location | ma.multiplier.club/uae. The current site moves there, with redirects from old URLs. |
+| Launch date | Tomorrow (requested). See section 15 for what is realistic. |
 
 ## 7. Functional requirements
 
@@ -102,7 +106,10 @@ All three audience pages share one template. See the wireframes for layout.
 
 - Multiplier is a technology platform. The site must not describe Multiplier as providing advice, arranging investments, recommending deals or guaranteeing quality. Suitability stays with the regulated adviser; regulated status belongs to advisers and sponsors, not to the platform.
 - Claims about vetting ("fully diligenced", "compliance reviewed") need care. Counsel must confirm who performs each check (Multiplier, the sponsor, or third parties) and the wording must say so accurately, for example "deals are screened against our platform criteria" rather than implying Multiplier endorses them.
-- Use "accredited or professional investors" as the generic term; the legal definition varies by region and each region's notice must carry the right one.
+- Use "accredited or professional investors" as the generic term; the legal definition varies by region and each region's notice must carry the right one. Launch regions are the UAE, Malaysia and Mexico; counsel to confirm the investor category and regulator wording for each (for example, the UAE's professional or qualified investor tests, Malaysia's sophisticated investor tests, and Mexico's qualified or institutional investor tests).
+- Due diligence is run by AI. Describe it as "AI-powered due diligence" and say what it covers. Avoid "better than human", "guaranteed" or "risk-free": comparative and superiority claims need evidence, and may breach advertising and financial-promotion rules. Say that outputs are informational, are not advice or an endorsement, and that a human reviews them (confirm this is true before saying it).
+- If the platform runs the diligence, it is no longer neutral that "Multiplier only provides technology". Counsel should confirm how this is positioned, who is accountable for the output, and what disclaimers apply in each region.
+- Mexico is a Spanish-speaking market. English only is acceptable for the first release, but expect investor and regulatory material for Mexico to need Spanish.
 - Financial-promotion rules differ by region. The site must not be the only gate: eligibility and suitability checks happen in the platform.
 - Referral fees paid to advisers must still be disclosed to clients where the rules require it. Confirm with compliance where and how that disclosure appears (for example in the platform and partner agreement) so the public site can stay light on fees.
 - Risk warning and regulatory disclosure text per region comes from compliance and is rendered from one editable source.
@@ -129,18 +136,18 @@ Blog or Insights hub, deal listings or search on the public site, investor dashb
 
 ## 14. Open questions
 
-1. Who actually performs due diligence and compliance review on each deal (Multiplier, sponsors, third parties)? This decides how every vetting claim is worded.
-2. Adviser working model (introducer, distribution agreement, or other). Not decided; needs developing.
+1. Who reviews AI diligence outputs, and is there a human sign-off? Needed before the site can say so.
+2. Evidence for any claim about the quality of AI diligence (accuracy, coverage, comparison with human review).
 3. Real proof for launch: figures, sponsor and partner logos. Illustrative placeholders only for now.
-4. Product screens: to be supplied by the owner soon; until then use mocked screens.
-5. Which regions and investor definitions the footer and investor page must cover first.
-6. Launch date and the name of the subdomain for the legacy M&A marketplace.
+4. Product screens: to be supplied by the owner tomorrow; until then use mocked screens.
+5. Investor definitions and mandatory disclosures for the UAE, Malaysia and Mexico (counsel).
+6. Whether Mexico needs Spanish copy for launch.
+7. Redirect map from the old multiplier.club URLs to ma.multiplier.club/uae, and whether the legacy pages stay indexed.
 
 ## 15. Suggested milestones
 
-1. Brief and sitemap sign-off.
-2. Wireframe review and content plan.
-3. Visual design of Home and one audience page.
-4. Build of all pages in the CMS.
-5. Compliance review, accessibility and performance pass.
-6. Subdomain migration, redirects, launch.
+Requested launch date: tomorrow. A full launch tomorrow is only realistic if scope is cut hard and counsel signs the copy today. Suggested staging:
+
+1. **Tomorrow:** launch a single holding or "request access" page (hero, three-audience chooser, Get started form, short compliance footer) on multiplier.club, after moving the legacy marketplace to ma.multiplier.club/uae with redirects.
+2. **Within days:** the three audience pages built from the wireframes with mocked screens, once the owner's screens and counsel's wording are in.
+3. **Then:** replace illustrative figures with real ones, add real screens, accessibility and performance pass, regional disclosures for the UAE, Malaysia and Mexico.
