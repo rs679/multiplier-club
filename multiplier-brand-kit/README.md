@@ -16,6 +16,7 @@ Multiplier is a curated alternative-assets deal platform. Advisers introduce vet
 | `design-system/components/` | React components (`Logo`, `Button`, `Tag`, `Field`, `Card`, `Nav`, `DealCard`) as a plain browser bundle, with CSS, TypeScript types, a README and a preview for each. |
 | `design-system/demo.html` | Open in a browser to see the components together on a sample page. |
 | `website-brief.md` | The website brief: goals, audiences, sitemap, page specs, decisions, requirements and open questions. |
+| `go-live-runbook.md` | Launch-day steps, blockers, rollback and what is still open. |
 | `guidelines/` | Brand guidelines: `brand-guidelines.md` (start here), `logo.md`, `voice.md`, `imagery.md`, `accessibility.md`. |
 
 ## Rules that must not be broken
