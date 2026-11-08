@@ -63,11 +63,15 @@ The new site client-side redirects these old paths to the same path on https://m
 - Photo credits and internal "draft/counsel" wording removed from public pages. Legal pages and Regional notices stay `noindex`.
 - 101 automated tests passed on the last build.
 
+**Added later on 8 Nov**
+- Real platform screenshots (fictional sample data) replace the "Example" mock-ups on Home, For investors, For sponsors and For advisers.
+- Company name set to Multiplier Private Markets Limited (Terms, Privacy policy, Organization data).
+- Email alerts for new requests via Brevo: build in progress. The owner enters four secrets in Lovable's secure form: BREVO_API_KEY, BREVO_SENDER_EMAIL (a verified Brevo sender), NOTIFY_EMAIL, BREVO_SENDER_NAME ("Multiplier website"). Then submit one test request, confirm the email, delete the test row.
+
 **Still open**
-1. Fill the bracketed placeholders: company name, registration number, address, emails, regulatory status, governing law, forum (About, Terms, Privacy, Regional notices, Request access).
-2. Email alerts for new requests are NOT built: Lovable has no domain-free sending option. Choose one: set up email sending for multiplier.club in Lovable, or use Brevo (one API key through Lovable's secure form). Send the notification address. Until then, check the `requests` table twice a day (Lovable, Cloud, Database, `requests`).
-3. Platform screenshots for the mock-ups: use `platform-ui-snippets-brief.md` with Codex, then add the images to the pages.
-4. Photo licence for the two owner-supplied photos (adviser meeting and investor building).
-5. Counsel review of the legal text and entry-dialog wording (owner decision on timing).
-6. Lovable's built-in visitor analytics left on (owner decision).
-7. Old marketplace (project 929dcce9): to be unpublished and its domains removed by the owner. `ma.multiplier.club` is no longer needed while it is offline.
+1. Fill the remaining bracketed placeholders: registration number, address, contact emails, jurisdiction, governing law, forum, regulatory status, dates and versions.
+2. Finish the Brevo secrets (above) and send a test.
+3. Photo licence for the two owner-supplied photos (adviser meeting and investor building).
+4. Counsel review of the legal text and entry-dialog wording (owner decision on timing).
+5. Lovable's built-in visitor analytics left on (owner decision).
+6. Old marketplace (project 929dcce9): to be unpublished and its domains removed by the owner.
