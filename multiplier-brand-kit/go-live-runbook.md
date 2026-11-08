@@ -15,7 +15,7 @@ Prepared for launch day. Nothing has been published and no domain has been chang
 
 1. **Counsel sign-off.** The footer disclosure, the draft Terms, Privacy, Risk warning and Cookies pages, and the regional notices for the UAE, Malaysia and Mexico must be reviewed. Replace the "to be confirmed by counsel" wording once approved.
 2. **Claims switch.** `src/config.ts` has `CLAIMS_APPROVED = false`. With false, the site shows launch-safe wording and hides the "AI-powered due diligence" and "vetted deals" sections. After counsel approves the exact wording, change it to `true` and republish. Do not flip it earlier.
-3. **Log in link.** `LOGIN_URL` in `src/config.ts` is empty, so no Log in button is shown. Set it to the platform URL when you have it (must start with https).
+3. **Log in link.** `LOGIN_URL` in `src/config.ts` is `"#"`, so no Log in button is shown. The platform URL is `https://app.multiplier.club/access`. Per the owner, it is NOT connected yet: set `LOGIN_URL` to that address only after go-live, when the owner says so.
 4. **Where requests go.** Form submissions are saved to the `requests` table in Lovable Cloud. There are no email alerts yet. Until alerts are set up, someone must check the table (Lovable project, Cloud, Database, `requests`) at least twice a day. Setting up alerts needs a sending domain.
 5. **Test submission.** Submit one test request on the preview, confirm it appears in the table, then delete the row.
 6. **Photo licensing.** Images are hotlinked from Unsplash and credited in the footer. Keep the credit line.
