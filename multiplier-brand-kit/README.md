@@ -14,6 +14,8 @@ Multiplier is a curated alternative-assets deal platform. Advisers introduce vet
 | `design-system/tokens.css` | The same tokens as CSS variables. Dark is the default; set `data-theme="light"` for light. |
 | `design-system/tailwind.preset.js` | Tailwind preset that maps the tokens to utilities. |
 | `design-system/components/` | React components (`Logo`, `Button`, `Tag`, `Field`, `Card`, `Nav`, `DealCard`) as a plain browser bundle, with CSS, TypeScript types, a README and a preview for each. |
+| `design-system/icons/` | The Multiplier icon set: 24 monoline SVG icons plus `icons.tsx` (React component). |
+| `design-system/product-scenes/` | Designed product scene images (WebP) and the HTML generator used to make them. |
 | `design-system/demo.html` | Open in a browser to see the components together on a sample page. |
 | `website-brief.md` | The website brief: goals, audiences, sitemap, page specs, decisions, requirements and open questions. |
 | `go-live-runbook.md` | Launch-day steps, blockers, rollback and what is still open. |
