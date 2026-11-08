@@ -17,6 +17,7 @@ Multiplier is a curated alternative-assets deal platform. Advisers introduce vet
 | `design-system/demo.html` | Open in a browser to see the components together on a sample page. |
 | `website-brief.md` | The website brief: goals, audiences, sitemap, page specs, decisions, requirements and open questions. |
 | `go-live-runbook.md` | Launch-day steps, blockers, rollback and what is still open. |
+| `platform-ui-snippets-brief.md` | Brief for Codex: marketing-safe platform screenshots from a demo mode. |
 | `guidelines/` | Brand guidelines: `brand-guidelines.md` (start here), `logo.md`, `voice.md`, `imagery.md`, `accessibility.md`. |
 
 ## Rules that must not be broken
