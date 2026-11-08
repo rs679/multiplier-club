@@ -13,6 +13,8 @@ Prepared for launch day. Nothing has been published and no domain has been chang
 
 ## Before you flip anything (blockers)
 
+0. **Entry confirmation and Insights (added 8 Nov).** The new site now shows a first-visit confirmation dialog (investor, sponsor or adviser, country, terms tick) and a cookie notice. Wording is in `src/content/gate.ts` and is a draft for counsel; confirmations are saved to the `visitor_records` table (insert only, not readable from the website). Insights lives at `/insights`; the three seeded articles are drafts with `published = false`, so the section is empty until you review them and set them to published (preview with `?preview=1`). The sitemap and `llms.txt` need regenerating after an article is published. Lovable's built-in visitor analytics is unchanged: decide whether to keep it on.
+
 1. **Counsel sign-off.** The footer disclosure, the draft Terms, Privacy, Risk warning and Cookies pages, and the regional notices for the UAE, Malaysia and Mexico must be reviewed. Replace the "to be confirmed by counsel" wording once approved.
 2. **Claims switch.** `src/config.ts` has `CLAIMS_APPROVED = false`. With false, the site shows launch-safe wording and hides the "AI-powered due diligence" and "vetted deals" sections. After counsel approves the exact wording, change it to `true` and republish. Do not flip it earlier.
 3. **Log in link.** `LOGIN_URL` in `src/config.ts` is `"#"`, so no Log in button is shown. The platform URL is `https://app.multiplier.club/access`. Per the owner, it is NOT connected yet: set `LOGIN_URL` to that address only after go-live, when the owner says so.
@@ -43,7 +45,7 @@ If anything is wrong after step 5: in the new project remove `multiplier.club` a
 
 ## Redirects
 
-The new site client-side redirects these old paths to the same path on https://ma.multiplier.club/uae: /browse, /valuation, /how-it-works, /list-your-business, /resources, /listing, /listings, /insights, /sign-in, /auth, /dashboard, /admin. These are not permanent (301) server redirects. If search ranking of old pages matters, set real 301 redirects at your DNS or CDN layer later.
+The new site client-side redirects these old paths to the same path on https://ma.multiplier.club/uae: /browse, /valuation, /how-it-works, /list-your-business, /resources, /listing, /listings, /sign-in, /auth, /dashboard, /admin. These are not permanent (301) server redirects. If search ranking of old pages matters, set real 301 redirects at your DNS or CDN layer later.
 
 ## What I could not do
 
@@ -51,15 +53,17 @@ The new site client-side redirects these old paths to the same path on https://m
 - Provide the platform Log in URL, the sending domain for email alerts, or counsel-approved wording.
 - Visually check the finished Lovable build: Lovable's preview could not be opened from my environment. Please review the previews yourself in step 1.
 
-## Build status (checked 2026-11-08 06:36 UTC)
+## Build status (updated 2026-11-08 11:50 UTC)
 
 **New site (project 73e4f557). Built, tested by Lovable, not published.**
-- Nine pages: Home, For investors, For sponsors, For advisers, Request access, Terms, Privacy, Risk warning, Cookies, plus the legacy-redirect catch-all.
+- Pages: Home, For investors, For sponsors, For advisers, Insights (index and articles), Request access, Terms, Privacy, Risk warning, Cookies, Not eligible, plus the legacy-redirect catch-all. `/insights` is no longer redirected to the marketplace.
 - Checked by Lovable at 1440, 390 and 360 px with no horizontal scroll; 21 automated tests passed (marketplace redirects, type pre-selection, form errors, launch rules). A real request was submitted and the test row deleted. Request storage and access rules are unchanged.
 - `src/config.ts` verified: `CLAIMS_APPROVED = false`, `LOGIN_URL = "#"` (Log in hidden), legacy prefixes set.
 - Lovable supplied short headings and FAQ answers where exact copy was not given. Read them before publishing.
 - Photographs are served through the project's own image service, not hotlinked.
-- Open: final legal text and regional notices (counsel); email alerts; platform Log in URL.
+- Added 8 Nov: entry confirmation, cookie preferences, Insights with FAQ and JSON-LD, RSS, sitemap and llms entries; 45 automated tests passed; checked at 1440, 390 and 360 px.
+- New investor photo (supplied by the owner) is being swapped in; licence and credit still to be confirmed.
+- Open: final legal text and regional notices (counsel); email alerts (also for newsletter signups); platform Log in URL.
 
 **Legacy marketplace (project 929dcce9). Prepared, tested by Lovable, not published.**
 - Router base path `/uae` applies only on hosts starting with `ma.`; on every other host the app behaves as before. A notice bar appears only on the `ma.` host. Canonical URLs, sitemap, robots and llms files use the new address.
