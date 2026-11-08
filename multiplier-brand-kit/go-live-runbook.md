@@ -17,7 +17,7 @@ Prepared for launch day. Nothing has been published and no domain has been chang
 
 1. **Counsel sign-off.** The footer disclosure, the draft Terms, Privacy, Risk warning and Cookies pages, and the regional notices for the UAE, Malaysia and Mexico must be reviewed. Replace the "to be confirmed by counsel" wording once approved.
 2. **Claims switch.** `src/config.ts` has `CLAIMS_APPROVED = false`. With false, the site shows launch-safe wording and hides the "AI-powered due diligence" and "vetted deals" sections. After counsel approves the exact wording, change it to `true` and republish. Do not flip it earlier.
-3. **Log in link.** `LOGIN_URL` in `src/config.ts` is `"#"`, so no Log in button is shown. The platform URL is `https://app.multiplier.club/access`. Per the owner, it is NOT connected yet: set `LOGIN_URL` to that address only after go-live, when the owner says so.
+3. **Log in link.** Connected (8 Nov): `LOGIN_URL` in `src/config.ts` is `https://app.multiplier.club/access`, and Log in shows in the header, mobile menu and footer.
 4. **Where requests go.** Form submissions are saved to the `requests` table in Lovable Cloud. There are no email alerts yet. Until alerts are set up, someone must check the table (Lovable project, Cloud, Database, `requests`) at least twice a day. Setting up alerts needs a sending domain.
 5. **Test submission.** Submit one test request on the preview, confirm it appears in the table, then delete the row.
 6. **Photo licensing.** Images are hotlinked from Unsplash and credited in the footer. Keep the credit line.
@@ -53,25 +53,21 @@ The new site client-side redirects these old paths to the same path on https://m
 - Provide the platform Log in URL, the sending domain for email alerts, or counsel-approved wording.
 - Visually check the finished Lovable build: Lovable's preview could not be opened from my environment. Please review the previews yourself in step 1.
 
-## Build status (updated 2026-11-08 11:50 UTC)
+## Build status (updated 2026-11-08, evening)
 
-**New site (project 73e4f557). Built, tested by Lovable, not published.**
-- Pages: Home, For investors, For sponsors, For advisers, Insights (index and articles), Request access, Terms, Privacy, Risk warning, Cookies, Not eligible, plus the legacy-redirect catch-all. `/insights` is no longer redirected to the marketplace.
-- Checked by Lovable at 1440, 390 and 360 px with no horizontal scroll; 21 automated tests passed (marketplace redirects, type pre-selection, form errors, launch rules). A real request was submitted and the test row deleted. Request storage and access rules are unchanged.
-- `src/config.ts` verified: `CLAIMS_APPROVED = false`, `LOGIN_URL = "#"` (Log in hidden), legacy prefixes set.
-- Lovable supplied short headings and FAQ answers where exact copy was not given. Read them before publishing.
-- Photographs are served through the project's own image service, not hotlinked.
-- Added 8 Nov: entry confirmation, cookie preferences, Insights with FAQ and JSON-LD, RSS, sitemap and llms entries; 45 automated tests passed; checked at 1440, 390 and 360 px.
-- New investor photo (supplied by the owner) is being swapped in; licence and credit still to be confirmed.
-- Open: final legal text and regional notices (counsel); email alerts (also for newsletter signups); platform Log in URL.
+**New site (project 73e4f557). Live on multiplier.club. Published after each batch below.**
+- Pages: Home, For investors, For sponsors, For advisers, Insights (15 published articles), About, FAQ, Regional notices, Request access, Terms of use, Privacy policy, Risk warning, Cookie policy, Not eligible, plus the legacy-path catch-all (old marketplace paths now go to Home; flip `LEGACY_MARKETPLACE_LIVE` to restore the marketplace redirect).
+- Entry confirmation (status, country, tick), cookie notice and preferences. Records go to `visitor_records` (insert only). One native country select with UAE, Malaysia and Mexico first.
+- Request form: asks a few questions that depend on type; answers are stored in `requests.details` (jsonb). Access rules unchanged (insert only with consent; no read policy).
+- Insights: each article has a summary, question headings, visible FAQ, FAQPage, Article and Breadcrumb data, plus RSS, sitemap and llms.txt. Sitemap and llms.txt are static files: after adding or unpublishing an article, regenerate them with `scripts/update-insight-feeds.ts`.
+- Photo credits and internal "draft/counsel" wording removed from public pages. Legal pages and Regional notices stay `noindex`.
+- 101 automated tests passed on the last build.
 
-**Legacy marketplace (project 929dcce9). Prepared, tested by Lovable, not published.**
-- Router base path `/uae` applies only on hosts starting with `ma.`; on every other host the app behaves as before. A notice bar appears only on the `ma.` host. Canonical URLs, sitemap, robots and llms files use the new address.
-- Nine address tests passed; phone layout and error checks passed.
-- Known exceptions to handle at switch time:
-  1. **Auth redirects.** In the legacy project's Cloud authentication settings, add `https://ma.multiplier.club/uae` (and its sign-in and sign-up paths) to the allowed redirect URLs before users try to sign in on the new host. Sign-in on the new host is unverified until you do this.
-  2. **Notification emails.** Emails sent by the backend still link to multiplier.club paths. They will land on the new site, which redirects them to the marketplace, so links keep working. Update the email templates later.
-  3. **Static head metadata** keeps the current-host fallback until the app runs; search engines read the updated URLs from the app and from the sitemap.
-  4. `ma.multiplier.club` must serve `robots.txt` at the host root (it will, once the domain is attached).
-
-Add to the go-live sequence, between steps 3 and 4: add the auth redirect URLs for the new host (item 1 above).
+**Still open**
+1. Fill the bracketed placeholders: company name, registration number, address, emails, regulatory status, governing law, forum (About, Terms, Privacy, Regional notices, Request access).
+2. Email alerts for new requests are NOT built: Lovable has no domain-free sending option. Choose one: set up email sending for multiplier.club in Lovable, or use Brevo (one API key through Lovable's secure form). Send the notification address. Until then, check the `requests` table twice a day (Lovable, Cloud, Database, `requests`).
+3. Platform screenshots for the mock-ups: use `platform-ui-snippets-brief.md` with Codex, then add the images to the pages.
+4. Photo licence for the two owner-supplied photos (adviser meeting and investor building).
+5. Counsel review of the legal text and entry-dialog wording (owner decision on timing).
+6. Lovable's built-in visitor analytics left on (owner decision).
+7. Old marketplace (project 929dcce9): to be unpublished and its domains removed by the owner. `ma.multiplier.club` is no longer needed while it is offline.
