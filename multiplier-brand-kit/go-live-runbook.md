@@ -68,6 +68,10 @@ The new site client-side redirects these old paths to the same path on https://m
 - Company name set to Multiplier Private Markets Limited (Terms, Privacy policy, Organization data).
 - Email alerts for new requests via Brevo are built and published. Each new request triggers a server-side email with the answers and Reply-To set to the visitor. The database trigger posts to `https://multiplier.club/api/public/request-alert`; if the primary domain ever changes, update `queue_request_alert()` with a new migration (the database cannot follow redirects). `BREVO_SENDER_NAME` is saved. **Owner action:** add `BREVO_API_KEY`, `BREVO_SENDER_EMAIL` (a verified Brevo sender) and `NOTIFY_EMAIL` in Lovable, Project Settings, Secrets. Then submit one test request, confirm the email, and delete the test row. Until the secrets are added, requests are still saved but no email is sent: check the `requests` table.
 
+- **Design (8 Nov, late):** the platform screenshots were replaced by drawn, abstract interface fragments and brand-geometry illustrations (inline SVG, `src/components/site/ui-art.tsx`): no names, numbers, money or percentages, so nothing reads as a product claim. The Codex screenshots and brief remain in this kit but are not used on the site.
+- **Request form:** the "how did you hear about us" question is removed. Country is now the full alphabetical list (`src/content/countries.ts`), shared with the entry dialog. Availability wording changed to "available to eligible investors worldwide, subject to local rules".
+- **Public-page hygiene:** no bracketed placeholders or internal notes on public pages other than the four legal pages and Regional notices; a test enforces this. About shows only the company name until further facts are supplied.
+
 **Still open**
 1. Fill the remaining bracketed placeholders: registration number, address, contact emails, jurisdiction, governing law, forum, regulatory status, dates and versions.
 2. Add the three Brevo secrets (above) and send a test request.
