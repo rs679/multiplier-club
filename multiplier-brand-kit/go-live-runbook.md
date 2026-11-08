@@ -51,6 +51,23 @@ The new site client-side redirects these old paths to the same path on https://m
 - Provide the platform Log in URL, the sending domain for email alerts, or counsel-approved wording.
 - Visually check the finished Lovable build: Lovable's preview could not be opened from my environment. Please review the previews yourself in step 1.
 
-## Build status
+## Build status (checked 2026-11-08 06:36 UTC)
 
-See the chat summary for the latest status of the final build and the legacy preparation, including any item Lovable could not complete.
+**New site (project 73e4f557). Built, tested by Lovable, not published.**
+- Nine pages: Home, For investors, For sponsors, For advisers, Request access, Terms, Privacy, Risk warning, Cookies, plus the legacy-redirect catch-all.
+- Checked by Lovable at 1440, 390 and 360 px with no horizontal scroll; 21 automated tests passed (marketplace redirects, type pre-selection, form errors, launch rules). A real request was submitted and the test row deleted. Request storage and access rules are unchanged.
+- `src/config.ts` verified: `CLAIMS_APPROVED = false`, `LOGIN_URL = "#"` (Log in hidden), legacy prefixes set.
+- Lovable supplied short headings and FAQ answers where exact copy was not given. Read them before publishing.
+- Photographs are served through the project's own image service, not hotlinked.
+- Open: final legal text and regional notices (counsel); email alerts; platform Log in URL.
+
+**Legacy marketplace (project 929dcce9). Prepared, tested by Lovable, not published.**
+- Router base path `/uae` applies only on hosts starting with `ma.`; on every other host the app behaves as before. A notice bar appears only on the `ma.` host. Canonical URLs, sitemap, robots and llms files use the new address.
+- Nine address tests passed; phone layout and error checks passed.
+- Known exceptions to handle at switch time:
+  1. **Auth redirects.** In the legacy project's Cloud authentication settings, add `https://ma.multiplier.club/uae` (and its sign-in and sign-up paths) to the allowed redirect URLs before users try to sign in on the new host. Sign-in on the new host is unverified until you do this.
+  2. **Notification emails.** Emails sent by the backend still link to multiplier.club paths. They will land on the new site, which redirects them to the marketplace, so links keep working. Update the email templates later.
+  3. **Static head metadata** keeps the current-host fallback until the app runs; search engines read the updated URLs from the app and from the sitemap.
+  4. `ma.multiplier.club` must serve `robots.txt` at the host root (it will, once the domain is attached).
+
+Add to the go-live sequence, between steps 3 and 4: add the auth redirect URLs for the new host (item 1 above).
