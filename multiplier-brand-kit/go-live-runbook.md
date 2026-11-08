@@ -66,11 +66,11 @@ The new site client-side redirects these old paths to the same path on https://m
 **Added later on 8 Nov**
 - Real platform screenshots (fictional sample data) replace the "Example" mock-ups on Home, For investors, For sponsors and For advisers.
 - Company name set to Multiplier Private Markets Limited (Terms, Privacy policy, Organization data).
-- Email alerts for new requests via Brevo: build in progress. The owner enters four secrets in Lovable's secure form: BREVO_API_KEY, BREVO_SENDER_EMAIL (a verified Brevo sender), NOTIFY_EMAIL, BREVO_SENDER_NAME ("Multiplier website"). Then submit one test request, confirm the email, delete the test row.
+- Email alerts for new requests via Brevo are built and published. Each new request triggers a server-side email with the answers and Reply-To set to the visitor. The database trigger posts to `https://multiplier.club/api/public/request-alert`; if the primary domain ever changes, update `queue_request_alert()` with a new migration (the database cannot follow redirects). `BREVO_SENDER_NAME` is saved. **Owner action:** add `BREVO_API_KEY`, `BREVO_SENDER_EMAIL` (a verified Brevo sender) and `NOTIFY_EMAIL` in Lovable, Project Settings, Secrets. Then submit one test request, confirm the email, and delete the test row. Until the secrets are added, requests are still saved but no email is sent: check the `requests` table.
 
 **Still open**
 1. Fill the remaining bracketed placeholders: registration number, address, contact emails, jurisdiction, governing law, forum, regulatory status, dates and versions.
-2. Finish the Brevo secrets (above) and send a test.
+2. Add the three Brevo secrets (above) and send a test request.
 3. Photo licence for the two owner-supplied photos (adviser meeting and investor building).
 4. Counsel review of the legal text and entry-dialog wording (owner decision on timing).
 5. Lovable's built-in visitor analytics left on (owner decision).
