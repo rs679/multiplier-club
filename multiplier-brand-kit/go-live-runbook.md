@@ -66,15 +66,23 @@ The new site client-side redirects these old paths to the same path on https://m
 **Added later on 8 Nov**
 - Real platform screenshots (fictional sample data) replace the "Example" mock-ups on Home, For investors, For sponsors and For advisers.
 - Company name set to Multiplier Private Markets Limited (Terms, Privacy policy, Organization data).
-- Email alerts for new requests via Brevo are built and published. Each new request triggers a server-side email with the answers and Reply-To set to the visitor. The database trigger posts to `https://multiplier.club/api/public/request-alert`; if the primary domain ever changes, update `queue_request_alert()` with a new migration (the database cannot follow redirects). `BREVO_SENDER_NAME` is saved. **Owner action:** add `BREVO_API_KEY`, `BREVO_SENDER_EMAIL` (a verified Brevo sender) and `NOTIFY_EMAIL` in Lovable, Project Settings, Secrets. Then submit one test request, confirm the email, and delete the test row. Until the secrets are added, requests are still saved but no email is sent: check the `requests` table.
+- Email alerts for new requests via Brevo are built and published. Each new request triggers a server-side email with the answers and Reply-To set to the visitor. The database trigger posts to `https://multiplier.club/api/public/request-alert`; if the primary domain ever changes, update `queue_request_alert()` with a new migration (the database cannot follow redirects). `BREVO_SENDER_NAME` is saved. The four Brevo secrets are saved and a test email was received (9 Nov). If an email ever fails, the request is still saved: check the `requests` table.
 
 - **Design (8 Nov, late):** the platform screenshots were replaced by drawn, abstract interface fragments and brand-geometry illustrations (inline SVG, `src/components/site/ui-art.tsx`): no names, numbers, money or percentages, so nothing reads as a product claim. The Codex screenshots and brief remain in this kit but are not used on the site.
 - **Request form:** the "how did you hear about us" question is removed. Country is now the full alphabetical list (`src/content/countries.ts`), shared with the entry dialog. Availability wording changed to "available to eligible investors worldwide, subject to local rules".
 - **Public-page hygiene:** no bracketed placeholders or internal notes on public pages other than the four legal pages and Regional notices; a test enforces this. About shows only the company name until further facts are supplied.
 
+**Design pass 9 Nov (published)**
+- Product scenes: the abstract fragments were replaced by designed product scenes (HTML/CSS drawn in Geist, exported to WebP; sources and builders in `design-system/product-scenes/`, `build-scenes-v2.py`). Hero overlays are shown at their real 646px display width, panels full width. On phones they are cropped (not shrunk) so text stays legible. All data is fictional and there are no captions. The footer carries one disclosure sentence that images, deals and examples are for illustration only; Terms clause 8 covers the same.
+- Shadows: the "no shadows" brand rule is deliberately relaxed for the product scenes only; the rest of the site stays flat.
+- Investor page deal cards look like real listings (fictional names, round sample minimums, status). Check the invented firm names do not match real firms before relying on them.
+- Icon set: 24 monoline icons (one teal node) in `src/components/site/icons.tsx` replace the 01/02/03 numerals in process sections. SVG sources in `design-system/icons/`.
+- Home headline is now "Private market access, curated." with eyebrow "For investors, sponsors and advisers"; page title and meta updated.
+- Mobile QA at 390x844 and 360x640 and desktop overlap checks at 1024, 1280 and 1440 passed; 126 tests pass.
+
 **Still open**
 1. Fill the remaining bracketed placeholders: registration number, address, contact emails, jurisdiction, governing law, forum, regulatory status, dates and versions.
-2. Add the three Brevo secrets (above) and send a test request.
+2. (Done) Brevo alert emails confirmed working.
 3. Photo licence for the two owner-supplied photos (adviser meeting and investor building).
 4. Counsel review of the legal text and entry-dialog wording (owner decision on timing).
 5. Lovable's built-in visitor analytics left on (owner decision).
