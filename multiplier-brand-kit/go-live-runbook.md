@@ -80,6 +80,13 @@ The new site client-side redirects these old paths to the same path on https://m
 - Home headline is now "Private market access, curated." with eyebrow "For investors, sponsors and advisers"; page title and meta updated.
 - Mobile QA at 390x844 and 360x640 and desktop overlap checks at 1024, 1280 and 1440 passed; 126 tests pass.
 
+**9 Nov (later): mobile, Insights, legal**
+- Mobile product visuals: six dedicated mobile cards (`design-system/product-scenes/mobile/`, builder `build3.py`) replace the cropped desktop scenes below 1024px. Hero photo and card are one grouped unit; panels below 640px use the same cards. Desktop is unchanged.
+- Mobile header: logo and menu only; "Request access" and "Log in" are at the top of the menu.
+- Insights filters are now Asset class and Region (typed fields `assetClass`, `region` on each article). Region shows once any article is not Global. Old `?category=` links redirect.
+- Legal pages strengthened (Terms, Risk warning, Privacy, Cookie policy, Regional notices, an "Important information" block). Placeholders are unchanged. **Have a solicitor read these before relying on them**, along with the sponsor screening wording.
+- Subscribe form: reads the entry status as the user type and adds subscribers to the matching Brevo list via `BREVO_LIST_IDS` (`investor:6,sponsor:7,adviser:8`). Brevo domain authentication and a separate `updates@` sender should be done before any campaign.
+
 **Still open**
 1. Fill the remaining bracketed placeholders: registration number, address, contact emails, jurisdiction, governing law, forum, regulatory status, dates and versions.
 2. (Done) Brevo alert emails confirmed working.
