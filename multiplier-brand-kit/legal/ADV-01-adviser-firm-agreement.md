@@ -65,15 +65,18 @@ D. Sponsors pay fees to Multiplier. Multiplier shares part of those fees with yo
 
 1.1.8 **Confidential Information** has the meaning given in clause 18.1.
 
-1.1.9 **Content and Marketing Guidelines** means Multiplier's Content and Marketing Guidelines for advisers and sponsors, as published on the Platform and updated from time to time.
+1.1.9 **Content and Marketing Guidelines** means Multiplier's Content and Marketing Guidelines for advisers and sponsors (MPL-PLT-06), as published on the Platform and updated from time to time.
 
 1.1.10 **Data Protection Laws** means all Applicable Law relating to the processing of personal data, including [PLACEHOLDER: principal data protection laws, e.g. the data protection law of Multiplier's jurisdiction and, where relevant, the EU and UK GDPR].
 
-1.1.11 **Data Sharing Schedule** means Schedule 2, which incorporates the Multiplier Data Sharing Agreement (controller to controller) [PLACEHOLDER: document ID] as it applies to Adviser Firms.
+1.1.11 **Data Sharing Schedule** means the Multiplier Data Sharing Schedule (controller to controller) (MPL-PLT-04), which is incorporated into this Agreement as Schedule 2.
 
 1.1.12 **Deal Fees** means success fees actually received in cleared funds by Multiplier from a Sponsor in respect of Funded Investments made by Introduced Investors, net of:
+
 (a) VAT and any other sales, goods and services or similar taxes, and any taxes withheld or deducted by the Sponsor;
+
 (b) any amount refunded, credited or repaid by Multiplier to the Sponsor or an Investor; and
+
 (c) any chargeback, reversal or recall of a payment.
 
 Deal Fees do not include screening fees, listing fees or any other fee paid to Multiplier by a Sponsor that is not a success fee calculated on a Funded Investment. [OPTION A: screening and listing fees are excluded from Deal Fees (recommended) / OPTION B: listing fees attributable to a Product are included in Deal Fees in the proportion that Funded Investments by Introduced Investors bear to all funded investments in that Product, as set out in the Fee Schedule]
@@ -83,8 +86,11 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 1.1.14 **Fee Schedule** means the Adviser Fee Schedule (MPL-ADV-02) in the version that applies under clause 26, including any Product Fee Line.
 
 1.1.15 **Funded Investment** means a subscription for, or commitment to, a Product by an Investor that:
+
 (a) the Sponsor (or its administrator) has accepted;
+
 (b) has been paid for, or (for a commitment-based Product) in respect of which capital has been drawn, in cleared funds to the Sponsor, its administrator or an escrow agent; and
+
 (c) has closed or settled under the Product's documents, with any cancellation or cooling-off period under the Product's documents or Applicable Law having expired.
 
 1.1.16 **Holdback** has the meaning given in clause 13.1.
@@ -103,7 +109,7 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 
 1.1.23 **Platform-Introduced Party** means any Sponsor, issuer, manager, general partner, arranger or Product, and any of their Affiliates, successor or parallel vehicles, that you or any of your Authorised Users or Affiliates first became aware of, were introduced to, or received information about through the Platform, other than a party listed on your Pre-existing Relationship Register under clause 15.3.
 
-1.1.24 **Platform Terms** means the Multiplier Platform Terms of Use [PLACEHOLDER: document ID], which apply to all users of the Platform.
+1.1.24 **Platform Terms** means the Multiplier Platform Terms of Use (MPL-PLT-01), which apply to all users of the Platform.
 
 1.1.25 **Points Rules** means the Adviser Points and Leaderboard Rules (MPL-ADV-04).
 
@@ -125,7 +131,7 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 
 1.1.34 **Self-Billing Agreement** means the Self-Billing Agreement (MPL-ADV-06), where entered into.
 
-1.1.35 **Sponsor** means a sponsor, issuer, manager, general partner or arranger of a Product that has a listing agreement with Multiplier.
+1.1.35 **Sponsor** means a sponsor, issuer, manager, general partner or arranger of a Product that has signed a Sponsor Listing Agreement (MPL-SPN-02) with Multiplier.
 
 1.1.36 **Term** means the period from the Effective Date until this Agreement ends.
 
@@ -138,23 +144,37 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 ## 2. Documents forming this Agreement
 
 2.1 This Agreement is made up of:
+
 2.1.1 these terms;
+
 2.1.2 Schedule 1 (the Fee Schedule, MPL-ADV-02), including each Product Fee Line;
+
 2.1.3 Schedule 2 (the Data Sharing Schedule);
+
 2.1.4 the Referral Programme Rules (MPL-ADV-03), if you take part in the Referral Programme;
+
 2.1.5 the Points Rules (MPL-ADV-04), if you or any Authorised User opts into the leaderboard;
+
 2.1.6 the Self-Billing Agreement (MPL-ADV-06), if entered into; and
+
 2.1.7 the Content and Marketing Guidelines, which are incorporated by reference.
 
 2.2 The Platform Terms also apply to your use of the Platform. Each of your Authorised Users must accept the Authorised User Terms.
 
 2.3 If there is a conflict between these documents, the following order applies (highest first):
+
 2.3.1 for fees on a particular Product, the Product Fee Line;
+
 2.3.2 for fees and payment generally, the Fee Schedule;
+
 2.3.3 for Overrides, the Referral Programme Rules, and for invoicing, the Self-Billing Agreement;
+
 2.3.4 these terms and the Data Sharing Schedule;
+
 2.3.5 the Points Rules;
+
 2.3.6 the Content and Marketing Guidelines;
+
 2.3.7 the Platform Terms.
 
 2.4 Nothing in a lower-ranking document reduces the protections given to Multiplier in clauses 13, 15, 22 and 23 of these terms.
@@ -174,8 +194,11 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 3.6 **Sub-introducers.** You must not appoint any sub-introducer, sub-distributor, finder or other third party to introduce Investors or Products under this Agreement, and must not share any Adviser Share with any person who is not your employee or a regulated Affiliate, without Multiplier's prior written consent.
 
 3.7 **Conditions to commercial use.** You may share Products and earn the Adviser Share only once:
+
 3.7.1 Multiplier has countersigned this Agreement;
+
 3.7.2 Multiplier has completed its onboarding checks on you under clause 4; and
+
 3.7.3 the Authorised User concerned has accepted the Authorised User Terms.
 
 [OPTION A: no commercial actions before all conditions are met (recommended) / OPTION B: Multiplier may permit limited access, such as viewing Product summaries, before countersignature, but no sharing or attribution until all conditions are met]
@@ -195,19 +218,29 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 ## 5. Your regulatory warranties and undertakings
 
 5.1 You warrant, on the Effective Date and on each day of the Term, that:
+
 5.1.1 you are duly incorporated and validly existing, and you have full power and authority to enter into and perform this Agreement;
+
 5.1.2 you hold, and will maintain, all Regulatory Permissions needed to advise and deal with your clients on Products in each jurisdiction where you operate or where your clients are located, and you will act only within the scope of those Regulatory Permissions;
+
 5.1.3 the information you have given Multiplier about yourself, your Regulatory Permissions and your Authorised Users is complete, accurate and not misleading;
+
 5.1.4 you are not, and none of your senior managers is, the subject of any current or threatened regulatory investigation, enforcement action, disciplinary proceeding, licence restriction or criminal proceeding that you have not disclosed to Multiplier in writing;
+
 5.1.5 under the rules that apply to you, you are permitted to receive the Adviser Share and any Override, or you will use the waiver election in clause 11.6; and
+
 5.1.6 entering into and performing this Agreement does not breach any other agreement binding on you or any Applicable Law.
 
 5.2 **Professional indemnity insurance.** You must maintain, with a reputable insurer, professional indemnity insurance covering your advisory and distribution activities (including those under this Agreement) with a limit of not less than [PLACEHOLDER: minimum PI insurance amount and currency] per claim and in the aggregate, or any higher amount required by your Regulator, throughout the Term and for [PLACEHOLDER: number] years after it ends. You must provide evidence of this insurance on request and tell Multiplier promptly if it is cancelled, not renewed or materially reduced.
 
 5.3 **Notifications.** You must tell Multiplier in writing:
+
 5.3.1 immediately (and in any case within [2] Business Days) if any of your Regulatory Permissions is withdrawn, suspended, restricted or made subject to conditions that affect this Agreement, or if you become a Sanctioned Person or suffer an Insolvency Event;
+
 5.3.2 within [5] Business Days if you become aware of any regulatory investigation, enforcement action, disciplinary proceeding or criminal proceeding against you or any Authorised User, to the extent Applicable Law allows you to tell us;
+
 5.3.3 within [5] Business Days if you receive a complaint, claim or regulatory enquiry about a Product or an Introduced Investor's investment made through the Platform, giving the information Multiplier reasonably needs to deal with any consequences for the Platform or the Sponsor; and
+
 5.3.4 promptly, of any breach of this Agreement by you or any Authorised User.
 
 5.4 **Regulatory cooperation.** You must cooperate with any reasonable request from Multiplier, a Sponsor or a Regulator for information relating to Introduced Investors' investments made through the Platform, subject to Applicable Law and the Data Sharing Schedule.
@@ -220,13 +253,19 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 
 6.3 **Client communications.** You are responsible for all communications between you and your clients, including the accuracy and fairness of anything you say about a Product. You must give each client the Product's offering documents and risk warnings as shown on the Platform, and must not alter, summarise in a misleading way, or selectively omit any part of them.
 
-6.4 **Remuneration disclosure.** You must disclose to each client, in the form and at the time required by the rules that apply to you, the remuneration you receive or may receive in connection with that client's investment, including the Adviser Share and, where relevant, any Override. You consent to Multiplier disclosing to Investors, Sponsors and Regulators that it receives fees from Sponsors and shares them with advisers, and the amount or basis of the Adviser Share and any Override, in its Investor documents, remuneration statements and any other disclosure that Multiplier considers appropriate or is required to make.
+6.4 **Remuneration disclosure.** You must disclose to each client, in the form and at the time required by the rules that apply to you, the remuneration you receive or may receive in connection with that client's investment, including the Adviser Share and, where relevant, any Override. You consent to Multiplier disclosing to Investors, Sponsors and Regulators that it receives fees from Sponsors and shares them with advisers, and the amount or basis of the Adviser Share and any Override, in the Investor Terms (MPL-INV-01) and other Investor documents, remuneration statements and any other disclosure that Multiplier considers appropriate or is required to make.
 
 6.5 **Conflicts of interest.** You must identify and manage any conflict of interest arising from the Adviser Share, any Override, any Points or rewards under the Points Rules, or any other benefit, in accordance with your rules. You must not recommend a Product, or prefer one Product over another, because of the fee or any benefit you may receive.
 
 6.6 **No guarantees or return claims.** You must not give any guarantee, or tell any person in any form that any Product carries no risk, that its returns or the return of capital are certain, or that capital is protected (unless the Product's documents expressly provide capital protection and you describe it accurately, including who provides it and its limits). You must not make any forecast, projection or claim about returns other than as set out in the Product's own documents and with their risk warnings.
 
-6.7 **Complaints.** You handle complaints about your advice and your dealings with your clients under your own complaints procedure. Complaints about a Product belong with its Sponsor, and complaints about the Platform belong with Multiplier under the Multiplier Complaints Policy. You must pass on promptly any complaint you receive that belongs with Multiplier or a Sponsor, where Applicable Law allows.
+6.7 **Complaints.** You handle complaints about your advice and your dealings with your clients under your own complaints procedure. Complaints about a Product belong with its Sponsor, and complaints about the Platform belong with Multiplier under the Multiplier Complaints Policy (MPL-PLT-05). You must:
+
+6.7.1 pass on to Multiplier or the Sponsor (as the case may be), within [5] Business Days and where Applicable Law allows, any complaint you receive that belongs with them;
+
+6.7.2 cooperate with Multiplier and the Sponsor on any complaint that involves more than one party, including by providing information and documents that Multiplier reasonably asks for within [10] Business Days of the request (or sooner if a Regulator or ombudsman deadline requires); and
+
+6.7.3 tell Multiplier within [5] Business Days if a complaint about your advice on a Product bought through the Platform is upheld, or is referred to an ombudsman or Regulator.
 
 ## 7. Sharing Products and marketing
 
@@ -237,9 +276,13 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 7.3 **Financial promotion compliance.** You are responsible for ensuring that each communication you make about a Product complies with the financial promotion, marketing and private placement rules that apply to you and to the recipient's jurisdiction. Using a Platform template or neutral invitation does not transfer that responsibility to Multiplier.
 
 7.4 **Content and Marketing Guidelines.** You must comply, and ensure your Authorised Users comply, with the Content and Marketing Guidelines. In particular, you must:
+
 7.4.1 use Multiplier's name, logo and marks only in the form and for the purposes the Content and Marketing Guidelines allow;
+
 7.4.2 not suggest that Multiplier endorses, recommends or stands behind any Product, describe Multiplier's screening as anything other than the screening wording in clause 9.2, or suggest that Multiplier has carried out due diligence on a Product for you or your clients;
+
 7.4.3 not publish any public advertisement, social media post or mass communication about a specific Product without Multiplier's prior written consent and, where required, the Sponsor's; and
+
 7.4.4 not describe yourself as acting for, employed by or partnered with Multiplier.
 
 7.5 **Unsolicited approaches.** You must not use the Platform to make unsolicited approaches to persons who are not your clients or prospective clients in breach of Applicable Law.
@@ -263,11 +306,17 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 9.2 **Screening.** We screen sponsors and issuers for regulatory status and track record before listing. We do not underwrite, recommend or endorse any individual product. Multiplier does not warrant the accuracy or completeness of any Product information, which is provided by the Sponsor and is the Sponsor's responsibility.
 
 9.3 **What Multiplier will do.** Multiplier will:
+
 9.3.1 make the Platform available to you and your Authorised Users in accordance with the Platform Terms, using reasonable skill and care;
+
 9.3.2 apply its published screening standard to Sponsors before listing their Products;
+
 9.3.3 operate eligibility and access controls on the Platform based on the selling restrictions that Sponsors give it and the declarations that Investors make;
+
 9.3.4 keep records of invitations, shares, Investor attributions and Funded Investments reported to it;
+
 9.3.5 take reasonable steps to collect the success fees payable by Sponsors on Funded Investments; and
+
 9.3.6 pay you the Adviser Share in accordance with this Agreement.
 
 9.4 **No guarantee of outcomes.** Multiplier does not promise that any Product will be listed or remain listed, that any Investor will be accepted, that any amount will be raised, that any Sponsor will pay its fees, or that the Platform will be uninterrupted or error-free. Multiplier may refuse, suspend or remove any Product or Sponsor at any time.
@@ -279,7 +328,9 @@ Deal Fees do not include screening fees, listing fees or any other fee paid to M
 ## 10. Attribution of Investors
 
 10.1 **Introduced Investors.** An Investor is attributed to you (and is an **Introduced Investor**) where, according to the Platform's records:
+
 10.1.1 the Investor registered on the Platform using an invitation sent by one of your Authorised Users through the Platform; or
+
 10.1.2 the Investor has linked their Platform account to your firm as their adviser, with the Investor's consent recorded on the Platform,
 
 and the attribution has not ended under clause 10.4.
@@ -306,7 +357,7 @@ and the attribution has not ended under clause 10.4.
 
 11.6 **Waiver election.** If the rules that apply to you (for example, rules for independent advice or discretionary portfolio management) prevent you from receiving or retaining third-party payments in respect of some or all of your clients, you may elect on the Platform, for those clients or Products, not to receive the Adviser Share. Where you make that election, [OPTION A: Multiplier will retain the amount that would have been the Adviser Share / OPTION B: Multiplier will ask the Sponsor to reduce the success fee charged in respect of that Investor's Funded Investment by the amount of the Adviser Share, where the Product's documents allow / OPTION C: as set out in the Product Fee Line]. You are responsible for deciding whether to make the election.
 
-> Drafting note: Option B is the investor-friendly route favoured where advisers act on an independent or discretionary basis. It needs a corresponding provision in the Sponsor Listing Agreement and Product Listing Schedule. Counsel should confirm that, under Option A, the retention by Multiplier does not itself create an inducement issue for the adviser.
+> Drafting note: Option B is the investor-friendly route favoured where advisers act on an independent or discretionary basis. It needs a corresponding provision in the Sponsor Listing Agreement (MPL-SPN-02) and the Product Listing Schedule (MPL-SPN-03). Counsel should confirm that, under Option A, the retention by Multiplier does not itself create an inducement issue for the adviser.
 
 ## 12. Payment mechanics, invoicing and tax
 
@@ -321,7 +372,9 @@ and the attribution has not ended under clause 10.4.
 12.5 **Currency and FX.** Multiplier will pay you in your payout currency. Where Multiplier receives Deal Fees in a different currency, it will convert them at the rate obtained by Multiplier or its payment provider on the date of conversion, which will be on or around the date of payment to you. [OPTION A: conversion and bank charges are borne by you / OPTION B: conversion costs are borne by Multiplier and bank charges of the receiving bank are borne by you]. Multiplier is not responsible for exchange rate movements between receipt of Deal Fees and payment to you.
 
 12.6 **Invoicing.** For each payment, either:
+
 12.6.1 you issue a valid invoice to Multiplier, addressed as Multiplier specifies and meeting the requirements of Applicable Law; or
+
 12.6.2 where you and Multiplier have entered into the Self-Billing Agreement (MPL-ADV-06), Multiplier issues a self-billed invoice on your behalf.
 
 Multiplier is not obliged to pay any amount until a valid invoice has been issued under clause 12.6.1 or 12.6.2.
@@ -343,15 +396,23 @@ Multiplier is not obliged to pay any amount until a valid invoice has been issue
 13.2 **Purpose.** The Holdback and Clawback reflect that Deal Fees may later be refunded, reclaimed or found not to have been properly earned.
 
 13.3 **Clawback Events.** Each of the following is a **Clawback Event** for a Funded Investment:
+
 13.3.1 the Sponsor refunds, reclaims, sets off, or requires Multiplier to repay, all or part of the success fee relating to it, for any reason;
+
 13.3.2 the subscription is cancelled, rescinded, unwound or reduced, including under a cooling-off right or because the Sponsor or administrator later rejects the Investor;
+
 13.3.3 the Introduced Investor redeems, sells back or otherwise exits all or part of the investment within [X] months of the Funded Investment, where the Product's documents allow early exit;
+
 13.3.4 the Funded Investment was made, or the Introduced Investor was introduced, as a result of misconduct, fraud, misrepresentation, or breach of this Agreement or Applicable Law by you or any Authorised User; or
+
 13.3.5 a Regulator, court, ombudsman or similar body makes a finding, or a complaint is upheld (including by you), that the sale of the Product to the Introduced Investor was unsuitable, mis-sold or otherwise in breach of Applicable Law.
 
 13.4 **Amount.** On a Clawback Event, you must repay (or Multiplier may set off):
+
 13.4.1 for a Clawback Event under clause 13.3.1 or 13.3.2, the Adviser Share paid on the Deal Fees that are refunded, reclaimed, cancelled or no longer payable, in proportion where the event affects only part of the investment;
+
 13.4.2 for a Clawback Event under clause 13.3.3, the Adviser Share paid on the part of the Funded Investment that is redeemed or exited, [OPTION A: in full / OPTION B: reduced on a straight-line basis over the clawback period stated in the Fee Schedule], whether or not the Sponsor reclaims any fee from Multiplier; and
+
 13.4.3 for a Clawback Event under clause 13.3.4 or 13.3.5, the whole of the Adviser Share paid on the affected Funded Investment, together with any loss, compensation, refund or cost that Multiplier incurs as a result, without affecting Multiplier's other rights.
 
 13.5 **Method.** Multiplier will first set off the amount against any Holdback and against future payments due to you. If the amount is not fully recovered by set-off within [30] days of Multiplier notifying you, you must repay the balance within [30] days of Multiplier's written demand.
@@ -373,16 +434,23 @@ Multiplier is not obliged to pay any amount until a valid invoice has been issue
 15.1 **Why this clause exists.** Multiplier invests in finding, screening and listing Sponsors and Products and in building the Platform. You acknowledge that Multiplier has a legitimate interest in protecting its relationships with Platform-Introduced Parties and its fee income, and that this clause is reasonable for that purpose.
 
 15.2 **Undertaking.** During the Restricted Period, you must not, and must ensure that your Affiliates and Authorised Users do not, directly or indirectly (including through any other platform, intermediary or person):
+
 15.2.1 subscribe for, place, arrange, introduce or distribute, for any client or for your own account, any investment in a Product that is or was listed on the Platform, or in any other product of a Platform-Introduced Party, otherwise than through the Platform;
+
 15.2.2 solicit, approach or deal with any Platform-Introduced Party with a view to agreeing any distribution, introduction, placement, fee-sharing or similar arrangement that bypasses the Platform, or that would reduce or avoid fees payable to Multiplier;
+
 15.2.3 receive any fee, commission, retrocession or other benefit from a Platform-Introduced Party in respect of any investment by any Platform Investor, other than through the Platform; or
+
 15.2.4 encourage or help any Platform-Introduced Party or Platform Investor to do any of the above.
 
 15.3 **Pre-existing relationships.** Clause 15.2 does not apply to a Sponsor or issuer with which you can show, by written evidence, that you had an active distribution or placement relationship before you first viewed it on the Platform, provided you list that Sponsor or issuer on the pre-existing relationship register on the Platform (your **Pre-existing Relationship Register**) within [30] days of first viewing it on the Platform, with supporting evidence. Multiplier may reasonably dispute an entry within [30] days of it being made. A pre-existing relationship does not affect fees on any investment processed through the Platform.
 
 15.4 **Other exceptions.** Clause 15.2 does not prevent you from:
+
 15.4.1 investing in, or advising on, a security that is listed on a public stock exchange and acquired on that exchange;
+
 15.4.2 dealing with a Platform-Introduced Party where Multiplier has given its prior written consent; or
+
 15.4.3 complying with Applicable Law or an order of a Regulator or court.
 
 15.5 **Deemed Fee.** If you breach clause 15.2, you must pay Multiplier, on demand, a fee (the **Deemed Fee**) equal to [OPTION A: the full success fee that the Sponsor would have paid Multiplier had the investment been made through the Platform / OPTION B: the Multiplier Share of the success fee that the Sponsor would have paid Multiplier had the investment been made through the Platform], calculated using the success-fee rate in the relevant Product Fee Line or, if none applies, [PLACEHOLDER: default success-fee rate]% of the amount invested, together with Multiplier's reasonable costs of investigating and enforcing the breach (including legal fees). The parties agree that the Deemed Fee is a fair and proportionate measure of Multiplier's legitimate interest in the performance of this clause and is not a penalty.
@@ -392,7 +460,9 @@ Multiplier is not obliged to pay any amount until a valid invoice has been issue
 15.6 **Injunction.** You acknowledge that damages alone may not be an adequate remedy for breach of this clause 15 or of clause 18, and that Multiplier is entitled to seek injunctive or other equitable relief in any court of competent jurisdiction, in addition to any other remedy and notwithstanding clause 30.
 
 15.7 **Information and audit.** During the Restricted Period and for [12] months after it, you must:
+
 15.7.1 respond within [10] Business Days to any reasonable written request from Multiplier for information about your dealings with any Platform-Introduced Party; and
+
 15.7.2 allow Multiplier, or an independent auditor it appoints and who is bound by confidentiality, on [10] Business Days' notice (or sooner if Multiplier reasonably suspects a breach), and not more than once in any 12-month period unless a breach has been found, to inspect your records relating to dealings with Platform-Introduced Parties.
 
 Multiplier will bear the cost of an audit unless it reveals a breach of this clause 15 or an underpayment to Multiplier, in which case you must reimburse Multiplier's reasonable audit costs.
@@ -406,11 +476,17 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 16.2 **Undertaking by Multiplier.** During the Term and for [PLACEHOLDER: client protection period, e.g. 12 or 24] months after this Agreement ends (other than where Multiplier terminates under clause 24.3), Multiplier will not, and will ensure that its Affiliates do not, directly solicit any of your Introduced Investors to invest in Products through the Platform without you, or through another adviser firm, in place of you.
 
 16.3 **Exceptions.** Clause 16.2 does not prevent Multiplier from:
+
 16.3.1 dealing with an Introduced Investor who contacts Multiplier on their own initiative, without solicitation by Multiplier;
+
 16.3.2 communicating with an Introduced Investor for regulatory, legal, compliance, security, servicing or administrative reasons, including anti-money-laundering and eligibility checks, complaints handling, account notices, changes to Platform terms, and information about investments the Investor already holds;
+
 16.3.3 passing on communications from a Sponsor about a Product the Investor has invested in or requested access to;
+
 16.3.4 sending general communications or marketing that are not targeted at your Introduced Investors as such;
+
 16.3.5 acting on an Investor's instruction to unlink you or to link another adviser firm, or dealing with an Investor who has told Multiplier that you no longer act for them; or
+
 16.3.6 complying with Applicable Law or the request of a Regulator.
 
 16.4 **No restriction on the Investor.** Nothing in this Agreement restricts an Investor's right to choose their adviser, to change adviser, or to use the Platform in any way the Platform Terms and Investor terms allow.
@@ -422,9 +498,13 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 17.2 **Who may be an Authorised User.** You may appoint as Authorised Users only your employees, partners, officers and appointed representatives (or equivalent) who are appropriately qualified, authorised or registered under the rules that apply to you, and who are subject to your supervision.
 
 17.3 **User accounts.** Each Authorised User must have their own account and must accept the Authorised User Terms (MPL-ADV-05) before using the Platform for your firm. You must:
+
 17.3.1 nominate at least one firm administrator who manages your Authorised Users on the Platform;
+
 17.3.2 make sure that account details are accurate and that credentials are not shared;
+
 17.3.3 remove an Authorised User's access promptly, and in any case within [2] Business Days, when they leave your firm or are no longer authorised to act for you; and
+
 17.3.4 tell Multiplier immediately if you suspect any unauthorised use of an account.
 
 17.4 **Multiplier's rights.** Multiplier may suspend or remove any Authorised User's access if it reasonably believes that the Authorised User has breached the Authorised User Terms, this Agreement or Applicable Law, or if its checks on the Authorised User are unsatisfactory. Multiplier will tell you where Applicable Law allows.
@@ -435,7 +515,7 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 
 18.1 **Meaning.** **Confidential Information** means all information, in any form, disclosed by or on behalf of one party (or by a Sponsor or Investor through the Platform) to the other in connection with this Agreement that is marked confidential or would reasonably be regarded as confidential, including Product documents, data-room content, Sponsor information, fee terms, Platform functionality not made public, and the terms of this Agreement.
 
-18.2 **Obligations.** Each party must keep the other's Confidential Information confidential, use it only to perform this Agreement or (for you) to advise your clients on Products through the Platform, and disclose it only to its and its Affiliates' employees, officers, professional advisers, auditors and insurers who need to know it and are bound by duties of confidentiality at least as protective as this clause. Product information is also subject to any data-room confidentiality undertaking that you or your Authorised Users accept on the Platform.
+18.2 **Obligations.** Each party must keep the other's Confidential Information confidential, use it only to perform this Agreement or (for you) to advise your clients on Products through the Platform, and disclose it only to its and its Affiliates' employees, officers, professional advisers, auditors and insurers who need to know it and are bound by duties of confidentiality at least as protective as this clause. Product information is also subject to the Data-Room Confidentiality Undertaking (MPL-INV-04) that you or your Authorised Users accept on the Platform for each Product.
 
 18.3 **Exceptions.** Clause 18.2 does not apply to information that is or becomes public other than through a breach of this Agreement, was lawfully known to the recipient before disclosure without a duty of confidence, is independently developed, or is lawfully received from a third party without a duty of confidence. A party may disclose Confidential Information where required by Applicable Law, a Regulator or a court, and will (where lawful) give the other party prompt notice.
 
@@ -449,9 +529,9 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 
 19.2 **Data Sharing Schedule.** Each party must comply with Data Protection Laws and with the Data Sharing Schedule (Schedule 2), which sets out the purposes of sharing, the categories of data, the lawful bases, security measures, international transfer arrangements, handling of data subject requests and breach notification.
 
-19.3 **Your clients' data.** You are responsible for giving your clients any privacy information required for you to share their personal data with Multiplier, and for having a lawful basis to do so. Multiplier will provide its own privacy notice to Investors who register on the Platform.
+19.3 **Your clients' data.** You are responsible for giving your clients any privacy information required for you to share their personal data with Multiplier, and for having a lawful basis to do so. Multiplier provides its own Platform Privacy Notice (MPL-PLT-02) to Investors and other users who register on the Platform.
 
-19.4 **International transfers.** Where personal data is transferred between jurisdictions, the parties will use the transfer mechanism set out in the Data Sharing Schedule. [PLACEHOLDER: transfer mechanism, e.g. standard contractual clauses or equivalent].
+19.4 **International transfers.** Where personal data is transferred between jurisdictions, the parties will use the transfer mechanisms set out in the Data Sharing Schedule (MPL-PLT-04, Annex 2).
 
 ## 20. Anti-bribery, sanctions and conflicts
 
@@ -486,10 +566,15 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 22.1 **No exclusion of certain liability.** Nothing in this Agreement limits or excludes either party's liability for fraud or fraudulent misrepresentation, for death or personal injury caused by negligence, or for anything else that cannot lawfully be limited or excluded.
 
 22.2 **Exclusions.** To the fullest extent permitted by law, Multiplier is not liable to you, whether in contract, tort (including negligence), breach of statutory duty or otherwise, for:
+
 22.2.1 any loss of profit, revenue, business, goodwill, clients or anticipated savings;
+
 22.2.2 any indirect, special or consequential loss;
+
 22.2.3 the performance, value, accuracy of documents, or any other aspect of any Product, or any act or omission of a Sponsor, administrator, escrow agent or Investor;
+
 22.2.4 any Sponsor's failure to pay fees, or any delay in paying them; or
+
 22.2.5 any interruption, unavailability or error of the Platform, or any loss of data, except to the extent caused by Multiplier's breach of clause 9.3.1.
 
 22.3 **Cap.** To the fullest extent permitted by law, Multiplier's total aggregate liability to you arising out of or in connection with this Agreement, in any 12-month period, is limited to the total Adviser Share paid by Multiplier to you under this Agreement in the 12 months before the event giving rise to the liability [OPTION: or, if greater, [PLACEHOLDER: fixed amount and currency]]. This cap does not apply to Multiplier's obligation to pay you the Adviser Share on Deal Fees that Multiplier has actually received.
@@ -501,11 +586,17 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 ## 23. Indemnity
 
 23.1 You must indemnify Multiplier, its Affiliates and their officers and employees, and keep them indemnified, against all losses, liabilities, damages, fines (where lawfully indemnifiable), compensation, costs and expenses (including reasonable legal fees) arising out of or in connection with:
+
 23.1.1 any breach of this Agreement by you or any Authorised User;
+
 23.1.2 any advice, recommendation, suitability or appropriateness assessment, or other service you provide to any Investor, including any claim that a Product was mis-sold;
+
 23.1.3 any breach by you or any Authorised User of Applicable Law, including financial promotion, conduct of business, inducement, anti-money-laundering, Sanctions, anti-bribery and data protection rules;
+
 23.1.4 any failure by you to hold or comply with your Regulatory Permissions;
+
 23.1.5 any fraud, negligence or wilful misconduct of you or any Authorised User; and
+
 23.1.6 any claim by any of your Authorised Users or personnel for remuneration in connection with this Agreement.
 
 23.2 **Conduct of claims.** Multiplier will tell you promptly of any third-party claim for which it seeks an indemnity, will not settle it without consulting you (unless a Regulator requires otherwise or delay would prejudice Multiplier), and will give you reasonable cooperation at your cost. Multiplier may conduct the defence of any claim that involves a Regulator or affects its reputation or other users.
@@ -517,13 +608,21 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 24.2 **Termination for convenience.** Either party may terminate this Agreement at any time by giving the other at least [90] days' written notice.
 
 24.3 **Immediate termination by Multiplier.** Multiplier may terminate this Agreement immediately by written notice if:
+
 24.3.1 any of your Regulatory Permissions needed to perform this Agreement is withdrawn, suspended or restricted, or you cease to be regulated where regulation is required;
+
 24.3.2 you commit a material breach of this Agreement that cannot be remedied, or that you do not remedy within [30] days of written notice;
+
 24.3.3 you, or any Authorised User, breach clause 7.2, 8, 15, 18 or 20;
+
 24.3.4 you suffer an Insolvency Event;
+
 24.3.5 you or any of your Affiliates, directors, beneficial owners or Authorised Users becomes a Sanctioned Person;
+
 24.3.6 you fail to complete, or Multiplier is not reasonably satisfied with the results of, its onboarding or ongoing checks under clause 4;
+
 24.3.7 you or any Authorised User commits fraud, dishonesty or serious misconduct, or a Regulator takes enforcement action against you; or
+
 24.3.8 Multiplier reasonably considers that continuing would breach Applicable Law or expose it to material regulatory or reputational harm.
 
 24.4 **Termination by you.** You may terminate this Agreement immediately by written notice if Multiplier commits a material breach that it does not remedy within [30] days of written notice, or suffers an Insolvency Event.
@@ -647,17 +746,6 @@ The Adviser Fee Schedule (MPL-ADV-02), in the version accepted by the Adviser Fi
 
 ## Schedule 2: Data Sharing Schedule
 
-The Multiplier Data Sharing Agreement (controller to controller) [PLACEHOLDER: document ID], as it applies to Adviser Firms, is incorporated into this Agreement as Schedule 2. In summary, and subject to the full terms of that document:
+The Multiplier Data Sharing Schedule (controller to controller) (MPL-PLT-04), in the version in force from time to time, is incorporated into this Agreement as Schedule 2. For the purposes of that Schedule, this Agreement is the Main Agreement and the Adviser Firm is the Partner. It sets out the roles of the parties as independent controllers, the purposes of sharing, the data shared, lawful bases, security measures, personal data breach notification, international transfer mechanisms, data subject requests, retention and audit.
 
-| Item | Summary |
-|---|---|
-| Roles | Multiplier and the Adviser Firm are each independent controllers. |
-| Data shared by the Adviser Firm | Identity and contact details of Introduced Investors invited through the Platform; firm and Authorised User details; information needed for attribution and payments. |
-| Data shared by Multiplier | Introduced Investors' Platform activity relevant to the Adviser Firm's service (for example, access requests, eligibility status, subscriptions and Funded Investments), where the Investor has consented or another lawful basis applies; remuneration statements. |
-| Purposes | Operating the Platform; attributing Investors; calculating and paying the Adviser Share; regulatory compliance; complaints handling; preventing fraud and financial crime. |
-| Security | Each party maintains appropriate technical and organisational measures. [PLACEHOLDER: minimum security standards] |
-| Transfers | [PLACEHOLDER: international transfer mechanism] |
-| Breach notification | Each party notifies the other without undue delay, and in any case within [PLACEHOLDER: number] hours, of a personal data breach affecting shared data. |
-| Retention | [PLACEHOLDER: retention periods] |
-
-> Drafting note: Replace the summary with the full Data Sharing Agreement once drafted, and align the document ID references in clauses 1.1.11 and 1.1.24 and in Schedule 2 with the final IDs for the Platform Terms of Use and Data Sharing Agreement.
+> Drafting note: Check that the Override data flows (MPL-ADV-03 clause 14) and payee data flows (MPL-ADV-06) match the data tables in MPL-PLT-04 section 5, and that the audit right in MPL-PLT-04 clause 15 sits consistently with the non-circumvention audit right in clause 15.7 of this Agreement (they cover different subject matter and can co-exist).

@@ -78,14 +78,14 @@ The Platform records, for each Adviser Firm and Authorised User, which version o
 |---|---|---|---|---|---|---|---|---|
 | [PLACEHOLDER: Product name] | [PLACEHOLDER: Sponsor] | [PLACEHOLDER: x% of amount funded] | [PLACEHOLDER: 70%] | [PLACEHOLDER: 30%] | [PLACEHOLDER: x% for x months / none] | [PLACEHOLDER: x months] | [PLACEHOLDER] | [PLACEHOLDER] |
 
-> Drafting note: Where the Adviser Share for a Product is above 70%, the Multiplier Share falls and the cap in the Referral Programme Rules (MPL-ADV-03 clause 5) will reduce or remove Overrides on that Product. The Platform should flag this when a Product's fee terms are set.
+> Drafting note: Where the Adviser Share for a Product is above 70%, the Multiplier Share falls and the Override Cap and Minimum Retention in the Referral Programme Rules (MPL-ADV-03 clauses 5.4 and 5.5) will reduce or remove Overrides on that Product. The Platform should flag this when a Product's fee terms are set.
 
 ## 4. Payment timetable
 
 | Step | Timing | Reference |
 |---|---|---|
-| Sponsor reports each closing or drawdown to Multiplier | As set out in the Sponsor Listing Agreement | Sponsor documents |
-| Sponsor pays the success fee to Multiplier | As set out in the Sponsor Listing Agreement | Sponsor documents |
+| Sponsor reports each closing or drawdown to Multiplier | As set out in the Sponsor Listing Agreement (MPL-SPN-02) | MPL-SPN-02 and MPL-SPN-03 |
+| Sponsor pays the success fee to Multiplier | As set out in the Sponsor Listing Agreement (MPL-SPN-02) and Product Listing Schedule (MPL-SPN-03) | MPL-SPN-02 and MPL-SPN-03 |
 | Multiplier pays the Adviser Share (less any holdback, set-off or deduction) | Within [X] Business Days of Multiplier receiving the success fee in cleared funds, or of a valid invoice or self-billed invoice being issued, if later [OPTION: monthly in arrears with the statement] | MPL-ADV-01 clause 12.2 |
 | Monthly remuneration statement available on the Platform | Within [PLACEHOLDER: number] Business Days after each month end | MPL-ADV-01 clause 12.1 |
 | Minimum payment | Amounts below [PLACEHOLDER: amount and currency] carried forward, and paid in any case within [PLACEHOLDER: number] months | MPL-ADV-01 clause 12.3 |
@@ -193,7 +193,7 @@ Suppose your firm was introduced to the Platform by Firm L1, which was introduce
 | Total Overrides | 6% of Deal Fees | USD 1,500 |
 | Multiplier retains | 7,500 - 1,500 (24% of Deal Fees) | USD 6,000 |
 
-Formulas: Level n Override = Deal Fees x Level n rate. Total Overrides on any Deal Fee may not exceed [X]% of Deal Fees, and Multiplier must retain at least [X]% of Deal Fees. If the cap would be exceeded, Overrides are reduced as set out in MPL-ADV-03 clause 5.
+Formulas: Level n Override = Deal Fees x Level n rate. Total Overrides on any Deal Fee may not exceed [X]% of Deal Fees, and Multiplier must retain at least [X]% of Deal Fees. If the cap would be exceeded, Overrides are reduced as set out in MPL-ADV-03 clause 5.5.
 
 ### Example D: clawback on early redemption
 
