@@ -30,7 +30,7 @@ Multiplier is a curated private-markets platform. Advisers introduce vetted alte
 - **Spacing.** Use the `space-*` scale. Sections are at least `space-9` apart; cards pad with `space-6`; grid gutters are `space-5`.
 - **Corners.** `radius-sm` (4px) for buttons, inputs, tags, cards and tables. `radius-md` for large panels. No pills, no fully rounded buttons.
 - **Borders, not shadows.** Separate surfaces with 1px `border` hairlines. Controls use `border-control`. No drop shadows, no glows, no gradients except an atmospheric dark-to-teal radial behind a hero image.
-- **Motion.** Slow fades and colour changes only, 200ms ease. No bounces, parallax or looping animation. Respect `prefers-reduced-motion`.
+- **Motion.** Fades and colour changes at 200ms ease. Entrance fades may rise up to 12px over 500ms; small hover movement on icons. No bounces, parallax or looping animation. Respect `prefers-reduced-motion`.
 - **Focus.** A 2px solid `focus` ring with 2px offset on every interactive element.
 - Imagery, layout and charts: `imagery.md`. Accessibility: `accessibility.md`.
 

@@ -25,5 +25,5 @@
 
 ## Motion
 
-- 200ms ease for colour and opacity changes; 400ms for fades on entry. No movement over distance, no looping animation, no parallax.
+- 200ms ease for colour and opacity changes. Entrance fades may rise up to 12px over 500ms, once, as content enters view. Small hover movement on icons (2px) and a slow 3% zoom on card photos are allowed. No bounce, no looping animation, no parallax.
 - Honour `prefers-reduced-motion` by removing all non-essential transitions.
