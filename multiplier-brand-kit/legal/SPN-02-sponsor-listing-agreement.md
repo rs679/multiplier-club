@@ -296,7 +296,7 @@ in each case regardless of any prior, existing or later relationship between tha
 
 and whether or not this Agreement or the relevant Product Listing Schedule has ended, and whether or not the Product has been suspended or removed from the Platform.
 
-8.2 The **Tail Period** for each Platform Investor starts on the date that Investor first became a Platform Investor and ends 24 months after [OPTION A: that date / OPTION B: the later of that date and the end of the Term].
+8.2 The **Tail Period** for each Platform Investor starts on the date that Investor first became a Platform Investor and ends 24 months after the later of that date and the end of the Term.
 
 > Drafting note: Option B gives Multiplier tail protection for the whole relationship plus a post-termination period; Option A is a fixed window from first introduction, which is easier to defend as reasonable. A further option, if the owner wants it, is to restart the Tail Period on each Funded Investment Processed through the Platform; this is likely to attract strong negotiation from sponsors.
 

@@ -193,7 +193,7 @@ This box is a summary. The full terms below apply.
 
 10.2 **Sponsors pay Multiplier.** Sponsors pay Multiplier fees for using the Platform. These include a success fee, calculated as a percentage of the money invested in a Product by Platform Investors. The success fee is paid when an investment is funded. Sponsors may also pay screening and listing fees.
 
-10.3 **Later investments.** Under our agreements with Sponsors, a Sponsor may also pay us a success fee on later investments you make with that Sponsor, or in related products, for a period of 24 months after you were first introduced through the Platform, even if those investments are not made through the Platform.
+10.3 **Later investments.** Under our agreements with Sponsors, a Sponsor may also pay us a success fee on later investments you make with that Sponsor, or in related products, until 24 months after the later of the date you were first introduced through the Platform and the end of Multiplier's agreement with that Sponsor, even if those investments are not made through the Platform.
 
 10.4 **Advisers share in those fees.** Multiplier pays a share of the success fees it receives (the Adviser Share, which is [PLACEHOLDER: 70]% of Deal Fees unless a different rate is shown for a Product) to the Adviser Firm whose client made the investment. We pay it only after we have received the fee from the Sponsor.
 
