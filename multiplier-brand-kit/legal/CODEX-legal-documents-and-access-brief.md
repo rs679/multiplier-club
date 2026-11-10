@@ -21,7 +21,7 @@ Please reply first with a short design note (data model, gating engine, e-signat
 
 ## Document register
 
-Each document has a fixed ID. The text lives in this folder; the platform must store each published version as a record (see data model).
+Each document has a fixed ID (shown in the documents with an `MPL-` prefix, for example `MPL-ADV-01`; the platform can use the short form as its key). The text lives in this folder; the platform must store each published version as a record (see data model).
 
 Acceptance tiers:
 - **T1 Click-through**: tick box, logged with version.
@@ -33,10 +33,10 @@ Acceptance tiers:
 
 | ID | Document | Purpose | Who accepts | When | Tier | Unlocks | Re-accept |
 |---|---|---|---|---|---|---|---|
-| PLT-01 | Platform Terms of Use | Ground rules for using the technology platform: not advice, not regulated, no recourse to Multiplier for products | Every user | Sign-up | T1 | Account | Material change |
+| PLT-01 | Platform Terms of Use | Ground rules for using the technology platform: what Multiplier does and does not do, no advice, products are the sponsor's responsibility | Every user | Sign-up | T1 | Account | Material change |
 | PLT-02 | Privacy Notice (Platform) | How personal data is used and shared | Every user (acknowledge) | Sign-up | T1 | Account | Material change |
 | PLT-03 | Electronic Signature and Communications Consent | Agreement that e-signatures and electronic notices are binding | Every user | Sign-up | T1 | Ability to sign later documents | Material change |
-| PLT-04 | Data Sharing Schedule | Who sees what data (adviser, sponsor, administrator) and on what basis | Investor (per sharing event) | First time data would go to an adviser or sponsor | T1 | Data sharing to that party | Per new recipient |
+| PLT-04 | Data Sharing Schedule | Controller-to-controller terms for data passing between Multiplier, adviser firms and sponsors | Adviser firms and sponsors (incorporated into ADV-01 and SPN-02) | With those agreements | Part of T4 | Data flows to that firm or sponsor | Material change |
 | PLT-05 | Complaints Policy | How to complain | Published, not signed | Linked in footer and emails | None | None | None |
 | PLT-06 | Content and Marketing Guidelines | What advisers and sponsors may say about products and Multiplier | Advisers and sponsors (incorporated into ADV-01 and SPN-02) | With those agreements | Part of T3/T4 | None separately | Material change |
 
@@ -44,7 +44,7 @@ Acceptance tiers:
 
 | ID | Document | Purpose | Who accepts | When | Tier | Unlocks | Re-accept |
 |---|---|---|---|---|---|---|---|
-| INV-01 | Investor Terms | Investor's relationship with Multiplier: technology platform only, no advice, no holding of money, own due diligence, no recourse, risks | Investor | First attempt to view product terms or a data room | T1 | Gated product area | Material change |
+| INV-01 | Investor Terms | Investor's relationship with Multiplier: technology platform only, no advice, no holding of money, own due diligence, limits on Multiplier's liability, risks | Investor | First attempt to view product terms or a data room | T1 | Gated product area | Material change |
 | INV-02 | Eligibility Declaration | Self-certification of investor category by country (country modules), including the optional genuine reverse-solicitation attestation | Investor | Same moment as INV-01 | T2, confirmed by e-signature | Gated product area, filtered by eligibility | Every 12 months, or on change of country or category |
 | INV-03 | AML, Tax and Status Declarations | Source of funds and wealth, tax residency and self-certification, PEP status, not a US person | Investor | First "indicate interest" or "subscribe" | T2, confirmed by e-signature (plus identity verification) | Interest and subscription | Every 12 months or on change |
 | INV-04 | Data Room Confidentiality Undertaking | Keeps product documents confidential | Investor, and any adviser user | Each product, first time opening its data room | T1 | That product's data room | New version of the product's documents only if the sponsor asks |
@@ -91,8 +91,8 @@ Allows: profile, public insights, neutral deal cards (product name, sponsor, ass
 | View product terms, deal card details or key-terms table | INV-01, INV-02 (category must match the product's allowed categories and country) |
 | Open a product's data room | The above, plus INV-04 for that product, plus product's distribution restrictions satisfied |
 | Indicate interest | The above, plus identity verification (KYC), INV-03, sanctions screening clear |
-| Subscribe | The above, plus INV-05 for that product, plus PLT-04 consent for the sponsor (and adviser, if any), then the sponsor's subscription pack pre-filled from the profile |
-| Share their profile with an adviser | PLT-04 for that adviser |
+| Subscribe | The above, plus INV-05 for that product, plus a sharing consent toggle naming the sponsor (and adviser, if any), then the sponsor's subscription pack pre-filled from the profile |
+| Share their profile with an adviser | A sharing consent toggle naming that adviser firm (recorded as a `data_sharing_consent`, revocable in settings) |
 
 An investor invited by an adviser goes through the same gates. The adviser's invite page only explains Multiplier and how to register.
 
@@ -122,7 +122,7 @@ An adviser can sign up and browse neutral deal cards straight away. The first ti
 | Submit a product for screening | SPN-01, screening fee paid, sponsor KYB started |
 | List a product (go live) | Screening passed (Multiplier admin decision), sponsor KYB passed, SPN-02 countersigned, SPN-03 countersigned for that product, SPN-04 for that product, ADV-05 accepted by each sponsor user |
 | Keep a product live | SPN-04 renewed every 12 months, and on material change |
-| See investor data for a raise | Investor's PLT-04 consent for that sponsor, data scoped to that sponsor only |
+| See investor data for a raise | Investor's sharing consent for that sponsor, data scoped to that sponsor only |
 
 ### Multiplier admin
 Countersigns T4 documents, decides screening, publishes document versions, and can see the full gate status of any user. Every admin action is audit-logged.
@@ -148,6 +148,7 @@ Keep copy neutral and short. Do not use the words listed in the main brief's gua
 - `declaration`: user id, type (eligibility, AML, tax, PEP), answers (structured), country module version, valid until.
 - `verification`: user or firm id, type (KYC, KYB, sanctions, regulatory status), provider reference, result, checked at, valid until. Store references and results only, not raw ID images, unless the provider requires otherwise.
 - `gate_requirement`: action key, requirement type (document, declaration, verification, role, product restriction), parameters, applies to role. This is the editable rules table.
+- `data_sharing_consent`: investor id, recipient (adviser firm or sponsor), scope, granted at, revoked at. This is the investor's permission at the moment of action; PLT-04 governs what the recipient may then do with the data.
 - `gate_check_log`: user, action, product, result (allowed or blocked), missing requirements, timestamp.
 
 Rules:
