@@ -30,7 +30,7 @@ These details are completed during onboarding and form part of this Agreement.
 
 ## Parties
 
-1. **Multiplier Private Markets Limited**, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
+1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
 2. **The adviser firm named in the Agreement details above** (the **Adviser Firm**, **you**).
 
 Where the adviser is an individual acting alone and not through a firm, that individual is the **Adviser Firm** for this Agreement, signs it personally, and must also give the Sole Adviser Certification in Schedule 3. Firms remain the usual contracting party.
@@ -729,7 +729,7 @@ Multiplier will bear the cost of an audit unless it reveals a breach of this cla
 | Signature | [electronic signature] |
 | Date | [date and time of signature, recorded by the Platform] |
 
-**Signed for and on behalf of Multiplier Private Markets Limited**
+**Signed for and on behalf of Sirius Consulting FZCO, trading as Multiplier**
 
 | | |
 |---|---|

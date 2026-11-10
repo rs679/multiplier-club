@@ -20,7 +20,7 @@ Re-acceptance: On any material change. A Sponsor must accept the new version bef
 
 ## Parties
 
-1. **Multiplier Private Markets Limited**, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
+1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
 2. **[PLACEHOLDER: Sponsor legal name]**, a [PLACEHOLDER: type of entity] incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (the **Sponsor**, **you**).
 
 ## Background
@@ -813,7 +813,7 @@ Submitted through the Platform within the period in clause 13.1, for each Funded
 
 ### Part B: Quarterly certificate
 
-To: Multiplier Private Markets Limited
+To: Sirius Consulting FZCO, trading as Multiplier
 
 Sponsor: [PLACEHOLDER: Sponsor legal name]
 
@@ -872,7 +872,7 @@ I confirm that I am authorised to sign for and bind the Sponsor.
 
 Date: [PLACEHOLDER: date, recorded by the e-signature provider]
 
-**Countersigned electronically for and on behalf of Multiplier Private Markets Limited**
+**Countersigned electronically for and on behalf of Sirius Consulting FZCO, trading as Multiplier**
 
 Name: [PLACEHOLDER: Multiplier signatory name]
 

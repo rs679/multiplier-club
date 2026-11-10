@@ -14,7 +14,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 ## 1. About these Rules
 
-1.1 These Rules are made between Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and the Adviser Firm that accepts them (**you**). They relate to the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+1.1 These Rules are made between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and the Adviser Firm that accepts them (**you**). They relate to the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 1.2 These Rules form part of your Adviser Firm Agreement (MPL-ADV-01) once accepted. Words in capitals that are not defined here have the meanings given in the Adviser Firm Agreement. If these Rules conflict with the Adviser Firm Agreement about Overrides, these Rules apply (MPL-ADV-01 clause 2.3).
 

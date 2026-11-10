@@ -14,7 +14,7 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 ## 1. About these Terms
 
-1.1 These Terms are a contract between Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and you as an individual (**you**). They apply when you use the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**) on behalf of a firm.
+1.1 These Terms are a contract between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and you as an individual (**you**). They apply when you use the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**) on behalf of a firm.
 
 1.2 In these Terms:
 

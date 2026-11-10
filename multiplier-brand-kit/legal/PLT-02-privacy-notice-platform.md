@@ -16,7 +16,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 ## 1. About this notice
 
-1.1 This notice explains how Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**) collects, uses, shares and protects personal data when you use the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+1.1 This notice explains how Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**) collects, uses, shares and protects personal data when you use the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 1.2 It applies to:
 

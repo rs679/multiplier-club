@@ -10,7 +10,7 @@ Re-acceptance: Each new version of this Schedule (MPL-ADV-01 clause 26); each Pr
 
 # Adviser Fee Schedule
 
-This Fee Schedule is Schedule 1 to the Adviser Firm Agreement (MPL-ADV-01) between Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and the Adviser Firm (**you**). It applies to your use of the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+This Fee Schedule is Schedule 1 to the Adviser Firm Agreement (MPL-ADV-01) between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and the Adviser Firm (**you**). It applies to your use of the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 Words in capitals have the meanings given in the Adviser Firm Agreement. If this Schedule conflicts with the Adviser Firm Agreement on fees or payment, this Schedule applies, and a Product Fee Line applies over this Schedule for that Product (MPL-ADV-01 clause 2.3).
 

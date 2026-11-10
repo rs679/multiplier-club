@@ -14,7 +14,7 @@ Re-acceptance: [when a new version must be accepted]
 ```
 
 ## Parties and names
-- Multiplier: "Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**)".
+- Multiplier: "Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**)".
 - Platform: "the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**)".
 - Defined terms in **bold** on first use, then capitalised. Shared definitions: Adviser Firm, Authorised User, Sponsor, Product, Investor, Platform Investor, Deal Fees, Adviser Share, Multiplier Share, Override, Funded Investment, Business Day.
 
@@ -35,3 +35,6 @@ Re-acceptance: [when a new version must be accepted]
 
 ## Style
 UK English, plain language, short numbered clauses (1, 1.1, 1.1.1), no legalese where plain words work. Markdown.
+
+## Legal entity
+Owner decision, 10 November 2026: the contracting entity is Sirius Consulting FZCO for now, with Multiplier as its trading name. The free zone, licence number and registered address are still to be supplied. Sirius also appears on the platform as a deal sponsor, so counsel should consider a conflicts disclosure where the operator and a sponsor are the same or related entities.

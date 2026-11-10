@@ -18,7 +18,7 @@ Re-acceptance: On a material change. Multiplier will notify Adviser Firms and Sp
 
 ## 1. About these Guidelines
 
-1.1 These Guidelines are issued by Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), which operates the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+1.1 These Guidelines are issued by Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), which operates the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 1.2 They apply to everything an **Adviser Firm**, a **Sponsor** or any of their **Authorised Users** (each a **User** in these Guidelines) says, writes, sends, posts or shows about Multiplier, the Platform or any **Product** listed on it, on or off the Platform, in any medium.
 

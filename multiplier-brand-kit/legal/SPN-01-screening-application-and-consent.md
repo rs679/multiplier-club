@@ -18,7 +18,7 @@ Re-acceptance: Each new screening application; and on any material change to thi
 
 ## Parties
 
-1. **Multiplier Private Markets Limited**, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
+1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
 2. **[PLACEHOLDER: Sponsor legal name]**, a [PLACEHOLDER: type of entity] incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (the **Sponsor**, **you**).
 
 ## Background
@@ -397,7 +397,7 @@ The Sponsor declares (by checking each box, or by giving details where it cannot
 
 This notice is for individuals whose personal data is supplied to Multiplier in a screening application (for example directors, Key Persons, Controllers and beneficial owners of a sponsor or issuer). It supplements the Privacy Notice (PLT-02).
 
-1. **Who we are.** Multiplier Private Markets Limited ([PLACEHOLDER: registration number and address]) is the controller of your personal data for screening. Contact: [PLACEHOLDER: privacy contact email]. [PLACEHOLDER: data protection officer or representative details, if required].
+1. **Who we are.** Sirius Consulting FZCO, trading as Multiplier ([PLACEHOLDER: registration number and address]) is the controller of your personal data for screening. Contact: [PLACEHOLDER: privacy contact email]. [PLACEHOLDER: data protection officer or representative details, if required].
 
 2. **What we collect.** Identification and contact details; date and place of birth; nationality; residential address; identity documents; role, shareholding and control; professional history and qualifications; regulatory status; and information about sanctions, PEP status, adverse media, litigation, insolvency, regulatory action and, only where permitted by law, criminal records.
 

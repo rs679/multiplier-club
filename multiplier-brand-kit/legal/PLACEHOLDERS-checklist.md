@@ -4,7 +4,7 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## Fill once, used everywhere
 
-- Multiplier Private Markets Limited: jurisdiction of incorporation, registration number, registered office
+- Sirius Consulting FZCO, trading as Multiplier: jurisdiction of incorporation, registration number, registered office
 - Governing law; arbitration rules (LCIA / ICC / DIAC); seat; amount above which three arbitrators sit
 - Contact emails: legal notices, support, complaints, privacy, security, compliance
 - Business Day city

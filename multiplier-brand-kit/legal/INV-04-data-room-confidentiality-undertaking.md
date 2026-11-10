@@ -25,7 +25,7 @@ The documents in this data room are confidential. The Sponsor has shared them on
 
 ## 1. Who this applies to
 
-1.1 This undertaking is given by you, the person opening the data room, to Multiplier Private Markets Limited, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and to the Sponsor of the Product named above (the **Sponsor**).
+1.1 This undertaking is given by you, the person opening the data room, to Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and to the Sponsor of the Product named above (the **Sponsor**).
 
 1.2 If you open the data room for a company, trust, family office, fund or Adviser Firm, you give this undertaking both personally and on behalf of that entity, and you confirm that you are authorised to do so.
 
