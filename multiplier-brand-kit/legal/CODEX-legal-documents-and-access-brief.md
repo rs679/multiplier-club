@@ -66,7 +66,8 @@ This is the legal position, not a design. How you group, sequence and present th
 
 **Advisers**
 - To request deal access, invite clients to products or share products: their firm has signed ADV-01 (countersigned) and ADV-02, the firm and the individual have passed checks, the individual has accepted ADV-05, and INV-04 is accepted per product.
-- Agreements are at firm level: once a firm has signed, its other users only need their own checks and ADV-05. An independent adviser is a firm of one. If the person acting cannot sign for their firm, the firm's signatory needs a way to sign.
+- Owner decision: firms are the core intermediary. Agreements are at firm level: once a firm has signed, its other users only need their own checks and ADV-05. If the person acting cannot sign for their firm, the firm's signatory needs a way to sign.
+- Owner decision: an individual who works alone may also onboard. They sign ADV-01 personally and give the Sole Adviser Certification (ADV-01 Schedule 3), confirming they are authorised to act alone. They are the only user under that agreement.
 - Referral links need ADV-03; leaderboard opt-in needs ADV-04; payouts need ADV-06 where it applies.
 
 **Sponsors**
@@ -78,9 +79,10 @@ Documents countersigned by Multiplier only take effect once countersigned. When 
 
 ## Owner decisions
 
+- **On-platform only.** Documents, including signed copies, are viewed on the platform. No download or print is offered for now.
 - **Headline cards before gating.** Before a user has completed a product's steps, they see only anonymised headline details: for example a reference code, asset class, broad sector, broad region, type of instrument, currency and status. Nothing that names or could identify the product, issuer, sponsor or underlying investment, and no terms, returns or fees. The sponsor proposes these details in SPN-03 and Multiplier can edit them. Full details appear only after the steps are complete.
 - **Adviser Share:** 70% of the deal fees Multiplier receives for a product, paid when Multiplier is paid, unless the firm's fee schedule says otherwise.
-- **Overrides:** three levels, paid only from Multiplier's 30%, so the introduced adviser's 70% is never reduced. Rates of deal fees: 10%, 5% and 3% (order still to be confirmed by the owner; drafted with the closest introducer at 10%). Total capped at 18%, and Multiplier keeps at least 12% of deal fees. Rates and levels may change, so please do not fix them in code.
+- **Overrides:** one level only. An adviser firm earns an override on firms it introduced directly, at a single rate set by its tier: 3%, 5% or 10% of deal fees. Tiers do not stack, so the most paid on any fee is 10%. Paid only from Multiplier's 30%, so the introduced adviser's 70% is never reduced and Multiplier keeps at least 20%. Tier qualification rules are not yet settled. Rates and tiers may change, so please do not fix them in code.
 - **Clawback** of the Adviser Share and overrides when Multiplier refunds or loses a fee. Firms can **waive or rebate** their share.
 - **Sponsor fees:** screening, listing and success fees. Success fees apply to capital from Platform Investors until 24 months after the later of their introduction and the end of the sponsor's agreement. A Platform Investor is one who was eligible to view that sponsor's products, was invited to or viewed one through the platform, or was introduced by a platform adviser. The platform needs to be able to evidence this.
 - **No investor fees.**
@@ -96,7 +98,7 @@ Documents countersigned by Multiplier only take effect once countersigned. When 
 ## Open items
 
 1. Placeholders in the documents (see `PLACEHOLDERS-checklist.md`).
-2. Counsel review, in particular: multi-level overrides, the fee-linked points score, eligibility wording by country, non-circumvention scope, and statements about Multiplier's regulatory position.
+2. Counsel review, in particular: referral overrides, the fee-linked points score, eligibility wording by country, non-circumvention scope, and statements about Multiplier's regulatory position.
 3. Your recommendation for e-signature and identity providers, if the platform does not already have them.
 4. Who at Multiplier countersigns.
 

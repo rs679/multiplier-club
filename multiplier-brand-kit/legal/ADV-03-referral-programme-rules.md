@@ -10,7 +10,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 # Adviser Referral Programme Rules
 
-> Drafting note for counsel: These Rules create a multi-level override structure (up to 3 levels), which is an owner decision. Multi-level payment structures must be checked in each jurisdiction where Multiplier pays Overrides, in particular against (a) pyramid scheme, multi-level marketing and unfair commercial practice laws, and (b) inducement, third-party payment and remuneration disclosure rules for regulated advisers (including whether an Override received by one firm on another firm's clients' investments must be disclosed to those clients, or is permitted at all). The structure is designed so that payment stays tied to genuine regulated business and never to recruitment alone: Overrides are earned only on Deal Fees from Funded Investments, never on sign-ups, onboarding or the number of firms introduced; no one pays to join; no one is required to recruit; and Overrides come only out of Multiplier's own share. Counsel should confirm that these features are sufficient in each jurisdiction, whether the number of levels should be reduced in any jurisdiction, and whether any jurisdiction should be excluded from the programme.
+> Drafting note for counsel: Owner decision: Overrides are single-level. A Referring Adviser earns an Override only on firms it introduced directly, at one rate set by its Override Tier (3%, 5% or 10% of Deal Fees). Tiers do not stack and no Override is paid on the business of firms further down a chain. Counsel should still check inducement, disclosure and referral-fee rules in each jurisdiction where Overrides are paid.
 
 ## 1. About these Rules
 
@@ -26,7 +26,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 2.1.1 **Introduced Adviser** means an adviser firm that becomes an Adviser Firm through a Qualifying Introduction.
 
-2.1.2 **Level** means the position of an Introduced Adviser in a Referral Chain relative to a Referring Adviser, as set out in clause 4.2.
+2.1.2 **Override Tier** means the tier (Tier 1, Tier 2 or Tier 3) that the Platform records for a Referring Adviser under clause 4, which sets its Override Rate.
 
 2.1.3 **Minimum Retention** means the minimum part of each Deal Fee that Multiplier must keep after paying the Adviser Share and all Overrides, set out in clause 5.4.
 
@@ -36,15 +36,15 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 2.1.6 **Override Period** has the meaning given in clause 6.
 
-2.1.7 **Override Rate** means the percentage of Deal Fees payable as an Override at each Level, set out in clause 5.2.
+2.1.7 **Override Rate** means the percentage of Deal Fees payable as an Override to a Referring Adviser, set by its Override Tier under clause 5.2.
 
 2.1.8 **Qualifying Introduction** means an introduction that meets clause 3.
 
-2.1.9 **Referral Chain** means the sequence of Qualifying Introductions linking an Introduced Adviser to the Referring Advisers above it, up to the maximum number of Levels.
+2.1.9 **Referral Record** means the Platform's record linking an Introduced Adviser to the one Referring Adviser that made its Qualifying Introduction.
 
 2.1.10 **Referral Link** means a unique link or invitation generated through the Platform by an Authorised User of a Referring Adviser for the purpose of introducing another adviser firm.
 
-2.1.11 **Referring Adviser** means an Adviser Firm that has made a Qualifying Introduction, directly or (for Level 2 and above) through the Referral Chain. Overrides are earned by, and paid to, the Referring Adviser as a firm, never to an individual Authorised User.
+2.1.11 **Referring Adviser** means an Adviser Firm that has itself made a Qualifying Introduction. Overrides are earned by, and paid to, the Referring Adviser as a contracting party, never to an individual Authorised User of a firm.
 
 ## 3. Eligibility and Qualifying Introductions
 
@@ -70,25 +70,23 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 3.3 **First valid link.** If an adviser firm uses more than one Referral Link, the first valid Referral Link used to register applies. If a firm registers without a Referral Link, no Referring Adviser is attributed, and Multiplier will not attribute one later unless it is reasonably satisfied, on evidence provided within [30] days of registration, that the Referral Link was not used because of a Platform error.
 
-3.4 **Records.** The Platform's records of Referral Links, registrations and Referral Chains are conclusive in the absence of manifest error or fraud. Multiplier's reasonable decision on any dispute about attribution is final, subject to MPL-ADV-01 clause 30.
+3.4 **Records.** The Platform's records of Referral Links, registrations and Referral Records are conclusive in the absence of manifest error or fraud. Multiplier's reasonable decision on any dispute about attribution is final, subject to MPL-ADV-01 clause 30.
 
-3.5 **Transparency to the introduced firm.** When an adviser firm registers using a Referral Link, the Platform will tell it which Adviser Firm referred it, that Multiplier pays that firm (and any firms above it in the Referral Chain) Overrides out of Multiplier's own share of Deal Fees, and that this does not reduce the introduced firm's own Adviser Share.
+3.5 **Transparency to the introduced firm.** When an adviser firm registers using a Referral Link, the Platform will tell it which Adviser Firm referred it, that Multiplier pays that firm an Override out of Multiplier's own share of Deal Fees, and that this does not reduce the introduced firm's own Adviser Share.
 
-## 4. Levels
+## 4. Override Tiers
 
-4.1 **Maximum Levels.** The programme has 3 Levels. No Override is paid beyond the last Level.
+4.1 **One level only.** You earn Overrides only on Introduced Advisers that you introduced directly. No Override is earned on the business of any firm that an Introduced Adviser itself introduces.
 
-4.2 **How Levels work.** For any Introduced Adviser:
+4.2 **Three tiers.** Each Referring Adviser is in one Override Tier at any time: Tier 1, Tier 2 or Tier 3. Your Override Tier sets the single Override Rate that applies to all of your Introduced Advisers. Tiers are alternatives. They do not add together.
 
-4.2.1 the Adviser Firm that made the Qualifying Introduction of that Introduced Adviser is its **Level 1** Referring Adviser;
+4.3 **How a tier is reached.** You start in Tier 1. You move to Tier 2 or Tier 3 when the Platform records that you meet the qualifying measures for that tier: [PLACEHOLDER: Tier 2 measure, for example number of active Introduced Advisers or Deal Fees generated by Introduced Advisers in a period] and [PLACEHOLDER: Tier 3 measure]. [PLACEHOLDER: review period, maintenance rule and what happens if the measure is no longer met.]
 
-4.2.2 the Adviser Firm that made the Qualifying Introduction of that Level 1 Referring Adviser is its **Level 2** Referring Adviser; and
+> Drafting note: The tier measures, review period and downgrade rule are not yet settled by the owner. Until they are, every Referring Adviser is in Tier 1 unless Multiplier agrees otherwise in writing. Measures must be based on completed, funded business recorded on the Platform, not on registrations or invitations.
 
-4.2.3 the Adviser Firm that made the Qualifying Introduction of that Level 2 Referring Adviser is its **Level 3** Referring Adviser.
+4.4 **One Referring Adviser per firm.** Each Introduced Adviser has at most one Referring Adviser. The Referral Record is fixed when the Qualifying Introduction is made and does not change if either firm later changes tier.
 
-4.3 **One chain per firm.** Each Introduced Adviser has at most one Referring Adviser at each Level. The Referral Chain is fixed when the Qualifying Introduction is made and is not changed by later events, except under clauses 9 and 10.
-
-4.4 **No compression.** If a Referring Adviser at any Level is not eligible to receive an Override (for example, because its Adviser Firm Agreement has ended or it is not in good standing), that Override is not paid, and the Referring Advisers at other Levels do not move up to take its place. [OPTION A: no compression; the unpaid Override is retained by Multiplier (recommended) / OPTION B: compression; the next eligible Referring Adviser above moves into the vacant Level]
+4.5 **When a tier change applies.** A change of Override Tier applies to Deal Fees on Funded Investments with a Closing on or after the date the Platform records the change. It does not change Overrides already earned.
 
 ## 5. Override Rates, cap and Minimum Retention
 
@@ -96,27 +94,27 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 5.2 **Override Rates.** Each Override is calculated as a percentage of Deal Fees, as follows:
 
-| Level | Override Rate (percentage of Deal Fees) |
+| Override Tier | Override Rate (percentage of Deal Fees) |
 |---|---|
-| Level 1 | 10% |
-| Level 2 | 5% |
-| Level 3 | 3% |
+| Tier 1 | 3% |
+| Tier 2 | 5% |
+| Tier 3 | 10% |
 
-Override = Deal Fees generated by the Introduced Adviser x the Override Rate for the Referring Adviser's Level.
+Override = Deal Fees generated by the Introduced Adviser x the Override Rate for the Referring Adviser's Override Tier. Only one Override is paid on any Deal Fee.
 
-> Drafting note: The owner set the rates at 10%, 5% and 3%. They are drafted with the closest introducer (Level 1) at 10%. Owner to confirm the order before publishing.
+> Drafting note: Owner decision: the rates of 3%, 5% and 10% are tiers, not stacked levels. The highest Override on any Deal Fee is 10%.
 
 5.3 **Paid only from the Multiplier Share.** Overrides are paid only out of the Multiplier Share. They never reduce the Adviser Share of the Introduced Adviser or of any other Adviser Firm.
 
 5.4 **Cap and Minimum Retention.** For each Deal Fee:
 
-5.4.1 the total of all Overrides payable at all Levels must not exceed 18% of that Deal Fee (the **Override Cap**); and
+5.4.1 the Override payable must not exceed 10% of that Deal Fee (the **Override Cap**); and
 
-5.4.2 Multiplier must keep at least 12% of that Deal Fee after paying the Adviser Share and all Overrides (the **Minimum Retention**).
+5.4.2 Multiplier must keep at least 20% of that Deal Fee after paying the Adviser Share and all Overrides (the **Minimum Retention**).
 
-5.5 **Reduction where the cap would be exceeded.** If paying the Overrides at the Override Rates would breach the Override Cap or the Minimum Retention on any Deal Fee (for example, because a Product Fee Line sets an Adviser Share above 70%), the Overrides on that Deal Fee are reduced, starting with the highest Level, as follows: [OPTION A: the Level 3 Override is reduced first, down to zero if needed, then the Level 2 Override, then the Level 1 Override, until the Override Cap and Minimum Retention are met (recommended) / OPTION B: all Overrides on that Deal Fee are reduced pro rata to their Override Rates until the Override Cap and Minimum Retention are met].
+5.5 **Reduction where the cap would be exceeded.** If paying the Override at your Override Rate would breach the Override Cap or the Minimum Retention on any Deal Fee (for example, because a Product Fee Line sets an Adviser Share above 70%), the Override on that Deal Fee is reduced by the amount needed to meet both limits, down to zero if necessary.
 
-> Drafting note: The owner's instruction is that levels "reduce pro rata from the highest level". Option A reads this as a top-down reduction (the most remote Level is reduced first), which protects the direct (Level 1) relationship and keeps the highest proportion of payment tied to the firm closest to the business. Option B is a straightforward pro rata reduction across all Levels. The owner should confirm which is intended.
+> Drafting note: With a single Override per Deal Fee, the earlier question of which level is reduced first no longer arises.
 
 5.6 **Product Fee Lines.** The Product Fee Line for a Product shown to an Introduced Adviser does not show Overrides. Multiplier may set a Product's fee terms so that no Overrides are payable on it, and will record this on the Platform.
 
@@ -126,7 +124,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 6.1 Overrides are earned on Funded Investments made by Introduced Investors of an Introduced Adviser during [OPTION A: the period of [24] months starting on the date of that Introduced Adviser's first Funded Investment (recommended) / OPTION B: the whole of the period during which both the Referring Adviser and that Introduced Adviser have an Adviser Firm Agreement in force] (the **Override Period**).
 
-6.2 For Level 2 and Level 3 Overrides, the Override Period is measured by reference to the first Funded Investment of the Introduced Adviser whose Introduced Investors generate the Deal Fees, not by reference to any firm above it in the Referral Chain.
+6.2 The Override Period for each Introduced Adviser is measured from that Introduced Adviser's own first Funded Investment.
 
 6.3 Overrides remain payable on Deal Fees received after the Override Period ends, if they relate to Funded Investments made during it.
 
@@ -138,7 +136,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 7.2 **Same mechanics as the Adviser Share.** Overrides are paid on the same timetable, in the same payout currency, and subject to the same statements, invoicing (including any Self-Billing Agreement, MPL-ADV-06), tax, withholding, holdback and set-off provisions as the Adviser Share under MPL-ADV-01 clause 12 and the Adviser Fee Schedule (MPL-ADV-02).
 
-7.3 **Statements.** Your monthly remuneration statement will show Overrides earned, by Introduced Adviser and Level, with the Deal Fees on which they are calculated. To protect client confidentiality, it will not identify any Investor, and Multiplier may aggregate figures where needed.
+7.3 **Statements.** Your monthly remuneration statement will show Overrides earned, by Introduced Adviser, with your Override Tier, with the Deal Fees on which they are calculated. To protect client confidentiality, it will not identify any Investor, and Multiplier may aggregate figures where needed.
 
 ## 8. Clawback
 
@@ -182,7 +180,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 9.3.2 treat any affected Override as forfeited and not payable, and recover any affected Override already paid by set-off or demand;
 
-9.3.3 remove any affected introduction from the Referral Chain;
+9.3.3 remove any affected Referral Record;
 
 9.3.4 exclude you from the programme; and
 
@@ -198,7 +196,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 10.3 **Individuals moving firms.** Referrals belong to the firm, not to individual Authorised Users. If an Authorised User who generated a Referral Link leaves your firm, the Qualifying Introductions they made remain yours.
 
-10.4 **Change of control.** If an Introduced Adviser merges with, or comes under the control of, the Referring Adviser or any firm above it in the Referral Chain, Overrides on that Introduced Adviser stop from the date of the change.
+10.4 **Change of control.** If an Introduced Adviser merges with, or comes under the control of, the Referring Adviser, Overrides on that Introduced Adviser stop from the date of the change.
 
 ## 11. Disclosure
 
@@ -226,13 +224,13 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 ## 14. Data
 
-14.1 To operate the programme, Multiplier processes information about Referral Links, Referral Chains, the identity of Referring Advisers and Introduced Advisers, and Deal Fees generated. Multiplier will share with you only the information needed for your statements (clause 7.3) and the names of the firms you introduced at Level 1. [OPTION: Multiplier will also show the number, but not the names, of firms at Levels 2 and 3.]
+14.1 To operate the programme, Multiplier processes information about Referral Links, Referral Records, the identity of Referring Advisers and Introduced Advisers, and Deal Fees generated. Multiplier will share with you only the information needed for your statements (clause 7.3) and the names of the firms you introduced.
 
 14.2 Processing of personal data under these Rules is subject to the Data Sharing Schedule (MPL-PLT-04), which is Schedule 2 to the Adviser Firm Agreement.
 
 ## 15. Changes to and ending of the programme
 
-15.1 Multiplier may change these Rules (including the Override Rates, the number of Levels, the Override Cap, the Minimum Retention and the Override Period), or suspend or end the programme, by giving at least [30] days' notice through the Platform and by email.
+15.1 Multiplier may change these Rules (including the Override Rates, the Override Tiers and their measures, the Override Cap, the Minimum Retention and the Override Period), or suspend or end the programme, by giving at least [30] days' notice through the Platform and by email.
 
 15.2 **Accrued Overrides honoured.** A change or ending does not affect Overrides on Deal Fees from Funded Investments made before the change or ending takes effect, which remain payable under the version of these Rules in force when the Funded Investment was made, subject to clawback and set-off. [OPTION: Qualifying Introductions made before the change continue on the earlier terms for the rest of their Override Period.]
 

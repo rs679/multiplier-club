@@ -10,7 +10,7 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 # Adviser Firm Agreement
 
-> Drafting note: This is a first draft for review by qualified counsel in each jurisdiction where Multiplier will contract with adviser firms. It is not legal advice. Particular attention is needed on: the regulatory status statements (clause 9), remuneration disclosure and inducement rules (clauses 6 and 11), the non-circumvention and deemed fee provisions (clause 15), the clawback and forfeiture provisions (clauses 13 and 25), and the multi-level Referral Programme (MPL-ADV-03).
+> Drafting note: This is a first draft for review by qualified counsel in each jurisdiction where Multiplier will contract with adviser firms. It is not legal advice. Particular attention is needed on: the regulatory status statements (clause 9), remuneration disclosure and inducement rules (clauses 6 and 11), the non-circumvention and deemed fee provisions (clause 15), the clawback and forfeiture provisions (clauses 13 and 25), and the tiered Referral Programme (MPL-ADV-03).
 
 ## Agreement details
 
@@ -32,6 +32,8 @@ These details are completed during onboarding and form part of this Agreement.
 
 1. **Multiplier Private Markets Limited**, a company incorporated in [PLACEHOLDER: jurisdiction] with registration number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
 2. **The adviser firm named in the Agreement details above** (the **Adviser Firm**, **you**).
+
+Where the adviser is an individual acting alone and not through a firm, that individual is the **Adviser Firm** for this Agreement, signs it personally, and must also give the Sole Adviser Certification in Schedule 3. Firms remain the usual contracting party.
 
 ## Background
 
@@ -749,3 +751,22 @@ The Adviser Fee Schedule (MPL-ADV-02), in the version accepted by the Adviser Fi
 The Multiplier Data Sharing Schedule (controller to controller) (MPL-PLT-04), in the version in force from time to time, is incorporated into this Agreement as Schedule 2. For the purposes of that Schedule, this Agreement is the Main Agreement and the Adviser Firm is the Partner. It sets out the roles of the parties as independent controllers, the purposes of sharing, the data shared, lawful bases, security measures, personal data breach notification, international transfer mechanisms, data subject requests, retention and audit.
 
 > Drafting note: Check that the Override data flows (MPL-ADV-03 clause 14) and payee data flows (MPL-ADV-06) match the data tables in MPL-PLT-04 section 5, and that the audit right in MPL-PLT-04 clause 15 sits consistently with the non-circumvention audit right in clause 15.7 of this Agreement (they cover different subject matter and can co-exist).
+
+## Schedule 3: Sole Adviser Certification
+
+> Drafting note: Owner decision: firms are the core intermediary, but an individual who works alone may contract personally after giving this certification. Counsel to confirm, country by country, when an individual may lawfully act without a firm and what evidence Multiplier should hold.
+
+This Schedule applies only where the Adviser Firm is an individual acting alone. It is given on the Platform at the same time as this Agreement is signed and is recorded with the date, time and version.
+
+I certify to Multiplier that:
+
+1. I act on my own account and not as an employee, appointed representative, agent or partner of any firm in relation to my use of the Platform. [OPTION: or, I am affiliated with [PLACEHOLDER: firm name] and I have its written consent to contract with Multiplier personally and to receive the Adviser Share personally. I will provide that consent on request.]
+2. I am permitted to carry on the activities I will carry on through the Platform, in each country where I or my clients are located, without acting through a firm. I hold every licence, registration, authorisation or exemption that I personally need, and I have told Multiplier which they are in my Platform profile.
+3. No contract, employer policy, regulatory condition or court or regulatory order prevents me from entering into this Agreement, introducing clients or receiving the Adviser Share personally.
+4. I will be the only Authorised User under this Agreement. I will not share my account or allow anyone else to act under it.
+5. Payments under this Agreement are to be made to a bank account in my own name.
+6. I will tell Multiplier within [PLACEHOLDER: number, suggested 5] Business Days if any of the above stops being true, including if I join a firm, and I will stop introducing clients until Multiplier confirms how the Agreement will continue.
+
+I understand that Multiplier relies on this certification, may ask for evidence at any time, and may suspend my access if it is not satisfied. A certification that is untrue is a material breach of this Agreement.
+
+If I later act through a firm, that firm must enter into its own Adviser Firm Agreement, and this Agreement will end or be transferred as Multiplier and the firm agree.
