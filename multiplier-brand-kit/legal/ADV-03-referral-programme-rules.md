@@ -1,10 +1,10 @@
 ```
 Document ID: MPL-ADV-03
 Version: 0.1 (draft for legal review)
-Audience: Adviser Firms that have signed the Adviser Firm Agreement (MPL-ADV-01) and wish to introduce other adviser firms to the Platform; accepted for the firm by its Firm Administrator or another authorised signatory
-Presented when: An Authorised User first generates a referral link or invites another adviser firm to the Platform
+Audience: Individual advisers who act alone, have signed the Adviser Firm Agreement (MPL-ADV-01) personally and given the Sole Adviser Certification, and wish to introduce other individual advisers to the Platform
+Presented when: An individual adviser first generates a referral link or invites another individual adviser to the Platform
 Accepted by: e-signature [OPTION: checkbox with version log, if counsel agrees]
-Unlocks: Generating referral links, inviting other adviser firms, and earning Overrides
+Unlocks: Generating referral links, inviting other individual advisers, and earning Overrides
 Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see clause 15)
 ```
 
@@ -14,9 +14,13 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 ## 1. About these Rules
 
-1.1 These Rules are made between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and the Adviser Firm that accepts them (**you**). They relate to the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+1.1 These Rules are made between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**), and the Adviser Firm that accepts them (**you**). They relate to the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 1.2 These Rules form part of your Adviser Firm Agreement (MPL-ADV-01) once accepted. Words in capitals that are not defined here have the meanings given in the Adviser Firm Agreement. If these Rules conflict with the Adviser Firm Agreement about Overrides, these Rules apply (MPL-ADV-01 clause 2.3).
+
+1.3 **Individuals only.** The programme is open only to Individual Advisers. An adviser firm that is a company, partnership or other organisation cannot be a Referring Adviser or an Introduced Adviser and no Override is earned on its business. A firm brings its own team onto the Platform under its own Adviser Firm Agreement, and members of the same firm are never Introduced Advisers of one another. If an Individual Adviser later acts through a firm, clause 10 applies.
+
+> Drafting note: Owner decision, 10 November 2026: Overrides are for individual advisers only. Counsel to confirm the treatment where an Individual Adviser introduces a firm (currently no Override) and where an Introduced Adviser later joins a firm.
 
 1.3 Taking part is optional. You do not have to introduce any adviser firm to use the Platform or to earn the Adviser Share, and no fee is payable to join the Platform or the programme.
 
@@ -24,7 +28,9 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 2.1 In these Rules:
 
-2.1.1 **Introduced Adviser** means an adviser firm that becomes an Adviser Firm through a Qualifying Introduction.
+2.1.1 **Introduced Adviser** means an Individual Adviser who joins the Platform through a Qualifying Introduction.
+
+2.1.1A **Individual Adviser** means an individual who acts alone, has signed the Adviser Firm Agreement personally and has given the Sole Adviser Certification (MPL-ADV-01 Schedule 3), which remains true.
 
 2.1.2 **Override Tier** means the tier (Tier 1, Tier 2 or Tier 3) that the Platform records for a Referring Adviser under clause 4, which sets its Override Rate.
 
@@ -44,7 +50,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 2.1.10 **Referral Link** means a unique link or invitation generated through the Platform by an Authorised User of a Referring Adviser for the purpose of introducing another adviser firm.
 
-2.1.11 **Referring Adviser** means an Adviser Firm that has itself made a Qualifying Introduction. Overrides are earned by, and paid to, the Referring Adviser as a contracting party, never to an individual Authorised User of a firm.
+2.1.11 **Referring Adviser** means an Individual Adviser who has personally made a Qualifying Introduction. Overrides are earned by, and paid to, that individual as the contracting party.
 
 ## 3. Eligibility and Qualifying Introductions
 

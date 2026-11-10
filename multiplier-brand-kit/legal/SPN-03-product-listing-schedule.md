@@ -18,7 +18,7 @@ Re-acceptance: Any change to the terms in this Schedule (a new version must be s
 
 ## Introduction
 
-This Product Listing Schedule is made under, and forms part of, the Sponsor Listing Agreement (SPN-02) dated [PLACEHOLDER: date] between **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**), and **[PLACEHOLDER: Sponsor legal name]** (the **Sponsor**).
+This Product Listing Schedule is made under, and forms part of, the Sponsor Listing Agreement (SPN-02) dated [PLACEHOLDER: date] between **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**), and **[PLACEHOLDER: Sponsor legal name]** (the **Sponsor**).
 
 Terms defined in SPN-02 have the same meaning in this Schedule. The Multiplier platform at app.multiplier.club and any related websites, apps and services is the **Platform**.
 

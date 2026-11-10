@@ -16,7 +16,7 @@ Re-acceptance: When a new version contains a material change, including any chan
 
 ## 1. About this consent
 
-1.1 This consent is given to Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), in connection with the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+1.1 This consent is given to Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**), in connection with the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 1.2 Capitalised terms not defined here have the meanings given in the Platform Terms of Use (MPL-PLT-01).
 

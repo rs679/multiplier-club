@@ -18,7 +18,7 @@ Re-acceptance: With any new version of the parent agreement, or when this Schedu
 
 1.1 This Schedule forms part of, and is incorporated into:
 
-1.1.1 the Adviser Firm Agreement (MPL-ADV-01) between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**) and an Adviser Firm; and
+1.1.1 the Adviser Firm Agreement (MPL-ADV-01) between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**) and an Adviser Firm; and
 
 1.1.2 the Sponsor Listing Agreement (MPL-SPN-02) between Multiplier and a Sponsor.
 

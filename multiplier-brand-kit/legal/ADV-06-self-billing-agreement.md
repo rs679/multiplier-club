@@ -28,7 +28,7 @@ Re-acceptance: Each renewal where local rules require express renewal; any chang
 
 ## Parties
 
-1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
+1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**).
 2. **The Adviser Firm named in the Agreement details above** (the **Adviser Firm**, **you**).
 
 ## Background

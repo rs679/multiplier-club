@@ -31,7 +31,7 @@ This box is a summary. The full terms below apply.
 
 ## 1. About these terms
 
-1.1 These Investor Terms (**Terms**) are an agreement between you and Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
+1.1 These Investor Terms (**Terms**) are an agreement between you and Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**).
 
 1.2 They apply to your use of the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**) as an investor.
 

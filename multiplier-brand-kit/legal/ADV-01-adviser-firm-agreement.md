@@ -30,7 +30,7 @@ These details are completed during onboarding and form part of this Agreement.
 
 ## Parties
 
-1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**).
+1. **Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**).
 2. **The adviser firm named in the Agreement details above** (the **Adviser Firm**, **you**).
 
 Where the adviser is an individual acting alone and not through a firm, that individual is the **Adviser Firm** for this Agreement, signs it personally, and must also give the Sole Adviser Certification in Schedule 3. Firms remain the usual contracting party.

@@ -18,7 +18,7 @@ Re-acceptance: On any material change affecting the Product or the Sponsor Group
 
 ## To
 
-**Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**), as operator of the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+**Sirius Consulting FZCO**, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**), as operator of the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 ## From
 

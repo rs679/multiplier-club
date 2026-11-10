@@ -14,7 +14,7 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 ## 1. About these Rules
 
-1.1 These Rules are made between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in [PLACEHOLDER: free zone and emirate], United Arab Emirates, with licence number [PLACEHOLDER: number] whose registered office is at [PLACEHOLDER: address] (**Multiplier**, **we**, **us**), and the Authorised User who accepts them (**you**). They apply to the points programme and leaderboard on the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
+1.1 These Rules are made between Sirius Consulting FZCO, trading as Multiplier, a free zone company incorporated in Dubai Silicon Oasis, Dubai, United Arab Emirates, with licence number 43190, whose registered office is at Dubai Silicon Oasis, Dubai, United Arab Emirates (**Multiplier**, **we**, **us**), and the Authorised User who accepts them (**you**). They apply to the points programme and leaderboard on the Multiplier platform at app.multiplier.club and any related websites, apps and services (the **Platform**).
 
 1.2 These Rules also form part of your firm's Adviser Firm Agreement (MPL-ADV-01, clause 14.2) and apply alongside the Authorised User Terms (MPL-ADV-05) that you have accepted. Words in capitals that are not defined here have the meanings given in the Adviser Firm Agreement.
 
