@@ -79,7 +79,7 @@ Re-acceptance: On a material change. Multiplier will notify Adviser Firms and Sp
 | "safe", "secure", "risk-free", "low risk", "can't lose", "protected" | All Products carry risk, including loss of capital | Use the standard risk wording (Annex B) |
 | "best" (for example "best deal", "best returns") | Unsubstantiated superlative | Describe objectively, or not at all |
 | "AI due diligence" | Multiplier does not carry out due diligence on Products for investors | Do not describe any tool as due diligence |
-| "exclusive", "limited time", "act now", "only [number] places left" | Creates undue pressure | State factual closing dates only inside the Platform |
+| "exclusive", "limited time", "act now", "only a few places left" | Creates undue pressure | State factual closing dates only inside the Platform |
 | "endorsed by", "recommended by", "selected by", "backed by" Multiplier | Multiplier does not endorse, recommend or back any Product | Use the fixed description in 3.1 |
 
 4.2 Also do not:

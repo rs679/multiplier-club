@@ -266,7 +266,7 @@ The summary must cover, where relevant:
 
 ## Part 10: Existing Investor List (only if clause 9 of SPN-02 applies)
 
-> Drafting note: Delete this Part if the owner does not adopt the Existing Investor List option. The list may only be completed in the Schedule for the Sponsor's first Product. Later Schedules should say: "The Existing Investor List submitted with Schedule [reference] applies. No additions are permitted."
+> Drafting note: Delete this Part if the owner does not adopt the Existing Investor List option. The list may only be completed in the Schedule for the Sponsor's first Product. Later Schedules should say: "The Existing Investor List submitted with Schedule [PLACEHOLDER: reference] applies. No additions are permitted."
 
 The Existing Investor List contains no more than [PLACEHOLDER: number] investors, each of whom held an investment in a Sponsor Product that closed before the date of SPN-02. It excludes those investors from the Success Fee only for Funded Investments that are not Processed through the Platform and not introduced by a Platform Adviser (clause 9.3 of SPN-02). It does not apply to any investment Processed through the Platform.
 
@@ -278,7 +278,7 @@ The Existing Investor List contains no more than [PLACEHOLDER: number] investors
 
 ## Part 11: Special terms
 
-[PLACEHOLDER: any special terms for this Product. Each special term that is intended to override a clause of SPN-02 must state: "This special term overrides clause [number] of SPN-02 for this Product only."]
+[PLACEHOLDER: any special terms for this Product. Each special term that is intended to override a clause of SPN-02 must state: "This special term overrides clause (number) of SPN-02 for this Product only."]
 
 If there are no special terms, state "None".
 
@@ -313,7 +313,7 @@ I confirm that I am authorised to sign for and bind the Sponsor.
 
 Date: [PLACEHOLDER: date, recorded by the e-signature provider]
 
-**[If the Issuer joins this Schedule] Signed electronically for and on behalf of [PLACEHOLDER: Issuer legal name]**
+**Only if the Issuer joins this Schedule: signed electronically for and on behalf of [PLACEHOLDER: Issuer legal name]**
 
 Name: [PLACEHOLDER: signatory name]
 

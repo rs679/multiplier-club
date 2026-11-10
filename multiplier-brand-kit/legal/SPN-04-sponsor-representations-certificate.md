@@ -95,7 +95,7 @@ The Sponsor certifies to Multiplier that, as at the date of this certificate, ex
 
 2.16 All subscription money for the Product is paid only to the payee and account set out in Part 6.5 of the Product Listing Schedule (the Sponsor, its administrator or an escrow agent), never to Multiplier, and is held and applied as described in the Offering Documents. Those payment instructions are accurate and current, and have not been changed other than through the Platform's controlled process.
 
-2.17 [Where an escrow agent or administrator is used:] The escrow or administration arrangements described in the Product Listing Schedule are in force, and the escrow agent or administrator is not aware of any breach of them.
+2.17 (Only where an escrow agent or administrator is used.) The escrow or administration arrangements described in the Product Listing Schedule are in force, and the escrow agent or administrator is not aware of any breach of them.
 
 ### Conflicts
 
@@ -103,7 +103,7 @@ The Sponsor certifies to Multiplier that, as at the date of this certificate, ex
 
 ### Assets
 
-2.19 [Where the Product is backed by physical or collectible assets:] The relevant member of the Sponsor Group or the Issuer has good title to (or the right to acquire) the assets described in the Offering Documents, and the custody, storage, insurance and valuation arrangements are in force and as described.
+2.19 (Only where the Product is backed by physical or collectible assets.) The relevant member of the Sponsor Group or the Issuer has good title to (or the right to acquire) the assets described in the Offering Documents, and the custody, storage, insurance and valuation arrangements are in force and as described.
 
 ### Obligations to Multiplier
 

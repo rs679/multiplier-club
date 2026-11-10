@@ -512,7 +512,7 @@ and whether or not this Agreement or the relevant Product Listing Schedule has e
 
 17.3 **No US persons.** The Platform is not available to US persons. The Sponsor must not use the Platform to offer any Product to US persons.
 
-17.4 **Subscription requirements.** The Sponsor's Product-specific subscription requirements (additional questions, documents, side letters, signature blocks and payment instructions) are set out in the Product Listing Schedule. The Platform pre-fills the Sponsor's subscription pack from the Investor's profile where the Investor has consented to share data with the Sponsor (PLT-04).
+17.4 **Subscription requirements.** The Sponsor's Product-specific subscription requirements (additional questions, documents, side letters, signature blocks and payment instructions) are set out in the Product Listing Schedule. The Platform pre-fills the Sponsor's subscription pack from the Investor's profile where the Investor has consented on the Platform to share data with the Sponsor.
 
 17.5 **AML and KYC.** The Sponsor (or its administrator) is responsible for carrying out all customer due diligence, anti-money-laundering, sanctions and know-your-customer checks on Investors that Applicable Law requires, and makes the final decision whether to accept any Investor. Multiplier's own checks (including identity verification, sanctions screening and the declarations under INV-03) are carried out for Multiplier's own purposes. The Sponsor may use information shared with it through the Platform, but must not rely on Multiplier to meet its own obligations unless the parties have signed a separate reliance agreement [PLACEHOLDER: reliance agreement, if any].
 
@@ -578,7 +578,7 @@ and whether or not this Agreement or the relevant Product Listing Schedule has e
 
 21.1 Each party is an independent controller of the personal data it processes under this Agreement, and will comply with Data Protection Law.
 
-21.2 The parties will share personal data only as set out in the Sponsor Data Sharing Schedule (Schedule 2), and Investor data is shared with the Sponsor only where the Investor has given consent to that sharing under the Data Sharing Schedule (PLT-04).
+21.2 The parties will share personal data only as set out in the Sponsor Data Sharing Schedule (Schedule 2), and Investor data is shared with the Sponsor only where the Investor has given consent to that sharing on the Platform, as described in the Privacy Notice (PLT-02).
 
 21.3 The Sponsor must use personal data about Investors and Platform Advisers received through the Platform only for the relevant Product: to assess and accept subscriptions, to carry out its anti-money-laundering and know-your-customer checks, to administer the investment, to communicate with the Investor about it, and to meet its legal obligations. It must not use that data to market any other product or service, other than through the Platform.
 
@@ -604,7 +604,7 @@ and whether or not this Agreement or the relevant Product Listing Schedule has e
 
 23.1 Multiplier may state, factually, that the Sponsor makes products available through the Platform, and may show the Sponsor's name and logo in lists of sponsors on the Platform and on Multiplier's website, in accordance with the Content and Marketing Guidelines (PLT-06). Multiplier will not publish details of any Product outside the gated areas of the Platform without the Sponsor's consent.
 
-23.2 The Sponsor may refer to Multiplier only as permitted by the Content and Marketing Guidelines (PLT-06), and may describe Multiplier's screening only in the wording in clause 5.2. The Sponsor must not state or imply that Multiplier has approved, verified, vetted, endorsed or recommended the Sponsor or any Product, or use Multiplier's name or logo in any Offering Document, without Multiplier's prior written consent.
+23.2 The Sponsor may refer to Multiplier only as permitted by the Content and Marketing Guidelines (PLT-06), and may describe Multiplier's screening only in the wording in clause 5.2. The Sponsor must not state or imply that Multiplier has approved, verified, vetted, endorsed or recommended the Sponsor or any Product, or use Multiplier's name or logo in any Offering Document (other than the factual disclosure required by clause 14.1.4), without Multiplier's prior written consent.
 
 23.3 Neither party will issue a press release about this Agreement without the other's prior written consent.
 
@@ -821,9 +821,9 @@ Quarter ending: [PLACEHOLDER: date]
 
 I, [PLACEHOLDER: name], [PLACEHOLDER: title] of the Sponsor, certify for and on behalf of the Sponsor that, having made due enquiry of the Sponsor Group and its administrators, registrars and transfer agents:
 
-1. the attached schedule lists every Funded Investment with a Closing in the quarter, with the details required for a Closing Report [or: there were no Funded Investments with a Closing in the quarter];
+1. [OPTION A: the attached schedule lists every Funded Investment with a Closing in the quarter, with the details required for a Closing Report / OPTION B: there were no Funded Investments with a Closing in the quarter];
 2. all Success Fees due on those Funded Investments have been paid, or are listed in the attached schedule as payable on the dates shown;
-3. [if clause 13.3 Option A applies: the attached confidential list of new and increased investors in Sponsor Products in the quarter is complete]; and
+3. (only where clause 13.3 Option A applies) the attached confidential list of new and increased investors in Sponsor Products in the quarter is complete; and
 4. no member of the Sponsor Group has, during the quarter, made or agreed to make any payment or given any benefit to any Platform Adviser in connection with any Platform Investor, other than through Multiplier.
 
 Signed electronically: ______________________
@@ -836,13 +836,13 @@ Date: [PLACEHOLDER: date]
 
 1. **Roles.** Multiplier and the Sponsor are each independent controllers of the personal data they process. Neither processes personal data on the other's behalf as a processor under this Agreement. Where the Sponsor uses an administrator, registrar or transfer agent, that service provider acts as the Sponsor's processor (or as an independent controller, as the case may be), and the Sponsor is responsible for it.
 
-2. **Data Multiplier shares with the Sponsor.** Only with the Investor's consent under the Data Sharing Schedule (PLT-04), and only for the Product the Investor chooses to subscribe for: identification and contact details; identity verification results; eligibility category and declarations (INV-02); AML, tax and status declarations (INV-03); the Investor's acknowledgements (INV-05); subscription data; and the identity of the Investor's Platform Adviser. Multiplier may also share the identity and contact details of Platform Advisers who interact with the Sponsor's Products.
+2. **Data Multiplier shares with the Sponsor.** Only with the Investor's consent given on the Platform, and only for the Product the Investor chooses to subscribe for: identification and contact details; identity verification results; eligibility category and declarations (INV-02); AML, tax and status declarations (INV-03); the Investor's acknowledgements (INV-05); subscription data; and the identity of the Investor's Platform Adviser. Multiplier may also share the identity and contact details of Platform Advisers who interact with the Sponsor's Products.
 
 3. **Data the Sponsor shares with Multiplier.** Closing Reports and quarterly certificates; acceptance and rejection decisions; holdings; capital calls, distributions, coupons, redemptions and valuations relating to Investors; and any other data needed for Multiplier to provide reporting to Investors and their Platform Advisers, calculate and check Fees, pay Adviser Firms and meet its legal obligations.
 
 4. **Purposes.** The Sponsor may use data received from Multiplier only for the purposes in clause 21.3. Multiplier may use data received from the Sponsor only to provide the Services, to show Investors and their Platform Advisers information about their investments, to calculate, check and collect Fees, to calculate and pay amounts due to Adviser Firms, to enforce this Agreement and to meet its legal and regulatory obligations.
 
-5. **Lawful basis and transparency.** Each party is responsible for having a lawful basis for its own processing and for giving the notices Data Protection Law requires. Multiplier tells Investors, in its Privacy Notice (PLT-02) and at the point of consent (PLT-04), that their data will be shared with the Sponsor when they subscribe. The Sponsor will give Investors its own privacy notice.
+5. **Lawful basis and transparency.** Each party is responsible for having a lawful basis for its own processing and for giving the notices Data Protection Law requires. Multiplier tells Investors, in its Privacy Notice (PLT-02) and at the point of consent on the Platform, that their data will be shared with the Sponsor when they subscribe. The Sponsor will give Investors its own privacy notice.
 
 6. **Separation.** Multiplier keeps each Investor's data shared with a sponsor separate from data shared with other sponsors. The Sponsor must not use data received for one Product for another Product without the Investor's consent.
 
