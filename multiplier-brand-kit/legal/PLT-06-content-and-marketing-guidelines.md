@@ -36,6 +36,8 @@ Re-acceptance: On a material change. Multiplier will notify Adviser Firms and Sp
 
 2.2 **Neutral outside, detail inside.** Outside the Platform, communications are neutral: who is inviting, what Multiplier is, and how to register. Product terms, returns, fees, performance and documents stay inside the Platform, behind registration, eligibility confirmation and the Product's distribution restrictions.
 
+2.2A **Headline cards only before gating.** Inside the Platform, a user who has not completed a Product's gating sees only its anonymised headline card (reference code, asset class, broad sector, broad region, type of instrument, currency and status). Nobody may add to a headline card, or say anything alongside it, that names or could identify the Product, the Issuer, the Sponsor or the underlying investment. This includes sharing a headline card with a client: share the card as it is, with no added detail.
+
 2.3 **The documents are the source.** Product information comes only from the Sponsor's current Offering Documents on the Platform. Nobody adds to, improves on or summarises them in a way that changes their meaning.
 
 2.4 **Everyone owns their own words.** Sponsors are responsible for their Product Materials. Advisers are responsible for their communications with their clients, and for any advice or recommendation they give. Multiplier does not sign off any User's communications, and its review of content on the Platform (for format and these Guidelines) is not a sign-off of accuracy or legality.

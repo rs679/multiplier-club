@@ -54,7 +54,7 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## ADV-02-adviser-fee-schedule
 
-18 distinct placeholders, 6 option choices.
+17 distinct placeholders, 6 option choices.
 
 - jurisdiction
 - number
@@ -73,19 +73,16 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 - period
 - list of supported payout currencies
 - VAT treatment by jurisdiction, e.g. exempt intermediation / standard rated / reverse charge, to be confirmed by tax counsel
-- number of levels
 
 ## ADV-03-referral-programme-rules
 
-12 distinct placeholders, 8 option choices.
+10 distinct placeholders, 8 option choices.
 
-- number of levels
 - jurisdiction
 - number
 - address
 - e.g. 90
 - e.g. 180
-- number of levels, e.g. 3
 - VAT and tax treatment of Overrides by jurisdiction, to be confirmed by tax counsel
 - LCIA / ICC / DIAC
 - seat
@@ -202,7 +199,7 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## INV-01-investor-terms
 
-21 distinct placeholders, 4 option choices.
+20 distinct placeholders, 4 option choices.
 
 - jurisdiction
 - number
@@ -214,7 +211,6 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 - settings page or contact
 - security contact
 - link to investor fee schedule
-- 24 to 36
 - 70
 - amount
 - counsel to confirm
@@ -594,7 +590,7 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## SPN-02-sponsor-listing-agreement
 
-50 distinct placeholders, 12 option choices.
+49 distinct placeholders, 11 option choices.
 
 - jurisdiction
 - number
@@ -618,7 +614,6 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 - number, suggested 30
 - number, suggested 5
 - number, suggested 6
-- number of months, between 24 and 36
 - number, suggested 15
 - percentage, suggested 5
 - applicable anti-bribery laws, for example the UK Bribery Act 2010 and the US Foreign Corrupt Practices Act
@@ -649,7 +644,7 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## SPN-03-product-listing-schedule
 
-87 distinct placeholders, 10 option choices.
+91 distinct placeholders, 10 option choices.
 
 - date
 - jurisdiction
@@ -670,6 +665,10 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 - name
 - warehouse or custodian, insurer, title evidence
 - name, title, email, phone
+- for example private credit, real estate, private equity
+- for example healthcare, logistics; no company or project names
+- for example Europe, GCC, Southeast Asia; no city, address or site
+- for example loan note, fund interest, SPV shares
 - currency
 - amount
 - dates

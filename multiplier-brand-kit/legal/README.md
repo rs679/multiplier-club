@@ -15,7 +15,7 @@ Full document IDs carry the `MPL-` prefix (for example `MPL-PLT-01`). Short IDs 
 | ID | Document | Audience | Presented when | Accepted by | Unlocks |
 |---|---|---|---|---|---|
 | **Platform-wide** | | | | | |
-| PLT-01 | [Platform Terms of Use](PLT-01-platform-terms-of-use.md) | Every user | Sign-up | Click-through | Account, profile and settings; neutral product cards (no terms, returns or fees) |
+| PLT-01 | [Platform Terms of Use](PLT-01-platform-terms-of-use.md) | Every user | Sign-up | Click-through | Account, profile and settings; anonymised headline cards (no product name, issuer, Sponsor, identifying details, terms, returns or fees) |
 | PLT-02 | [Platform Privacy Notice](PLT-02-privacy-notice-platform.md) | Every user, and individuals whose data users provide | Sign-up; always available in footer and settings | Click-through (acknowledgement, not consent) | Account (with PLT-01 and PLT-03) |
 | PLT-03 | [Electronic Signature and Communications Consent](PLT-03-electronic-signature-and-communications-consent.md) | Every user | Sign-up | Click-through | Account; ability to receive, accept and sign all later documents electronically |
 | PLT-04 | [Data Sharing Schedule](PLT-04-data-sharing-schedule.md) (controller to controller) | Adviser Firms and Sponsors | As a schedule to ADV-01 and SPN-02, when either is signed | E-signature countersigned by Multiplier (as part of ADV-01 or SPN-02) | Data flows between Multiplier and the Adviser Firm or Sponsor |

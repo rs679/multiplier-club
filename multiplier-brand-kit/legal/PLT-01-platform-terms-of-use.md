@@ -6,7 +6,7 @@ Version: 0.1 (draft for legal review)
 Audience: Every user of the Platform: investors, advisers, sponsors, firm administrators and authorised users
 Presented when: Sign-up, before an account is created
 Accepted by: click-through
-Unlocks: Creating an account, managing a profile and settings, and browsing the general areas of the Platform, including neutral product cards (product name, Sponsor, asset class and status only; no terms, returns or fees). Viewing product terms, data rooms, subscribing, introducing clients, listing products or receiving payments needs the role-specific documents described in clause 6
+Unlocks: Creating an account, managing a profile and settings, and browsing the general areas of the Platform, including anonymised headline cards for products (a reference code, asset class, broad sector, broad region, type of instrument, currency and status only; no product name, issuer, Sponsor, identifying details, terms, returns or fees). Viewing product terms, data rooms, subscribing, introducing clients, listing products or receiving payments needs the role-specific documents described in clause 6
 Re-acceptance: When a new version contains a material change; use of the Platform is paused until the new version is accepted
 ```
 

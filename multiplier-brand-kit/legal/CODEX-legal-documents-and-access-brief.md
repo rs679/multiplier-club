@@ -82,7 +82,9 @@ The gate engine should evaluate **requirements per action**, not per page. Below
 
 ### Everyone: sign-up
 Requires: PLT-01, PLT-02, PLT-03. Email verified. Country declared. If country or answers indicate a US person, stop and show the "not available" screen.
-Allows: profile, public insights, neutral deal cards (product name, sponsor, asset class, status; no terms, returns or fees), notifications settings.
+Allows: profile, public insights, anonymised headline cards, notification settings.
+
+**Headline cards (owner decision).** Before a user completes a product's gates, they see only an anonymised headline card: a Multiplier reference code (for example MPL-0001), asset class, broad sector, broad region, type of instrument, currency and status. The card must not show or allow anyone to work out the product name, issuer, sponsor, logo or branding, company, asset, project or borrower names, exact locations, asset images, raise size, minimum, returns, fees, term or dates. The sponsor fills these fields in SPN-03 Part 2A, and a Multiplier admin reviews them before the card goes live. Make the headline card a separate data object with only these fields, so identifying data cannot leak into it through templates, search results, page titles, URLs, image metadata, share previews or API responses. Full details (deal card, key terms, data room) appear only once the gates are passed. Headline cards also respect the product's distribution restrictions: users in an excluded country or category do not see the card at all.
 
 ### Investor
 
@@ -98,7 +100,7 @@ An investor invited by an adviser goes through the same gates. The adviser's inv
 
 ### Adviser
 
-An adviser can sign up and browse neutral deal cards straight away. The first time they try any of the actions below, they get the checklist.
+An adviser can sign up and browse anonymised headline cards straight away. The first time they try any of the actions below, they get the checklist.
 
 | Action | Requires (if not already complete) |
 |---|---|
@@ -173,10 +175,10 @@ Rules:
 ## Commercial items the ledger needs from these documents
 
 - **Adviser Share:** 70% of total deal fees Multiplier receives from the sponsor for that product, unless the firm's fee schedule (ADV-02) says otherwise. Paid when Multiplier has been paid.
-- **Overrides:** multi-level, as set out in ADV-03, paid only from Multiplier's 30% share, with the caps and the minimum Multiplier retained share stated in ADV-03. The ledger must stop paying overrides once the cap or the retained-share floor is reached. Keep the levels and percentages in configuration, not code.
+- **Overrides:** three levels, as a percentage of Deal Fees: Level 1 (the firm that introduced the adviser) 10%, Level 2 5%, Level 3 3%. Paid only from Multiplier's 30% share, so the introduced adviser's 70% never changes. Cap 18% of Deal Fees in total; Multiplier keeps at least 12% of Deal Fees. If an Adviser Share above 70% would push Multiplier below 12%, overrides are reduced as set out in ADV-03 clause 5.5. Keep levels and percentages in configuration, not code.
 - **Clawback:** if Multiplier refunds or loses a fee, the related Adviser Share and overrides are reversed against future payouts.
 - **Waiver or rebate:** a firm can waive or rebate its share; the ledger records this and the client disclosure reflects it.
-- **Sponsor fees:** screening, listing and success fees from SPN-01, SPN-02 and SPN-03. Success fees apply to all capital from Platform Investors during the tail period in SPN-02.
+- **Sponsor fees:** screening, listing and success fees from SPN-01, SPN-02 and SPN-03. Success fees apply to all capital from Platform Investors during a 24-month tail period. A Platform Investor is an investor who was eligible to view one of that sponsor's products, was invited to or viewed one through the platform, or was introduced by a platform adviser. The platform must record these events per investor and sponsor, with dates, so the tail can be evidenced.
 
 ## Tests (must)
 
@@ -186,6 +188,7 @@ Use fictional data only.
 - T4 documents do not satisfy requirements until countersigned.
 - A firm-level agreement satisfies the requirement for every user at that firm, and only that firm.
 - Product restrictions (country, category, adviser list) block access even when all documents are signed.
+- A headline card never exposes identifying fields, in the page, its URL, share previews, search or API responses, to a user who has not passed the gates.
 - US-person declaration blocks every gated action.
 - Override calculation respects levels, caps and the retained-share floor; clawback reverses correctly.
 - Every gate check, acceptance and override is in the audit log.

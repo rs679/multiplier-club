@@ -92,13 +92,13 @@ D. Multiplier's business depends on being paid for the investors and advisers it
 (d) any firm that a person within paragraph (b) or (c) joins, establishes or controls, in relation to any Platform Investor.
 
 1.1.25 **Platform Investor** means any Investor who, at any time before the end of the Term:
-(a) [OPTION A: registered on the Platform / OPTION B: registered on the Platform and was eligible, under the Product's gating, to view any Sponsor Product];
+(a) registered on the Platform and was eligible, under the Product's gating, to view any Sponsor Product;
 (b) was invited through the Platform (including by an invitation, link or QR code generated on the Platform) to the Platform, the Product or any Sponsor Product;
 (c) received or viewed the Product or any Sponsor Product, or any information about it, on or through the Platform; or
 (d) was introduced to the Product, any Sponsor Product or any member of the Sponsor Group by a Platform Adviser,
 in each case regardless of any prior, existing or later relationship between that Investor and any member of the Sponsor Group, and including that Investor's Connected Persons.
 
-> Drafting note: Limb (a) Option A follows the owner's definition and catches any investor registered on the Platform, even one who never saw this Sponsor's Products. It is the most protective but the hardest to justify for off-Platform investments in a Tail Period. Option B ties it to Sponsor Products. Limbs (b) to (d) apply in either case.
+> Drafting note: Owner decision: limb (a) covers investors registered on the Platform who were eligible to view a Sponsor Product, not every registered investor. Limbs (b) to (d) also apply.
 
 1.1.26 **Processed through the Platform** has the meaning given in clause 7.2.
 
@@ -176,7 +176,7 @@ in each case regardless of any prior, existing or later relationship between tha
 
 4.1 Subject to this Agreement, Multiplier will make the following available to the Sponsor for each live Product:
 
-4.1.1 **Listing:** a Product page on the Platform, including a deal card and key-terms table in Multiplier's standard format, visible only to users who satisfy the Product's gating;
+4.1.1 **Listing:** (a) an anonymised headline card, visible to registered users who are not excluded by the Product's distribution restrictions, showing only the fields in Part 2A of the Product Listing Schedule and nothing that names or could reasonably identify the Product, the Issuer, the Sponsor or the underlying investment; and (b) a Product page, including a deal card and key-terms table in Multiplier's standard format, visible only to users who satisfy the Product's gating;
 
 4.1.2 **Distribution tools:** tools enabling Platform Advisers to view the Product, add it to their shelf and invite eligible clients, and enabling the Sponsor to restrict which countries, investor categories and Adviser Firms may see the Product;
 
@@ -296,7 +296,7 @@ in each case regardless of any prior, existing or later relationship between tha
 
 and whether or not this Agreement or the relevant Product Listing Schedule has ended, and whether or not the Product has been suspended or removed from the Platform.
 
-8.2 The **Tail Period** for each Platform Investor starts on the date that Investor first became a Platform Investor and ends [PLACEHOLDER: number of months, between 24 and 36] months after [OPTION A: that date / OPTION B: the later of that date and the end of the Term].
+8.2 The **Tail Period** for each Platform Investor starts on the date that Investor first became a Platform Investor and ends 24 months after [OPTION A: that date / OPTION B: the later of that date and the end of the Term].
 
 > Drafting note: Option B gives Multiplier tail protection for the whole relationship plus a post-termination period; Option A is a fixed window from first introduction, which is easier to defend as reasonable. A further option, if the owner wants it, is to restart the Tail Period on each Funded Investment Processed through the Platform; this is likely to attract strong negotiation from sponsors.
 

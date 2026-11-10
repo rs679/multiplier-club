@@ -52,6 +52,24 @@ Schedule reference: [PLACEHOLDER: Platform schedule reference]
 
 ---
 
+## Part 2A: Headline card (visible before gating)
+
+The headline card is the only information about the Product that registered users see before they complete the Product's gating. It must not name or allow anyone to identify the Product, the Issuer, the Sponsor or the underlying investment.
+
+| Field | Entry |
+|---|---|
+| Reference code | [Assigned by Multiplier, for example MPL-0001] |
+| Asset class | [PLACEHOLDER: for example private credit, real estate, private equity] |
+| Broad sector | [PLACEHOLDER: for example healthcare, logistics; no company or project names] |
+| Broad region | [PLACEHOLDER: for example Europe, GCC, Southeast Asia; no city, address or site] |
+| Type of instrument | [PLACEHOLDER: for example loan note, fund interest, SPV shares] |
+| Currency | [PLACEHOLDER: currency] |
+| Status | [Open / Closing soon / Closed: set by the Platform] |
+
+Not shown on the headline card: the Product's name, the Issuer's or Sponsor's name, logo or branding, names of companies, assets, projects, borrowers or counterparties, exact locations, images of assets, size of raise, minimum investment, target or past returns, fees, term or dates, or any other detail that could identify the Product.
+
+The Sponsor confirms that the entries above do not identify the Product, the Issuer, the Sponsor or the underlying investment. Multiplier may edit the headline card to remove identifying details.
+
 ## Part 2: Key Product terms (summary for the Platform)
 
 | Field | Entry |
