@@ -45,10 +45,10 @@ Acceptance tiers:
 | ID | Document | Purpose | Who accepts | When | Tier | Unlocks | Re-accept |
 |---|---|---|---|---|---|---|---|
 | INV-01 | Investor Terms | Investor's relationship with Multiplier: technology platform only, no advice, no holding of money, own due diligence, no recourse, risks | Investor | First attempt to view product terms or a data room | T1 | Gated product area | Material change |
-| INV-02 | Eligibility Declaration | Self-certification of investor category by country (country modules), including the optional genuine reverse-solicitation attestation | Investor | Same moment as INV-01 | T2 | Gated product area, filtered by eligibility | Every 12 months, or on change of country or category |
-| INV-03 | AML, Tax and Status Declarations | Source of funds and wealth, tax residency and self-certification, PEP status, not a US person | Investor | First "indicate interest" or "subscribe" | T2 (plus identity verification) | Interest and subscription | Every 12 months or on change |
+| INV-02 | Eligibility Declaration | Self-certification of investor category by country (country modules), including the optional genuine reverse-solicitation attestation | Investor | Same moment as INV-01 | T2, confirmed by e-signature | Gated product area, filtered by eligibility | Every 12 months, or on change of country or category |
+| INV-03 | AML, Tax and Status Declarations | Source of funds and wealth, tax residency and self-certification, PEP status, not a US person | Investor | First "indicate interest" or "subscribe" | T2, confirmed by e-signature (plus identity verification) | Interest and subscription | Every 12 months or on change |
 | INV-04 | Data Room Confidentiality Undertaking | Keeps product documents confidential | Investor, and any adviser user | Each product, first time opening its data room | T1 | That product's data room | New version of the product's documents only if the sponsor asks |
-| INV-05 | Product Risk and Subscription Acknowledgement | Confirms the investor has read the documents and understands the specific risks of this product | Investor | Each product, before the sponsor's subscription pack | T2 | That product's subscription pack | Per subscription |
+| INV-05 | Product Risk and Subscription Acknowledgement | Confirms the investor has read the documents and understands the specific risks of this product | Investor | Each product, before the sponsor's subscription pack | T3 (pre-filled, one signature) | That product's subscription pack | Per subscription |
 
 ### Advisers
 
