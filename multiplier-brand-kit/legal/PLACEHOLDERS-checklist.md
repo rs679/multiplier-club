@@ -1,10 +1,10 @@
 # Placeholders and options to fill
 
-Generated from the drafts. Each line is a blank in the document named. Many repeat across documents (company details, governing law, arbitration); fill those once and apply everywhere.
+Generated from the drafts. Each line is a blank in the document named. Seven documents (PLT-01, PLT-02, PLT-03, ADV-01, ADV-02, ADV-03, ADV-05) are now at version 0.9 with no blanks; the choices applied to them are in `DEFAULTS-APPLIED.md` and should be carried into the remaining documents where the same blank repeats.
 
 ## Fill once, used everywhere
 
-- Sirius Consulting FZCO, trading as Multiplier: jurisdiction of incorporation, registration number, registered office
+- Company details: settled. Sirius Consulting FZCO, trading as Multiplier, Dubai Silicon Oasis, licence number 43190.
 - Governing law; arbitration rules (LCIA / ICC / DIAC); seat; amount above which three arbitrators sit
 - Contact emails: legal notices, support, complaints, privacy, security, compliance
 - Business Day city
@@ -12,82 +12,19 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 - Countries served and countries excluded
 - E-signature provider; identity and KYB provider
 - Record retention periods (align PLT-02 and INT-01)
-- Who at Multiplier countersigns
+- Who at Multiplier countersigns the sponsor agreements (SPN-02, SPN-03). ADV-01 at version 0.9 takes effect when Multiplier enables the firm's access on the platform, with no separate countersignature.
 
 ## ADV-01-adviser-firm-agreement
 
-33 distinct placeholders, 13 option choices.
-
-- firm legal name
-- registration number
-- registered address
-- regulator name(s) and reference number(s)
-- jurisdictions
-- email
-- currency, from the list of currencies Multiplier supports
-- version
-- jurisdiction
-- number
-- address
-- city or jurisdiction of Multiplier's principal place of business
-- principal data protection laws, e.g. the data protection law of Multiplier's jurisdiction and, where relevant, the EU and UK GDPR
-- Multiplier's home jurisdiction
-- minimum PI insurance amount and currency
-- statement of Multiplier's regulatory status in each jurisdiction where it contracts with Adviser Firms, to be settled by counsel
-- minimum payout amount and currency
-- VAT treatment of the adviser's introduction services in each relevant jurisdiction, to be confirmed by tax counsel
-- rate
-- reference rate
-- period, e.g. six years from the Funded Investment or the applicable limitation period
-- default success-fee rate
-- client protection period, e.g. 12 or 24
-- principal anti-bribery laws, e.g. the UK Bribery Act 2010 and local equivalents
-- fixed amount and currency
-- amount
-- Multiplier legal notices email and postal address
-- reference to the third-party rights statute of the governing law, if any
-- governing law
-- LCIA / ICC / DIAC
-- seat
-- name
-- title
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## ADV-02-adviser-fee-schedule
 
-17 distinct placeholders, 6 option choices.
-
-- jurisdiction
-- number
-- address
-- date
-- Product name
-- Sponsor
-- x% of amount funded
-- 70%
-- 30%
-- x% for x months / none
-- x months
-- amount and currency
-- maximum period, if any
-- period, e.g. six years or the applicable limitation period
-- period
-- list of supported payout currencies
-- VAT treatment by jurisdiction, e.g. exempt intermediation / standard rated / reverse charge, to be confirmed by tax counsel
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## ADV-03-referral-programme-rules
 
-10 distinct placeholders, 8 option choices.
-
-- jurisdiction
-- number
-- address
-- e.g. 90
-- e.g. 180
-- VAT and tax treatment of Overrides by jurisdiction, to be confirmed by tax counsel
-- LCIA / ICC / DIAC
-- seat
-- amount
-- governing law
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## ADV-04-points-and-leaderboard-rules
 
@@ -107,17 +44,7 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## ADV-05-authorised-user-terms
 
-9 distinct placeholders, 0 option choices.
-
-- jurisdiction
-- number
-- address
-- security contact email
-- retention period
-- governing law
-- LCIA / ICC / DIAC
-- seat
-- amount
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## ADV-06-self-billing-agreement
 
@@ -368,93 +295,15 @@ Generated from the drafts. Each line is a blank in the document named. Many repe
 
 ## PLT-01-platform-terms-of-use
 
-30 distinct placeholders, 3 option choices.
-
-- jurisdiction
-- number
-- address
-- city for business days
-- reference, e.g. Regulation S under the US Securities Act of 1933
-- list of sanctions authorities, e.g. the United Nations, the UK, the EU, the United States (OFAC) and the jurisdiction of incorporation of Multiplier
-- list of countries or link to list of countries where the Platform is currently available, and countries expressly excluded.
-- confirm whether one login may combine, for example, Adviser and personal Investor roles.
-- confirm whether two-factor authentication is mandatory for all roles or only for advisers, sponsors and firm administrators
-- security contact email
-- URL of published document index
-- location in the app, e.g. Settings > Documents
-- regulatory status statement per country.
-- abuse or compliance contact email
-- list of providers whose end-user terms users must accept, if any.
-- settings path or contact email
-- notice period, e.g. 30
-- period, e.g. 24 months
-- period
-- fixed amount and currency
-- URL
-- notice period, e.g. 14
-- governing law
-- LCIA / ICC / DIAC
-- seat
-- amount
-- reference to applicable third-party rights legislation, e.g. Contracts (Rights of Third Parties) Act 1999, if relevant to the governing law.
-- legal notices email
-- general support email
-- postal address
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## PLT-02-privacy-notice-platform
 
-35 distinct placeholders, 2 option choices.
-
-- jurisdiction
-- number
-- address
-- privacy contact email
-- postal address
-- name or role
-- email
-- UK representative, EU representative and any other local representative required by law, with contact details, or a statement that none is required.
-- registration numbers with data protection authorities where required, e.g. ICO registration number, DIFC Commissioner notification.
-- URL of cookie notice
-- reference to local law conditions, e.g. UK Data Protection Act 2018 Schedule 1 conditions, and our appropriate policy document.
-- circumstances, e.g. the Adviser Firm is relied on for client due diligence under a separate reliance arrangement
-- provider and hosting region
-- provider(s)
-- provider
-- confirm entity and region
-- provider(s), e.g. Meta Platforms for WhatsApp and a messaging API provider
-- provider(s) and banks
-- identify any providers that act as independent controllers.
-- other local equivalents
-- main hosting location and list of countries to which data is routinely transferred.
-- period, e.g. 2 years
-- period, e.g. 5 years
-- period, e.g. 5-7 years
-- period, e.g. 6 years
-- period, e.g. the life of the relevant agreement plus 7 years
-- period, e.g. 7 years
-- period, e.g. 3 years
-- period, e.g. 12-24 months
-- period
-- any certifications held or targeted, e.g. ISO 27001, SOC 2.
-- supervisory authority and contact details
-- in-app privacy request tool, if any
-- period, e.g. one month
-- DPO contact, if appointed
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## PLT-03-electronic-signature-and-communications-consent
 
-10 distinct placeholders, 1 option choices.
-
-- jurisdiction
-- number
-- address
-- e-signature provider
-- process for wet-ink, notarised or apostilled documents.
-- location in the app, e.g. Settings > Documents
-- support email
-- fee and currency
-- list, e.g. the two most recent major versions of Chrome, Safari, Edge or Firefox
-- settings path
+No open items at version 0.9 (owner review candidate). The choices made to close the blanks are listed in `DEFAULTS-APPLIED.md` for the owner and counsel to confirm.
 
 ## PLT-04-data-sharing-schedule
 

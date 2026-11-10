@@ -1,6 +1,6 @@
 # Multiplier legal documents
 
-**Status: every document in this folder is a first draft (version 0.1) for review by qualified counsel. None of it is legal advice, and nothing here should be published to users, signed or relied on until counsel has reviewed it and the owner has signed off.** Drafting notes (lines starting `> Drafting note:`) are for the reviewing lawyer and must be removed before publishing.
+**Status: seven documents (PLT-01, PLT-02, PLT-03, ADV-01, ADV-02, ADV-03, ADV-05) are owner review candidates at version 0.9 with no blanks; the choices applied to close them are in `DEFAULTS-APPLIED.md`. Every other document is a first draft at version 0.1. None of it has been reviewed by counsel or is legal advice, and nothing here should be published to users, signed or relied on until counsel has reviewed it and the owner has signed off.** Drafting notes (lines starting `> Drafting note:`) are for the reviewing lawyer and must be removed before publishing.
 
 All documents follow [`_drafting-conventions.md`](_drafting-conventions.md). The build brief that turns this register into platform gates is [`CODEX-legal-documents-and-access-brief.md`](CODEX-legal-documents-and-access-brief.md). Background and reasoning are in [`../legal-documents-plan.md`](../legal-documents-plan.md).
 
@@ -18,7 +18,7 @@ Full document IDs carry the `MPL-` prefix (for example `MPL-PLT-01`). Short IDs 
 | PLT-01 | [Platform Terms of Use](PLT-01-platform-terms-of-use.md) | Every user | Sign-up | Click-through | Account, profile and settings; anonymised headline cards (no product name, issuer, Sponsor, identifying details, terms, returns or fees) |
 | PLT-02 | [Platform Privacy Notice](PLT-02-privacy-notice-platform.md) | Every user, and individuals whose data users provide | Sign-up; always available in footer and settings | Click-through (acknowledgement, not consent) | Account (with PLT-01 and PLT-03) |
 | PLT-03 | [Electronic Signature and Communications Consent](PLT-03-electronic-signature-and-communications-consent.md) | Every user | Sign-up | Click-through | Account; ability to receive, accept and sign all later documents electronically |
-| PLT-04 | [Data Sharing Schedule](PLT-04-data-sharing-schedule.md) (controller to controller) | Adviser Firms and Sponsors | As a schedule to ADV-01 and SPN-02, when either is signed | E-signature countersigned by Multiplier (as part of ADV-01 or SPN-02) | Data flows between Multiplier and the Adviser Firm or Sponsor |
+| PLT-04 | [Data Sharing Schedule](PLT-04-data-sharing-schedule.md) (controller to controller) | Adviser Firms and Sponsors | As a schedule to ADV-01 and SPN-02, when either is signed | With ADV-01 or SPN-02 | Data flows between Multiplier and the Adviser Firm or Sponsor |
 | PLT-05 | [Complaints Policy](PLT-05-complaints-policy.md) | Public and all users | Published; linked in footer, from PLT-01 and in emails | Not accepted (published policy) | Not applicable |
 | PLT-06 | [Content and Marketing Guidelines](PLT-06-content-and-marketing-guidelines.md) | Advisers and Sponsors (and their Authorised Users) | With ADV-01 and SPN-02 (incorporated by reference); referenced in ADV-05 | Incorporated by reference (part of the ADV-01 or SPN-02 signature) | Nothing separately; sets the rules for sharing, invitations and marketing |
 | **Investors** | | | | | |
@@ -28,7 +28,7 @@ Full document IDs carry the `MPL-` prefix (for example `MPL-PLT-01`). Short IDs 
 | INV-04 | [Data-Room Confidentiality Undertaking](INV-04-data-room-confidentiality-undertaking.md) | Investors and adviser Authorised Users | First opening of each Product's data room (per Product) | Click-through | That Product's data room |
 | INV-05 | [Product Risk and Subscription Acknowledgement](INV-05-product-risk-and-subscription-acknowledgement.md) | Investors | Each Product, before the Sponsor's subscription pack (per Product) | E-signature | The Sponsor's own subscription pack for that Product |
 | **Advisers** | | | | | |
-| ADV-01 | [Adviser Firm Agreement](ADV-01-adviser-firm-agreement.md) (incorporates PLT-04 and PLT-06; Schedule 3 is the Sole Adviser Certification for individuals acting alone) | Adviser Firms, signed by the Firm Administrator or another authorised signatory | First time anyone at the firm requests access to a deal, invites a client or shares a Product (once per firm) | E-signature countersigned by Multiplier | Firm can transact (once countersigned and firm KYB passed); Adviser Share entitlement |
+| ADV-01 | [Adviser Firm Agreement](ADV-01-adviser-firm-agreement.md) (incorporates PLT-04 and PLT-06; Schedule 3 is the Sole Adviser Certification for individuals acting alone) | Adviser Firms, signed by the Firm Administrator or another authorised signatory | First time anyone at the firm requests access to a deal, invites a client or shares a Product (once per firm) | Acceptance on the platform by the authorised signatory; takes effect when Multiplier enables the firm's access | Firm can transact (once access is enabled and firm checks passed); Adviser Share entitlement |
 | ADV-02 | [Adviser Fee Schedule](ADV-02-adviser-fee-schedule.md) (Schedule 1 to ADV-01) | Adviser Firms and their Authorised Users | With ADV-01 and on each new version; Product fee line confirmed before each share | Checkbox with version log | Sharing Products on the fee terms shown; payment of the Adviser Share |
 | ADV-03 | [Referral Programme Rules](ADV-03-referral-programme-rules.md) (individual advisers only; tiered Override of 3%, 5% or 10%, one level only, paid only from the Multiplier Share) | Adviser Firms (firm signatory) | First time the firm generates an adviser referral link | E-signature [OPTION: click-through, if counsel agrees] | Referral links and Override entitlement |
 | ADV-04 | [Points and Leaderboard Rules](ADV-04-points-and-leaderboard-rules.md) | Each adviser Authorised User | Opting in to the leaderboard | Click-through | Leaderboard participation |
@@ -62,7 +62,7 @@ Each requirement is asked for only if it is not already complete and current.
 ### Advisers
 | Action | Requires |
 |---|---|
-| Request access to a deal, invite a client or share a Product | ADV-01 signed by the Firm Administrator and countersigned (once per firm, incorporating PLT-04 and PLT-06), firm KYB, ADV-05 for each user (with user identity verification), ADV-02 acceptance, and INV-04 for each Product |
+| Request access to a deal, invite a client or share a Product | ADV-01 accepted by the Firm Administrator and access enabled by Multiplier (once per firm, incorporating PLT-04 and PLT-06), firm KYB, ADV-05 for each user (with user identity verification), ADV-02 acceptance, and INV-04 for each Product |
 | Generate a referral link | ADV-03 |
 | Opt in to the leaderboard | ADV-04 |
 | Add payout details | ADV-06 where applicable, plus bank account check |
