@@ -24,7 +24,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 > Drafting note: Owner decision, 10 November 2026: Overrides are for individual advisers only. Counsel to confirm the treatment where an Individual Adviser introduces a firm (currently no Override) and where an Introduced Adviser later joins a firm.
 
-1.3 Taking part is optional. You do not have to introduce any adviser firm to use the Platform or to earn the Adviser Share, and no fee is payable to join the Platform or the programme.
+1.4 Taking part is optional. You do not have to introduce any adviser to use the Platform or to earn the Adviser Share, and no fee is payable to join the Platform or the programme.
 
 ## 2. Definitions
 
@@ -80,7 +80,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 3.4 **Records.** The Platform's records of Referral Links, registrations and Referral Records are conclusive in the absence of manifest error or fraud. Multiplier's reasonable decision on any dispute about attribution is final, subject to MPL-ADV-01 clause 30.
 
-3.5 **Transparency to the introduced firm.** When an adviser firm registers using a Referral Link, the Platform will tell it which Adviser Firm referred it, that Multiplier pays that firm an Override out of Multiplier's own share of Deal Fees, and that this does not reduce the introduced firm's own Adviser Share.
+3.5 **Transparency to the introduced adviser.** When an individual adviser registers using a Referral Link, the Platform will tell it which Adviser Firm referred it, that Multiplier pays that firm an Override out of Multiplier's own share of Deal Fees, and that this does not reduce the introduced firm's own Adviser Share.
 
 ## 4. Override Tiers
 
