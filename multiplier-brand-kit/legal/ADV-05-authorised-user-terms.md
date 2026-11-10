@@ -1,6 +1,6 @@
 ```
 Document ID: MPL-ADV-05
-Version: 0.1 (draft for legal review)
+Version: 0.9 (owner review candidate, not yet reviewed by counsel)
 Audience: Every individual who uses the Platform on behalf of an Adviser Firm or a Sponsor firm (for example relationship managers, private bankers, advisers, investor relations staff, compliance officers and firm administrators)
 Presented when: An individual joins a firm account on the Platform (for example, by accepting an invitation from the Firm Administrator), or, for an existing user, when their firm's agreement with Multiplier is first relied on: for adviser users, their first gated action (for example a deal access request, client invitation or share); for sponsor users, before the Sponsor's first listing goes live
 Accepted by: click-through
@@ -11,6 +11,8 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 # Authorised User Terms
 
 > Drafting note: This document is shared by adviser and sponsor firms. It creates a direct contract between Multiplier and each individual user, which is what makes confidentiality and acceptable use enforceable against individuals who are not parties to their firm's agreement. Restrictions on individuals (clause 6) are tied to Platform information and a limited period; counsel should check them against employment and restrictive covenant rules in each relevant jurisdiction.
+
+> Drafting note: Owner review candidate (version 0.9), not yet reviewed by counsel. Placeholders and options in the operative text have been resolved using the defaults recorded in DEFAULTS-APPLIED.md, and the owner must confirm them before publishing. Earlier drafting notes are kept for counsel and may refer to options that have since been chosen.
 
 ## 1. About these Terms
 
@@ -50,7 +52,7 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 3.3 **Security.** You must use multi-factor authentication where the Platform requires it, keep your credentials and devices secure, and log out of shared devices. You must not try to access any part of the Platform, or any information, that you are not authorised to access.
 
-3.4 **Compromise.** If you think your account or credentials have been compromised, you must tell your Firm Administrator and Multiplier immediately at [PLACEHOLDER: security contact email], and change your password.
+3.4 **Compromise.** If you think your account or credentials have been compromised, you must tell your Firm Administrator and Multiplier immediately at access@multiplier.club, and change your password.
 
 ## 4. Confidentiality
 
@@ -62,7 +64,7 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 4.4 You must not download, copy, photograph, forward or store Platform Information outside the Platform, except where the Platform expressly allows it for your Firm's records.
 
-4.5 These obligations continue after you stop being an Authorised User, for [5] years, and indefinitely for trade secrets and personal data.
+4.5 These obligations continue after you stop being an Authorised User, for 5 years, and indefinitely for trade secrets and personal data.
 
 ## 5. Acceptable use
 
@@ -96,7 +98,7 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 6.1.4 use Platform Information for your own benefit, including for personal investment decisions, other than through your own investor account on the Platform where you are eligible and your Firm's personal account dealing rules allow it.
 
-6.2 For [12] months after you stop being an Authorised User, you must not use any Platform Information to do anything described in clause 6.1.2 or 6.1.3.
+6.2 For 12 months after you stop being an Authorised User, you must not use any Platform Information to do anything described in clause 6.1.2 or 6.1.3.
 
 6.3 Nothing in this clause 6 prevents you from working for another firm, or from using your general skills and knowledge.
 
@@ -110,13 +112,13 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 ## 8. Monitoring and audit logs
 
-8.1 Multiplier records activity on the Platform, including logins, IP addresses, devices, pages and documents viewed, documents downloaded, invitations and shares sent, messages, declarations and acceptances. Product documents may be watermarked with your name or identifier.
+8.1 Multiplier records activity on the Platform, including logins, IP addresses, devices, pages and documents viewed, invitations and shares sent, messages, declarations and acceptances. Product documents may be watermarked with your name or identifier.
 
 8.2 Multiplier uses these records to keep the Platform secure, to attribute Investors and calculate fees, to meet legal and regulatory obligations, to investigate possible breaches and disputes, and to give evidence of acceptances.
 
 8.3 Multiplier may share these records with your Firm (including its Firm Administrator and compliance function), with the relevant Sponsor (for example, data-room access logs for its Products), with Regulators and law enforcement where required or permitted by law, and with its professional advisers.
 
-8.4 Multiplier keeps these records for [PLACEHOLDER: retention period], or longer where required by law.
+8.4 Multiplier keeps these records for the periods set out in the Platform Privacy Notice (MPL-PLT-02), or longer where required by law.
 
 ## 9. Personal data
 
@@ -152,8 +154,8 @@ Re-acceptance: When Multiplier issues a new version containing a material change
 
 ## 15. Governing law and disputes
 
-15.1 These Terms, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with them, are governed by [PLACEHOLDER: governing law].
+15.1 These Terms, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with them, are governed by the laws of the Dubai International Financial Centre.
 
-15.2 Any dispute will be referred to and finally resolved by arbitration under the [PLACEHOLDER: LCIA / ICC / DIAC] Rules. The seat of arbitration is [PLACEHOLDER: seat]. The language of the arbitration is English. The tribunal will consist of one arbitrator unless the amount in dispute exceeds [PLACEHOLDER: amount]. Either party may seek urgent injunctive relief from any competent court, including to protect confidential information.
+15.2 Any dispute will be referred to and finally resolved by arbitration under the Arbitration Rules of the Dubai International Arbitration Centre (DIAC) in force when the arbitration starts. The seat of arbitration is the Dubai International Financial Centre (DIFC). The language of the arbitration is English. The tribunal will consist of one arbitrator unless the amount in dispute exceeds USD 1,000,000, in which case it will consist of three arbitrators. Either party may seek urgent injunctive relief from any competent court, including to protect confidential information. Multiplier may also seek urgent interim relief from the DIFC Courts.
 
-> Drafting note: Arbitration against individuals may be unenforceable or unsuitable in some jurisdictions (for example, where the individual is treated as a consumer or employee-like party). Counsel should consider whether courts of [PLACEHOLDER: jurisdiction] should be used for claims against individuals instead.
+> Drafting note: Arbitration against individuals may be unenforceable or unsuitable in some jurisdictions (for example, where the individual is treated as a consumer or employee-like party). Counsel should consider whether the courts of the individual's home country, or the DIFC Courts, should be used for claims against individuals instead.

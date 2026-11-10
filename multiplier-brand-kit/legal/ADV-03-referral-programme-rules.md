@@ -1,9 +1,9 @@
 ```
 Document ID: MPL-ADV-03
-Version: 0.1 (draft for legal review)
-Audience: Individual advisers who act alone, have signed the Adviser Firm Agreement (MPL-ADV-01) personally and given the Sole Adviser Certification, and wish to introduce other individual advisers to the Platform
+Version: 0.9 (owner review candidate, not yet reviewed by counsel)
+Audience: Individual advisers who act alone, have entered into the Adviser Firm Agreement (MPL-ADV-01) personally and given the Sole Adviser Certification, and wish to introduce other individual advisers to the Platform
 Presented when: An individual adviser first generates a referral link or invites another individual adviser to the Platform
-Accepted by: e-signature [OPTION: checkbox with version log, if counsel agrees]
+Accepted by: acceptance on the Platform (checkbox with version log)
 Unlocks: Generating referral links, inviting other individual advisers, and earning Overrides
 Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see clause 15)
 ```
@@ -11,6 +11,8 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 # Adviser Referral Programme Rules
 
 > Drafting note for counsel: Owner decision: Overrides are single-level. A Referring Adviser earns an Override only on firms it introduced directly, at one rate set by its Override Tier (3%, 5% or 10% of Deal Fees). Tiers do not stack and no Override is paid on the business of firms further down a chain. Counsel should still check inducement, disclosure and referral-fee rules in each jurisdiction where Overrides are paid.
+
+> Drafting note: Owner review candidate (version 0.9), not yet reviewed by counsel. Placeholders and options in the operative text have been resolved using the defaults recorded in DEFAULTS-APPLIED.md, and the owner must confirm them before publishing. Earlier drafting notes are kept for counsel and may refer to options that have since been chosen.
 
 ## 1. About these Rules
 
@@ -30,7 +32,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 2.1.1 **Introduced Adviser** means an Individual Adviser who joins the Platform through a Qualifying Introduction.
 
-2.1.1A **Individual Adviser** means an individual who acts alone, has signed the Adviser Firm Agreement personally and has given the Sole Adviser Certification (MPL-ADV-01 Schedule 3), which remains true.
+2.1.1A **Individual Adviser** means an individual who acts alone, has entered into the Adviser Firm Agreement personally and has given the Sole Adviser Certification (MPL-ADV-01 Schedule 3), which remains true.
 
 2.1.2 **Override Tier** means the tier (Tier 1, Tier 2 or Tier 3) that the Platform records for a Referring Adviser under clause 4, which sets its Override Rate.
 
@@ -56,7 +58,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 3.1 **Referring Adviser.** To earn Overrides, the Referring Adviser must, at the time the Deal Fees are received by Multiplier:
 
-3.1.1 have signed the Adviser Firm Agreement, which must be in force;
+3.1.1 have entered into the Adviser Firm Agreement, which must be in force;
 
 3.1.2 have accepted the current version of these Rules; and
 
@@ -64,17 +66,17 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 3.2 **Introduced Adviser.** An introduction is a Qualifying Introduction only if the introduced firm:
 
-3.2.1 is a new firm, meaning that neither it nor any of its Affiliates, nor any predecessor business, has been registered on the Platform, had an Adviser Firm Agreement, or been in documented onboarding discussions with Multiplier in the [PLACEHOLDER: number] months before the introduction;
+3.2.1 is a new firm, meaning that neither it nor any of its Affiliates, nor any predecessor business, has been registered on the Platform, had an Adviser Firm Agreement, or been in documented onboarding discussions with Multiplier in the 12 months before the introduction;
 
 3.2.2 is a genuine, operating business that is independently owned and managed from the Referring Adviser (see clause 9);
 
 3.2.3 holds the Regulatory Permissions needed to advise on or distribute Products in the jurisdictions where it operates;
 
-3.2.4 registers on the Platform using the Referring Adviser's Referral Link within [PLACEHOLDER: e.g. 90] days of the link being sent or first used; and
+3.2.4 registers on the Platform using the Referring Adviser's Referral Link within 90 days of the link being sent or first used; and
 
-3.2.5 signs the Adviser Firm Agreement, is countersigned by Multiplier, and passes Multiplier's onboarding checks within [PLACEHOLDER: e.g. 180] days of registering.
+3.2.5 accepts the Adviser Firm Agreement on the Platform, is accepted by Multiplier (by Multiplier enabling its access on the Platform), and passes Multiplier's onboarding checks, all within 180 days of registering.
 
-3.3 **First valid link.** If an adviser firm uses more than one Referral Link, the first valid Referral Link used to register applies. If a firm registers without a Referral Link, no Referring Adviser is attributed, and Multiplier will not attribute one later unless it is reasonably satisfied, on evidence provided within [30] days of registration, that the Referral Link was not used because of a Platform error.
+3.3 **First valid link.** If an adviser firm uses more than one Referral Link, the first valid Referral Link used to register applies. If a firm registers without a Referral Link, no Referring Adviser is attributed, and Multiplier will not attribute one later unless it is reasonably satisfied, on evidence provided within 30 days of registration, that the Referral Link was not used because of a Platform error.
 
 3.4 **Records.** The Platform's records of Referral Links, registrations and Referral Records are conclusive in the absence of manifest error or fraud. Multiplier's reasonable decision on any dispute about attribution is final, subject to MPL-ADV-01 clause 30.
 
@@ -86,7 +88,7 @@ Re-acceptance: Each new version of these Rules (on at least 30 days' notice, see
 
 4.2 **Three tiers.** Each Referring Adviser is in one Override Tier at any time: Tier 1, Tier 2 or Tier 3. Your Override Tier sets the single Override Rate that applies to all of your Introduced Advisers. Tiers are alternatives. They do not add together.
 
-4.3 **How a tier is reached.** You start in Tier 1. You move to Tier 2 or Tier 3 when the Platform records that you meet the qualifying measures for that tier: [PLACEHOLDER: Tier 2 measure, for example number of active Introduced Advisers or Deal Fees generated by Introduced Advisers in a period] and [PLACEHOLDER: Tier 3 measure]. [PLACEHOLDER: review period, maintenance rule and what happens if the measure is no longer met.]
+4.3 **How a tier is reached.** You start in Tier 1. Every Referring Adviser is in Tier 1 unless Multiplier confirms a higher tier in writing on the Platform. The measures for reaching and keeping Tier 2 and Tier 3, the review period and what happens if a measure is no longer met will be published on the Platform before they apply. They will be based on completed, funded business recorded on the Platform, not on registrations or invitations.
 
 > Drafting note: The tier measures, review period and downgrade rule are not yet settled by the owner. Until they are, every Referring Adviser is in Tier 1 unless Multiplier agrees otherwise in writing. Measures must be based on completed, funded business recorded on the Platform, not on registrations or invitations.
 
@@ -128,13 +130,13 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 ## 6. Override Period
 
-6.1 Overrides are earned on Funded Investments made by Introduced Investors of an Introduced Adviser during [OPTION A: the period of [24] months starting on the date of that Introduced Adviser's first Funded Investment (recommended) / OPTION B: the whole of the period during which both the Referring Adviser and that Introduced Adviser have an Adviser Firm Agreement in force] (the **Override Period**).
+6.1 Overrides are earned on Funded Investments made by Introduced Investors of an Introduced Adviser during the period of 24 months starting on the date of that Introduced Adviser's first Funded Investment (the **Override Period**).
 
 6.2 The Override Period for each Introduced Adviser is measured from that Introduced Adviser's own first Funded Investment.
 
 6.3 Overrides remain payable on Deal Fees received after the Override Period ends, if they relate to Funded Investments made during it.
 
-6.4 [OPTION: If an Introduced Adviser has no Funded Investment within [PLACEHOLDER: number] months of its Adviser Firm Agreement being countersigned, the Qualifying Introduction lapses and no Overrides are payable on it.]
+6.4 If an Introduced Adviser has no Funded Investment within 12 months of its Adviser Firm Agreement taking effect, the Qualifying Introduction lapses and no Overrides are payable on it.
 
 ## 7. Payment
 
@@ -148,7 +150,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 8.1 **Same clawback.** Overrides are subject to the same clawback as the Adviser Share. If a Clawback Event (MPL-ADV-01 clause 13.3) occurs for a Funded Investment on whose Deal Fees an Override has been paid, the Referring Adviser must repay the Override on the Deal Fees affected, in the same proportion as the Adviser Share is clawed back.
 
-8.2 **Method.** Multiplier may set off clawed back Overrides against any holdback and any future payment to the Referring Adviser (whether Adviser Share or Override). Any balance not recovered within [30] days must be repaid within [30] days of Multiplier's written demand.
+8.2 **Method.** Multiplier may set off clawed back Overrides against any holdback and any future payment to the Referring Adviser (whether Adviser Share or Override). Any balance not recovered within 30 days must be repaid within 30 days of Multiplier's written demand.
 
 8.3 **No liability for another firm's misconduct.** Where a Clawback Event arises from the misconduct of an Introduced Adviser, the Referring Adviser must repay the Override on the affected Deal Fees, but is not liable for Multiplier's other losses arising from that misconduct unless the Referring Adviser was involved in it.
 
@@ -162,7 +164,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 9.1.2 Introduced Investors of any of your Affiliates, or of any firm under common ownership, control or management with you; or
 
-9.1.3 Introduced Investors of an Introduced Adviser that are, or were in the previous [12] months, your own clients, or that an individual who was your Authorised User in the previous [12] months brought to the Introduced Adviser.
+9.1.3 Introduced Investors of an Introduced Adviser that are, or were in the previous 12 months, your own clients, or that an individual who was your Authorised User in the previous 12 months brought to the Introduced Adviser.
 
 9.2 **Prohibited conduct.** You must not, and must ensure that your Affiliates and Authorised Users do not:
 
@@ -192,11 +194,11 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 9.3.5 treat the conduct as a material breach of the Adviser Firm Agreement.
 
-9.4 **Information.** You must give Multiplier any information it reasonably asks for to check eligibility or investigate possible abuse, within [10] Business Days.
+9.4 **Information.** You must give Multiplier any information it reasonably asks for to check eligibility or investigate possible abuse, within 10 Business Days.
 
 ## 10. When either firm leaves
 
-10.1 **Referring Adviser leaves.** If your Adviser Firm Agreement ends, you stop earning Overrides on Funded Investments made after it ends. Overrides on Funded Investments made before it ends remain payable when Multiplier receives the Deal Fees, subject to clawback and set-off, unless the Adviser Firm Agreement was terminated under MPL-ADV-01 clause 24.3 for your breach, misconduct or abuse, in which case [OPTION A: they remain payable subject to set-off / OPTION B: they are forfeited to the extent connected with the breach, misconduct or abuse].
+10.1 **Referring Adviser leaves.** If your Adviser Firm Agreement ends, you stop earning Overrides on Funded Investments made after it ends. Overrides on Funded Investments made before it ends remain payable when Multiplier receives the Deal Fees, subject to clawback and set-off, unless the Adviser Firm Agreement was terminated under MPL-ADV-01 clause 24.3 for your breach, misconduct or abuse, in which case they are forfeited to the extent connected with the breach, misconduct or abuse.
 
 10.2 **Introduced Adviser leaves.** If an Introduced Adviser's Adviser Firm Agreement ends, no further Overrides are earned on it after that date, except on Deal Fees received later for Funded Investments made before that date.
 
@@ -224,7 +226,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 ## 13. Tax
 
-13.1 Overrides are stated exclusive of VAT and are subject to MPL-ADV-01 clauses 12.7 to 12.9. [PLACEHOLDER: VAT and tax treatment of Overrides by jurisdiction, to be confirmed by tax counsel].
+13.1 Overrides are stated exclusive of VAT and are subject to MPL-ADV-01 clauses 12.7 to 12.9.
 
 13.2 You are responsible for all taxes on Overrides you receive.
 
@@ -236,9 +238,9 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 ## 15. Changes to and ending of the programme
 
-15.1 Multiplier may change these Rules (including the Override Rates, the Override Tiers and their measures, the Override Cap, the Minimum Retention and the Override Period), or suspend or end the programme, by giving at least [30] days' notice through the Platform and by email.
+15.1 Multiplier may change these Rules (including the Override Rates, the Override Tiers and their measures, the Override Cap, the Minimum Retention and the Override Period), or suspend or end the programme, by giving at least 30 days' notice through the Platform and by email.
 
-15.2 **Accrued Overrides honoured.** A change or ending does not affect Overrides on Deal Fees from Funded Investments made before the change or ending takes effect, which remain payable under the version of these Rules in force when the Funded Investment was made, subject to clawback and set-off. [OPTION: Qualifying Introductions made before the change continue on the earlier terms for the rest of their Override Period.]
+15.2 **Accrued Overrides honoured.** A change or ending does not affect Overrides on Deal Fees from Funded Investments made before the change or ending takes effect, which remain payable under the version of these Rules in force when the Funded Investment was made, subject to clawback and set-off.
 
 15.3 **Immediate changes.** Multiplier may suspend or change the programme immediately, in whole or in any jurisdiction, where required by Applicable Law or a Regulator, or where it reasonably considers that continuing would breach Applicable Law. In that case, Overrides on Funded Investments made before the suspension or change remain payable to the extent lawful.
 
@@ -246,7 +248,7 @@ Override = Deal Fees generated by the Introduced Adviser x the Override Rate for
 
 ## 16. General
 
-16.1 These Rules are part of the Adviser Firm Agreement. The provisions of the Adviser Firm Agreement on liability (clause 22), indemnity (clause 23), notices (clause 27), assignment (clause 28), general terms (clause 29) and governing law and disputes (clause 30) apply to these Rules. Disputes are resolved by arbitration under the [PLACEHOLDER: LCIA / ICC / DIAC] Rules, seat [PLACEHOLDER: seat], language English, one arbitrator unless the amount in dispute exceeds [PLACEHOLDER: amount], under [PLACEHOLDER: governing law], as set out in MPL-ADV-01 clause 30.
+16.1 These Rules are part of the Adviser Firm Agreement. The provisions of the Adviser Firm Agreement on liability (clause 22), indemnity (clause 23), notices (clause 27), assignment (clause 28), general terms (clause 29) and governing law and disputes (clause 30) apply to these Rules. These Rules are governed by the laws of the Dubai International Financial Centre. Disputes are finally resolved by arbitration under the Arbitration Rules of the Dubai International Arbitration Centre (DIAC), with its seat in the Dubai International Financial Centre (DIFC), in English, before one arbitrator (or three where the amount in dispute exceeds USD 1,000,000), as set out in MPL-ADV-01 clause 30. Multiplier may also seek urgent interim relief from the DIFC Courts.
 
 16.2 Nothing in these Rules makes you an agent, partner or employee of Multiplier, or of any other Adviser Firm.
 

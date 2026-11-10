@@ -2,7 +2,7 @@
 
 ```
 Document ID: MPL-PLT-02
-Version: 0.1 (draft for legal review)
+Version: 0.9 (owner review candidate, not yet reviewed by counsel)
 Audience: Every user of the Platform: investors, advisers, sponsors, firm administrators and authorised users; also individuals whose data users give us (for example beneficial owners, directors and clients)
 Presented when: Sign-up, alongside the Platform Terms of Use; available at all times in the Platform footer and settings
 Accepted by: click-through (acknowledgement that the notice has been read, not consent)
@@ -11,6 +11,8 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 ```
 
 > Drafting note: This notice is written to the standard of the UK and EU GDPR because that is the most demanding regime likely to apply. Counsel should check it against each launch country's law (for example the UAE federal PDPL, DIFC and ADGM data protection laws, Singapore PDPA, Malaysia PDPA, Brazil LGPD, and others) and add country-specific sections where a regime needs different wording, a local representative, registration, or consent rather than another lawful basis. This notice replaces nothing on the public website; the website privacy notice should cross-refer to it for Platform users.
+
+> Drafting note: Owner review candidate (version 0.9), not yet reviewed by counsel. Placeholders and options in the operative text have been resolved using the defaults recorded in DEFAULTS-APPLIED.md, and the owner must confirm them before publishing. Earlier drafting notes are kept for counsel and may refer to options that have since been chosen.
 
 ---
 
@@ -38,13 +40,13 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 2.1 **Controller.** Multiplier is the controller of the personal data described in this notice, except where clause 7 says another party acts as an independent controller.
 
-2.2 **Contact.** [PLACEHOLDER: privacy contact email], [PLACEHOLDER: postal address].
+2.2 **Contact.** You can contact us about privacy at access@multiplier.club or by post at Sirius Consulting FZCO, trading as Multiplier, Dubai Silicon Oasis, Dubai, United Arab Emirates.
 
-2.3 **Data protection officer.** [OPTION A: Our data protection officer is [PLACEHOLDER: name or role], contactable at [PLACEHOLDER: email] / OPTION B: We have not appointed a data protection officer because we are not required to; privacy questions go to the contact in clause 2.2.]
+2.3 **Data protection officer.** We have not appointed a data protection officer. Privacy questions go to the contact in clause 2.2.
 
-2.4 **Local representatives.** [PLACEHOLDER: UK representative, EU representative and any other local representative required by law, with contact details, or a statement that none is required.]
+2.4 **Local representatives.** We will add to this notice the details of any local representative we appoint in the United Kingdom, the European Union or any other country. Until we do, please contact us directly using the details in clause 2.2.
 
-2.5 **Registrations.** [PLACEHOLDER: registration numbers with data protection authorities where required, e.g. ICO registration number, DIFC Commissioner notification.]
+2.5 **Registrations.** We will add to this notice the details of any registration we hold with a data protection authority. You can also ask us about registrations using the details in clause 2.2.
 
 ## 3. The personal data we collect
 
@@ -56,7 +58,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 3.2.2 **Communications data:** messages you send us or other users through the Platform, support requests, complaints, and records of emails, in-app notices, SMS and WhatsApp messages we send you, including whether they were delivered and opened.
 
-3.2.3 **Usage and device data:** log-in times, pages and Products viewed, documents opened or downloaded, actions taken, IP address, approximate location derived from IP address, browser and device type, operating system, and similar technical data, collected through server logs, cookies and similar technologies. See our cookie notice at [PLACEHOLDER: URL of cookie notice].
+3.2.3 **Usage and device data:** log-in times, pages and Products viewed, documents opened, actions taken, IP address, approximate location derived from IP address, browser and device type, operating system, and similar technical data, collected through server logs, cookies and similar technologies. You can ask us for details of the cookies and similar technologies we use by contacting access@multiplier.club.
 
 3.2.4 **Acceptance records:** which documents you have accepted or signed, their version, the date and time, IP address, method of signature and a hash of the document text.
 
@@ -138,7 +140,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 5.3 **If you do not provide data.** Some data is needed to provide the Platform or to meet legal requirements. If you do not provide it, we may not be able to open your Account, give you access to a Product or process a payment.
 
-5.4 **Special category and criminal offence data.** We process biometric data for identity verification only [OPTION A: with your explicit consent, given at the verification step / OPTION B: where necessary for reasons of substantial public interest (preventing or detecting unlawful acts, or regulatory requirements relating to unlawful acts and dishonesty), as permitted by local law]. We process data about criminal offences or allegations, and political exposure, only where necessary to meet anti-money laundering, sanctions and fraud prevention obligations, as permitted by law. [PLACEHOLDER: reference to local law conditions, e.g. UK Data Protection Act 2018 Schedule 1 conditions, and our appropriate policy document.]
+5.4 **Special category and criminal offence data.** We process biometric data for identity verification only with your explicit consent, given at the verification step. We process data about criminal offences or allegations, and political exposure, only where necessary to meet anti-money laundering, sanctions and fraud prevention obligations, as permitted by law.
 
 5.5 **Consent.** Where we rely on consent (for example for marketing, SMS or WhatsApp), you can withdraw it at any time in your settings or by contacting us. Withdrawing consent does not affect anything we did before you withdrew it.
 
@@ -146,7 +148,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 6.1 We share personal data only as described here and only to the extent needed.
 
-6.2 **Your adviser.** If you are an Investor linked to an Adviser Firm, we share with that Adviser Firm and its Authorised Users: your account details, eligibility status, the Products you view or express interest in, your subscription status and amounts, and investment information received from Sponsors. We do not share your full identity documents with your adviser unless [PLACEHOLDER: circumstances, e.g. the Adviser Firm is relied on for client due diligence under a separate reliance arrangement].
+6.2 **Your adviser.** If you are an Investor linked to an Adviser Firm, we share with that Adviser Firm and its Authorised Users: your account details, eligibility status, the Products you view or express interest in, your subscription status and amounts, and investment information received from Sponsors. We do not share your full identity documents with your adviser unless the Adviser Firm is relied on for client due diligence under a separate reliance arrangement that you have been told about.
 
 6.3 **Sponsors and their administrators, when you choose.** We share your data with a Sponsor (and its administrator, transfer agent, escrow agent or other service providers for the Product) only when you take an action for that Product:
 
@@ -160,23 +162,25 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 6.6 **Leaderboard.** If you are an adviser and opt in to the leaderboard, your display name, firm name and points or ranking will be visible to other advisers, as described in the Points and Leaderboard Rules (MPL-ADV-04).
 
-6.7 **Service providers** who process personal data on our behalf and under our instructions, under written contracts that require them to protect it, including:
+6.7 **Service providers** who process personal data on our behalf and under our instructions, under written contracts that require them to protect it. Where the relevant service is in use, these include:
 
-6.7.1 hosting and cloud infrastructure: [PLACEHOLDER: provider and hosting region];
+6.7.1 hosting and cloud infrastructure: Vercel (application hosting) and Supabase (database);
 
-6.7.2 identity verification, business verification and screening: [PLACEHOLDER: provider(s)];
+6.7.2 identity verification, business verification and screening: our identity verification provider;
 
-6.7.3 electronic signature: [PLACEHOLDER: provider];
+6.7.3 electronic signature: our electronic signature provider;
 
-6.7.4 email delivery: Brevo (Sendinblue SAS) [PLACEHOLDER: confirm entity and region];
+6.7.4 email delivery: Brevo, which sends our transactional and account emails;
 
-6.7.5 SMS and WhatsApp messaging: [PLACEHOLDER: provider(s), e.g. Meta Platforms for WhatsApp and a messaging API provider];
+6.7.5 SMS and WhatsApp messaging: our messaging providers, if you opt in to those channels;
 
-6.7.6 payments and payouts: [PLACEHOLDER: provider(s) and banks];
+6.7.6 payments and payouts: our payment and payout providers and banks;
 
-6.7.7 analytics, error monitoring and customer support tools: [PLACEHOLDER: provider(s)]; and
+6.7.7 analytics, error monitoring and customer support tools: the providers of those tools; and
 
 6.7.8 professional advisers such as lawyers, auditors, accountants and insurers.
+
+You can ask us for the current list of our service providers, and the countries where they store or access personal data, by contacting access@multiplier.club.
 
 6.8 **Regulators, law enforcement and courts**, where the law requires us to, or where we reasonably believe disclosure is needed to prevent or detect crime, to report suspicious activity, or to establish, exercise or defend legal claims. In some cases the law may prevent us from telling you about a disclosure.
 
@@ -190,7 +194,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 7.2 Our arrangements with Adviser Firms and Sponsors are set out in the Data Sharing Schedule (MPL-PLT-04). Among other things, it restricts Sponsors to using Investor data only for the relevant Product and its administration, and prohibits them from marketing other products to Platform Investors except through the Platform.
 
-7.3 Service providers in clause 6.7 act as our processors, except where a provider (for example a verification provider, a messaging platform or a payment provider) acts as a controller for its own regulatory or fraud-prevention purposes, in which case its own privacy notice also applies. [PLACEHOLDER: identify any providers that act as independent controllers.]
+7.3 Service providers in clause 6.7 act as our processors, except where a provider (for example a verification provider, a messaging platform or a payment provider) acts as a controller for its own regulatory or fraud-prevention purposes, in which case its own privacy notice also applies.
 
 ## 8. International transfers
 
@@ -200,11 +204,11 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 8.2.1 an adequacy decision or equivalent finding by the relevant authority;
 
-8.2.2 standard contractual clauses issued or recognised by the relevant authority (for example the EU Standard Contractual Clauses, the UK International Data Transfer Agreement or Addendum, or [PLACEHOLDER: other local equivalents]); or
+8.2.2 standard contractual clauses issued or recognised by the relevant authority (for example the EU Standard Contractual Clauses, the UK International Data Transfer Agreement or Addendum, or the equivalent clauses recognised in other countries); or
 
 8.2.3 another lawful mechanism or derogation, such as where the transfer is necessary to perform a contract you have asked us to enter or take steps on (for example passing your subscription data to a Sponsor in another country).
 
-8.3 [PLACEHOLDER: main hosting location and list of countries to which data is routinely transferred.]
+8.3 Our application is hosted with Vercel and our database with Supabase. The list of countries in which we and our service providers store or access personal data is available on request from access@multiplier.club.
 
 8.4 You can ask for more information about the transfer protections we use, and for a copy of them, by contacting us.
 
@@ -216,18 +220,18 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 | Record type | Retention period |
 |---|---|
-| Account and profile data | Life of the Account plus [PLACEHOLDER: period, e.g. 2 years] |
-| Identity verification, KYC and KYB records, screening results | [PLACEHOLDER: period, e.g. 5 years] after the end of the business relationship or last transaction, or longer if required by local AML law |
-| Eligibility declarations and evidence | [PLACEHOLDER: period, e.g. 5-7 years] after the last Product access or subscription they supported |
-| AML, tax and status declarations (including CRS/FATCA) | [PLACEHOLDER: period, e.g. 6 years] after the end of the relationship |
-| Acceptance records and signed documents | [PLACEHOLDER: period, e.g. the life of the relevant agreement plus 7 years] |
-| Subscription and investment records | [PLACEHOLDER: period, e.g. 7 years] after the investment is fully realised or redeemed |
-| Adviser fee, Override, payout, invoice and self-billing records | [PLACEHOLDER: period, e.g. 7 years] after the end of the financial year to which they relate |
-| Sponsor screening files | [PLACEHOLDER: period, e.g. 5 years] after the end of the relationship or the screening decision, whichever is later |
-| Complaints | [PLACEHOLDER: period, e.g. 5 years] after the complaint is closed |
-| Communications with us (support, email, messaging) | [PLACEHOLDER: period, e.g. 3 years], or longer where linked to a complaint, a dispute or a regulatory record |
-| Usage, device and security logs | [PLACEHOLDER: period, e.g. 12-24 months] |
-| Marketing preferences and consent records | Until you withdraw consent, plus [PLACEHOLDER: period] to evidence the withdrawal |
+| Account and profile data | Life of the Account plus 2 years |
+| Identity verification, KYC and KYB records, screening results | 5 years after the end of the business relationship or last transaction, or longer if required by local AML law |
+| Eligibility declarations and evidence | 7 years after the last Product access or subscription they supported |
+| AML, tax and status declarations (including CRS/FATCA) | 6 years after the end of the relationship |
+| Acceptance records and signed documents | The life of the relevant agreement plus 7 years |
+| Subscription and investment records | 7 years after the investment is fully realised or redeemed |
+| Adviser fee, Override, payout, invoice and self-billing records | 7 years after the end of the financial year to which they relate |
+| Sponsor screening files | 5 years after the end of the relationship or the screening decision, whichever is later |
+| Complaints | 5 years after the complaint is closed |
+| Communications with us (support, email, messaging) | 3 years, or longer where linked to a complaint, a dispute or a regulatory record |
+| Usage, device and security logs | 24 months |
+| Marketing preferences and consent records | Until you withdraw consent, plus 2 years to evidence the withdrawal |
 
 9.3 At the end of the retention period we delete or anonymise the data. Where we must keep data for legal reasons after you close your Account, we restrict its use to those reasons.
 
@@ -235,7 +239,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 ## 10. How we protect personal data
 
-10.1 We use technical and organisational measures appropriate to the risk, including encryption in transit and at rest, access controls based on role and need to know, multi-factor authentication for staff, logging and monitoring, regular security testing, staff training and confidentiality obligations, and due diligence on our service providers. [PLACEHOLDER: any certifications held or targeted, e.g. ISO 27001, SOC 2.]
+10.1 We use technical and organisational measures appropriate to the risk, including encryption in transit and at rest, access controls based on role and need to know, multi-factor authentication for staff, logging and monitoring, regular security testing, staff training and confidentiality obligations, and due diligence on our service providers.
 
 10.2 No system is completely secure. If we become aware of a personal data breach that is likely to result in a high risk to you, we will tell you without undue delay, as the law requires.
 
@@ -257,11 +261,11 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 11.1.7 **withdraw consent** where we rely on consent; and
 
-11.1.8 **complain** to a data protection supervisory authority, in particular in the country where you live, work or where an alleged breach took place. Our lead authority is [PLACEHOLDER: supervisory authority and contact details]. We would appreciate the chance to deal with your concerns first, so please contact us.
+11.1.8 **complain** to a data protection supervisory authority, in particular in the country where you live, work or where an alleged breach took place. If you ask us, we will help you identify the authority that is relevant to you. We would appreciate the chance to deal with your concerns first, so please contact us.
 
 11.2 Some rights are subject to limits. For example, we may have to keep certain data to meet anti-money laundering or tax obligations even if you ask us to delete it, and we may not be able to tell you about a disclosure to law enforcement.
 
-11.3 To exercise your rights, contact us at [PLACEHOLDER: privacy contact email] or use [PLACEHOLDER: in-app privacy request tool, if any]. We may need to confirm your identity first. We will respond within [PLACEHOLDER: period, e.g. one month], which may be extended where the law allows. We do not usually charge a fee.
+11.3 To exercise your rights, contact us at access@multiplier.club. We may need to confirm your identity first. We will respond within one month, which may be extended where the law allows. We do not usually charge a fee.
 
 11.4 If your request concerns data held by your adviser or a Sponsor as an independent controller, please contact them directly. We will help route your request where we can, as described in the Data Sharing Schedule.
 
@@ -271,7 +275,7 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 12.2 We do not make decisions that have a legal or similarly significant effect on you based solely on automated processing. Where an automated check produces a negative or uncertain result (for example a failed identity check or a possible sanctions match), a member of our team reviews it before we refuse, restrict or close an Account.
 
-12.3 You can ask for human review of any decision, give your point of view and contest the decision by contacting us at [PLACEHOLDER: privacy contact email].
+12.3 You can ask for human review of any decision, give your point of view and contest the decision by contacting us at access@multiplier.club.
 
 12.4 Eligibility gating (showing or hiding Products based on your country and investor category) is applied automatically based on the declarations you make. If you believe you have been gated incorrectly, contact us and we will review it.
 
@@ -285,6 +289,6 @@ Re-acceptance: Users are notified of material changes; a fresh acknowledgement i
 
 ## 15. Contact and complaints
 
-15.1 For any question about this notice or your personal data: [PLACEHOLDER: privacy contact email], [PLACEHOLDER: postal address], [PLACEHOLDER: DPO contact, if appointed].
+15.1 For any question about this notice or your personal data, contact us at access@multiplier.club or by post at Sirius Consulting FZCO, trading as Multiplier, Dubai Silicon Oasis, Dubai, United Arab Emirates.
 
 15.2 For complaints about the Platform generally, see our Complaints Policy (MPL-PLT-05). For data protection complaints, you may also contact the supervisory authority as set out in clause 11.1.8.

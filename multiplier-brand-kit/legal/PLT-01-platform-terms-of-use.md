@@ -2,7 +2,7 @@
 
 ```
 Document ID: MPL-PLT-01
-Version: 0.1 (draft for legal review)
+Version: 0.9 (owner review candidate, not yet reviewed by counsel)
 Audience: Every user of the Platform: investors, advisers, sponsors, firm administrators and authorised users
 Presented when: Sign-up, before an account is created
 Accepted by: click-through
@@ -11,6 +11,8 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 ```
 
 > Drafting note: These Terms are deliberately light so that sign-up has as few gates as possible. Heavier, role-specific documents (Investor Terms, Adviser Firm Agreement, Sponsor Listing Agreement and others listed in the folder README) are presented only when a user takes the action that needs them. Counsel should check that the general areas visible after sign-up (including neutral product cards) do not themselves amount to a financial promotion in any launch country; if they might, limit what is visible before INV-01 and INV-02 are accepted.
+
+> Drafting note: Owner review candidate (version 0.9), not yet reviewed by counsel. Placeholders and options in the operative text have been resolved using the defaults recorded in DEFAULTS-APPLIED.md, and the owner must confirm them before publishing. Earlier drafting notes are kept for counsel and may refer to options that have since been chosen.
 
 ---
 
@@ -40,11 +42,11 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 2.1.1 **Account** means the account you create to use the Platform.
 
-2.1.2 **Adviser Firm** means a firm that is licensed, authorised or otherwise permitted to give investment advice or arrange investments in the place where it operates, and that has signed the Adviser Firm Agreement (MPL-ADV-01) with us.
+2.1.2 **Adviser Firm** means a firm that is licensed, authorised or otherwise permitted to give investment advice or arrange investments in the place where it operates, and that has entered into the Adviser Firm Agreement (MPL-ADV-01) with us. An individual adviser who acts alone and enters into the Adviser Firm Agreement personally is treated as an Adviser Firm.
 
 2.1.3 **Authorised User** means an individual (for example a relationship manager, analyst or staff member) whom an Adviser Firm or Sponsor has authorised to use the Platform on its behalf, and who has accepted the Authorised User Terms (MPL-ADV-05).
 
-2.1.4 **Business Day** means a day other than a Saturday, Sunday or public holiday in [PLACEHOLDER: city for business days].
+2.1.4 **Business Day** means a day other than a Saturday, Sunday or public holiday in Dubai, United Arab Emirates.
 
 2.1.5 **Content** means any text, data, documents, images, messages, files or other material.
 
@@ -56,13 +58,13 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 2.1.9 **Product** means an investment, fund, note, share, or other private-market product that a Sponsor makes available for viewing or subscription through the Platform.
 
-2.1.10 **Role Agreement** means any agreement, schedule, declaration, undertaking, rules or certificate, other than these Terms, that we present to you when you take a particular action on the Platform. The Role Agreements are listed in the README to our legal documents and include the Investor Terms (MPL-INV-01), the Adviser Firm Agreement (MPL-ADV-01) and the Sponsor Listing Agreement (MPL-SPN-02).
+2.1.10 **Role Agreement** means any agreement, schedule, declaration, undertaking, rules or certificate, other than these Terms, that we present to you when you take a particular action on the Platform. The Role Agreements are presented on the Platform when they apply (see clause 6) and include the Investor Terms (MPL-INV-01), the Adviser Firm Agreement (MPL-ADV-01) and the Sponsor Listing Agreement (MPL-SPN-02).
 
 2.1.11 **Sponsor** means a sponsor, issuer, manager, general partner or other party responsible for a Product, which has signed the Sponsor Listing Agreement (MPL-SPN-02) with us, or, where the context requires, has applied for screening under the Screening Application and Consent (MPL-SPN-01).
 
 2.1.12 **User Content** means Content that you, or anyone using your Account, upload, post, send or otherwise make available on or through the Platform.
 
-2.1.13 **US Person** has the meaning given in [PLACEHOLDER: reference, e.g. Regulation S under the US Securities Act of 1933] and, for tax purposes, includes a "specified US person" under FATCA.
+2.1.13 **US Person** has the meaning given to "U.S. person" in Regulation S under the US Securities Act of 1933 and, for tax purposes, includes a "specified US person" under the US Foreign Account Tax Compliance Act (FATCA).
 
 2.2 Other capitalised terms (including Platform Investor, Deal Fees, Adviser Share, Multiplier Share, Override and Funded Investment) have the meanings given in the relevant Role Agreement.
 
@@ -86,7 +88,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 3.2.3 using the Platform is not unlawful for you in the country where you live, are established or are located;
 
-3.2.4 you are not the subject of sanctions administered by [PLACEHOLDER: list of sanctions authorities, e.g. the United Nations, the UK, the EU, the United States (OFAC) and the jurisdiction of incorporation of Multiplier], and you are not owned or controlled by, or acting for, anyone who is;
+3.2.4 you are not the subject of sanctions administered by the United Nations, the United Kingdom, the European Union, the United States (including the Office of Foreign Assets Control) or the United Arab Emirates, and you are not owned or controlled by, or acting for, anyone who is;
 
 3.2.5 the information you give us is true, accurate and complete, and you will keep it up to date; and
 
@@ -96,7 +98,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 3.4 We may decline to open an Account, or limit what an Account can do, at our discretion, including where we cannot confirm eligibility or where we believe the law of a particular country prevents us from serving you.
 
-3.5 We may change the list of countries we serve at any time. [PLACEHOLDER: list of countries or link to list of countries where the Platform is currently available, and countries expressly excluded.]
+3.5 We may change the list of countries we serve at any time. The Platform is not available in the United States or to US Persons. You can ask us which countries we currently serve by contacting access@multiplier.club.
 
 ## 4. Accounts and roles
 
@@ -122,9 +124,9 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 4.2.4 everything its Authorised Users do on the Platform, as if it had done it itself.
 
-4.3 **Investors linked to an adviser.** If you join the Platform through an invitation or link from an adviser, your Account may be linked to that adviser's Adviser Firm. You can see which Adviser Firm you are linked to in your settings. How your data is shared with that Adviser Firm is explained in the Platform Privacy Notice. [OPTION A: an Investor may change or remove their linked Adviser Firm at any time in settings / OPTION B: an Investor may request a change by contacting us, subject to the Adviser Firm's rights under its Role Agreement.]
+4.3 **Investors linked to an adviser.** If you join the Platform through an invitation or link from an adviser, your Account may be linked to that adviser's Adviser Firm. You can see which Adviser Firm you are linked to in your settings. How your data is shared with that Adviser Firm is explained in the Platform Privacy Notice. You may change or remove your linked Adviser Firm at any time, in your settings where that option is shown or by contacting us at access@multiplier.club.
 
-4.4 **One person, one Account.** Each individual may hold only one Account, although that Account may carry more than one role where we allow it. [PLACEHOLDER: confirm whether one login may combine, for example, Adviser and personal Investor roles.]
+4.4 **One person, one Account.** Each individual may hold only one Account, although that Account may carry more than one role where we allow it.
 
 4.5 **Accurate role.** You must not create an Account in a role that does not reflect your actual position, for example by registering as an adviser if you are not employed or engaged by an Adviser Firm.
 
@@ -134,9 +136,9 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 5.2 You must not share your login details with anyone, including colleagues. Each Authorised User must have their own Account.
 
-5.3 You must use any security features we require, including two-factor authentication [PLACEHOLDER: confirm whether two-factor authentication is mandatory for all roles or only for advisers, sponsors and firm administrators].
+5.3 You must use any security features we require, including two-factor authentication where the Platform requires it for your role.
 
-5.4 You must tell us immediately at [PLACEHOLDER: security contact email] if you know or suspect that:
+5.4 You must tell us immediately at access@multiplier.club if you know or suspect that:
 
 5.4.1 someone else has used or tried to use your Account;
 
@@ -158,11 +160,11 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 6.2.2 before an Investor indicates interest in or subscribes for a Product, identity verification, the AML, Tax and Status Declarations and, for each Product, the Product Risk and Subscription Acknowledgement, followed by the Sponsor's own subscription documents;
 
-6.2.3 before an adviser requests access to a Product, invites clients or shares a Product, the Adviser Firm Agreement (signed once by the Firm Administrator and countersigned by us), verification of the Adviser Firm and of the individual adviser's identity, the Authorised User Terms, the Adviser Fee Schedule and, for each Product, the Data-Room Confidentiality Undertaking;
+6.2.3 before an adviser requests access to a Product, invites clients or shares a Product, the Adviser Firm Agreement (accepted once on the Platform by the firm's authorised signatory, or by an individual adviser acting alone, and accepted by us when we enable the adviser's access), verification of the Adviser Firm and of the individual adviser's identity, the Authorised User Terms, the Adviser Fee Schedule and, for each Product, the Data-Room Confidentiality Undertaking;
 
 6.2.4 before a Sponsor submits a Product for screening, the Screening Application and Consent; and before it lists a Product, the Sponsor Listing Agreement and, for each Product, the Product Listing Schedule and Sponsor Representations Certificate.
 
-6.3 The full list of Role Agreements, and the action that triggers each one, is set out in the index to our legal documents at [PLACEHOLDER: URL of published document index].
+6.3 Each Role Agreement is presented on the Platform when you take the action that needs it. You can ask us for the full list of Role Agreements, and the action that triggers each one, by contacting access@multiplier.club.
 
 6.4 **Which document governs.** A Role Agreement governs the activity it covers. These Terms continue to apply to everything else.
 
@@ -176,7 +178,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 6.6 **Sponsor documents.** When you subscribe for a Product, your investment is governed by the Sponsor's own offering and subscription documents, which are a contract between you and the Sponsor (or the relevant fund or vehicle). Multiplier is not a party to them.
 
-6.7 **Records.** We keep a record of each document you accept, including its version, the date and time, and the method of acceptance, as described in the Electronic Signature and Communications Consent. You can see the documents you have accepted in your Account [PLACEHOLDER: location in the app, e.g. Settings > Documents].
+6.7 **Records.** We keep a record of each document you accept, including its version, the date and time, and the method of acceptance, as described in the Electronic Signature and Communications Consent. You can view the documents you have accepted on the Platform.
 
 ## 7. What Multiplier does and does not do
 
@@ -216,7 +218,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 7.7 **Your own decisions.** You are responsible for your own investment decisions and your own due diligence. Private-market Products are typically illiquid and high risk. You may lose some or all of the money you invest.
 
-> Drafting note: Counsel should confirm the regulatory status statement appropriate for each launch country (for example whether Multiplier is, or relies on an exemption from being, an arranger, introducer or operator of an investment platform). Avoid a blanket "not regulated" statement unless it is accurate everywhere the Platform is offered. [PLACEHOLDER: regulatory status statement per country.]
+> Drafting note: Counsel should confirm the regulatory status statement appropriate for each launch country (for example whether Multiplier is, or relies on an exemption from being, an arranger, introducer or operator of an investment platform). Avoid a blanket "not regulated" statement unless it is accurate everywhere the Platform is offered. The regulatory status statement per country is still to be settled by counsel.
 
 ## 8. Your content
 
@@ -276,7 +278,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 9.3 Advisers and Sponsors must also follow the Content and Marketing Guidelines (MPL-PLT-06).
 
-9.4 If you become aware of any misuse of the Platform, please tell us at [PLACEHOLDER: abuse or compliance contact email].
+9.4 If you become aware of any misuse of the Platform, please tell us at access@multiplier.club.
 
 ## 10. Confidentiality of Platform information
 
@@ -300,7 +302,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 11.1 We and our licensors own all intellectual property rights in the Platform, including its software, design, text, graphics, logos and the Multiplier name and brand. Sponsors and their licensors own the intellectual property in the Product Content they supply.
 
-11.2 We give you a limited, personal, non-exclusive, non-transferable, revocable licence to access and use the Platform, and to view and download Platform Content that you are entitled to access, for the purpose for which it is made available to you and in line with these Terms and any Role Agreement.
+11.2 We give you a limited, personal, non-exclusive, non-transferable, revocable licence to access and use the Platform, and to view on the Platform the Platform Content that you are entitled to access, for the purpose for which it is made available to you and in line with these Terms and any Role Agreement.
 
 11.3 Unless a Role Agreement or the Content and Marketing Guidelines allow it, you must not use the Multiplier name, logo or brand, or suggest any connection with or endorsement by Multiplier.
 
@@ -308,7 +310,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 ## 12. Third-party services
 
-12.1 We use third-party providers to deliver parts of the Platform, including:
+12.1 We use, or may use, third-party providers to deliver parts of the Platform, including:
 
 12.1.1 identity verification, business verification and sanctions or politically exposed person screening;
 
@@ -320,7 +322,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 12.1.5 hosting, storage and analytics.
 
-12.2 Some of these providers may ask you to accept their own terms or privacy notices. Where they do, those terms govern your relationship with that provider. [PLACEHOLDER: list of providers whose end-user terms users must accept, if any.]
+12.2 Some of these providers may ask you to accept their own terms or privacy notices. Where they do, those terms govern your relationship with that provider.
 
 12.3 We choose our providers with reasonable care, but we are not responsible for services that are provided by third parties under their own terms, except to the extent the law makes us responsible or we have caused the problem.
 
@@ -328,7 +330,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 ## 13. Fees
 
-13.1 [OPTION A: Investors do not pay Multiplier any fee to use the Platform / OPTION B: Investors may be charged the fees set out in the Investor Terms.] Investors may pay fees to the Sponsor under the Product documents, and to their adviser under their own arrangements with that adviser.
+13.1 Investors do not pay Multiplier any fee to use the Platform. Investors may pay fees to the Sponsor under the Product documents, and to their adviser under their own arrangements with that adviser.
 
 13.2 Fees payable by or to Adviser Firms and Sponsors are set out in their Role Agreements. These Terms do not create any fee obligation.
 
@@ -344,7 +346,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 ## 15. Suspension and termination
 
-15.1 **By you.** You may close your Account at any time through [PLACEHOLDER: settings path or contact email]. Closing your Account does not end any Role Agreement, investment, or obligation already in place; those continue under their own terms. An Adviser Firm's or Sponsor's firm-level Role Agreements end only as set out in those agreements.
+15.1 **By you.** You may close your Account at any time by contacting us at access@multiplier.club. Closing your Account does not end any Role Agreement, investment, or obligation already in place; those continue under their own terms. An Adviser Firm's or Sponsor's firm-level Role Agreements end only as set out in those agreements.
 
 15.2 **By us.** We may suspend or restrict your Account, or close it, with immediate effect and without prior notice where we reasonably believe that:
 
@@ -360,11 +362,11 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 15.2.6 continuing to provide the Account would expose Multiplier, other users or a Sponsor to legal, regulatory or reputational harm.
 
-15.3 We may also close an Account on [PLACEHOLDER: notice period, e.g. 30] days' notice for any reason, or close an Account that has been inactive for [PLACEHOLDER: period, e.g. 24 months].
+15.3 We may also close an Account on 30 days' notice for any reason, or close an Account that has been inactive for 24 months.
 
 15.4 Where we suspend or close an Account, we will tell you why where we are lawfully able to do so.
 
-15.5 **Effect.** When your Account is closed, your right to use the Platform ends. We will keep records as described in the Platform Privacy Notice and our record-keeping obligations. You may ask for a copy of documents you have accepted for [PLACEHOLDER: period] after closure.
+15.5 **Effect.** When your Account is closed, your right to use the Platform ends. We will keep records as described in the Platform Privacy Notice and our record-keeping obligations. You may ask for a copy of documents you have accepted for 12 months after closure, by contacting us at access@multiplier.club.
 
 15.6 Clauses 7, 8.3, 10, 11, 16, 17, 18, 23 and 24, and any other provision that by its nature should continue, survive closure of your Account.
 
@@ -410,7 +412,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 17.2.6 any loss caused by events outside our reasonable control.
 
-17.3 **Cap.** Subject to clause 17.1, and to the fullest extent permitted by law, our total liability to you arising out of or in connection with these Terms and your use of the Platform, in any 12-month period, is limited to [OPTION A: the greater of (a) the fees you paid to Multiplier under these Terms in the preceding 12 months and (b) [PLACEHOLDER: fixed amount and currency] / OPTION B: [PLACEHOLDER: fixed amount and currency]].
+17.3 **Cap.** Subject to clause 17.1, and to the fullest extent permitted by law, our total liability to you arising out of or in connection with these Terms and your use of the Platform, in any 12-month period, is limited to the greater of USD 1,000 and the fees you paid to Multiplier in the 12 months before the claim.
 
 17.4 **Role Agreements.** Liability for activity governed by a Role Agreement is dealt with in that Role Agreement. Clause 17.3 does not increase any cap in a Role Agreement.
 
@@ -456,7 +458,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 ## 21. Complaints
 
-21.1 If you are unhappy with the Platform or our service, please follow our Complaints Policy (MPL-PLT-05), available at [PLACEHOLDER: URL].
+21.1 If you are unhappy with the Platform or our service, please follow our Complaints Policy (MPL-PLT-05), available on the Platform or on request from access@multiplier.club.
 
 21.2 Complaints about a Product should go to the Sponsor. Complaints about advice should go to the adviser's Adviser Firm. The Complaints Policy explains how we will help route your complaint if you are not sure where to send it.
 
@@ -464,7 +466,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 22.1 We may change these Terms from time to time, for example to reflect changes to the Platform, the law or regulatory guidance.
 
-22.2 If a change is material, we will tell you at least [PLACEHOLDER: notice period, e.g. 14] days before it takes effect, unless we need to make it sooner for legal, regulatory or security reasons. We will ask you to accept the new version. Until you do, we may pause your use of the Platform.
+22.2 If a change is material, we will tell you at least 14 days before it takes effect, unless we need to make it sooner for legal, regulatory or security reasons. We will ask you to accept the new version. Until you do, we may pause your use of the Platform.
 
 22.3 If you do not agree to a change, you may close your Account before the change takes effect.
 
@@ -474,13 +476,13 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 ## 23. Governing law and disputes
 
-23.1 These Terms, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with them, are governed by [PLACEHOLDER: governing law].
+23.1 These Terms, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with them, are governed by the laws of the Dubai International Financial Centre.
 
-23.2 Before starting formal proceedings, each party will first try to resolve a dispute in good faith, including through the Complaints Policy where it applies, for at least [PLACEHOLDER: number] Business Days after written notice of the dispute.
+23.2 Before starting formal proceedings, each party will first try to resolve a dispute in good faith, including through the Complaints Policy where it applies, for at least 20 Business Days after written notice of the dispute.
 
-23.3 Any dispute arising out of or in connection with these Terms, including any question about their existence, validity or termination, will be referred to and finally resolved by arbitration under the [PLACEHOLDER: LCIA / ICC / DIAC] Rules. The seat of arbitration is [PLACEHOLDER: seat]. The language of the arbitration is English. There will be one arbitrator unless the amount in dispute exceeds [PLACEHOLDER: amount], in which case there will be three.
+23.3 Any dispute arising out of or in connection with these Terms, including any question about their existence, validity or termination, will be referred to and finally resolved by arbitration under the Arbitration Rules of the Dubai International Arbitration Centre (DIAC) in force when the arbitration starts. The seat of arbitration is the Dubai International Financial Centre (DIFC). The language of the arbitration is English. There will be one arbitrator unless the amount in dispute exceeds USD 1,000,000, in which case there will be three.
 
-23.4 Nothing in this clause stops either party from seeking urgent interim or injunctive relief from any competent court.
+23.4 Nothing in this clause stops either party from seeking urgent interim or injunctive relief from any competent court. Multiplier may also seek urgent interim relief from the DIFC Courts.
 
 23.5 Nothing in this clause removes any right you may have to refer a complaint to an ombudsman or similar body, or any mandatory right to bring proceedings in the courts of your country of residence, where that right cannot lawfully be excluded.
 
@@ -492,7 +494,7 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 24.3 **No partnership.** Nothing in these Terms creates a partnership, joint venture, agency or employment relationship.
 
-24.4 **Third-party rights.** No one other than you and us has any right to enforce these Terms, except our affiliates and their officers, employees and agents under clause 18. [PLACEHOLDER: reference to applicable third-party rights legislation, e.g. Contracts (Rights of Third Parties) Act 1999, if relevant to the governing law.]
+24.4 **Third-party rights.** No one other than you and us has any right to enforce these Terms, except our affiliates and their officers, employees and agents under clause 18.
 
 24.5 **Severability.** If any part of these Terms is found to be invalid or unenforceable, the rest remains in effect, and the affected part applies with the minimum change needed to make it valid.
 
@@ -500,8 +502,8 @@ Re-acceptance: When a new version contains a material change; use of the Platfor
 
 24.7 **Events outside our control.** We are not responsible for any failure or delay caused by events outside our reasonable control.
 
-24.8 **Notices.** We will send notices to the email address in your Account or through in-app notification. You may send notices to us at [PLACEHOLDER: legal notices email] and, for formal legal notices, to our registered office.
+24.8 **Notices.** We will send notices to the email address in your Account or through in-app notification. You may send notices to us at access@multiplier.club and, for formal legal notices, also to our registered office at Dubai Silicon Oasis, Dubai, United Arab Emirates.
 
 24.9 **Language.** These Terms are written in English. If we provide a translation, the English version prevails if there is any inconsistency.
 
-24.10 **Contact.** [PLACEHOLDER: general support email], [PLACEHOLDER: postal address].
+24.10 **Contact.** You can contact us at access@multiplier.club or by post at Sirius Consulting FZCO, trading as Multiplier, Dubai Silicon Oasis, Dubai, United Arab Emirates.
