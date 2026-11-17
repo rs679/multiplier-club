@@ -7,12 +7,12 @@ const path = require("path");
     viewport: { width: 1200, height: 1500 },
     deviceScaleFactor: Number(process.argv[2] || 2),
   });
-  await page.goto("file://" + path.resolve(__dirname, "series-01.html"));
+  await page.goto("file://" + path.resolve(__dirname, process.argv[3] || "series-01.html"));
   await page.evaluate(() => document.fonts.ready);
-  const out = path.resolve(__dirname, "..", "png");
+  const out = path.resolve(__dirname, "..", process.argv[4] || "png");
   for (const el of await page.$$("section.s")) {
     const id = await el.getAttribute("id");
-    await el.screenshot({ path: path.join(out, `multiplier-linkedin-${id}.png`) });
+    await el.screenshot({ path: path.join(out, (process.argv[4] ? `${id}.png` : `multiplier-linkedin-${id}.png`)) });
   }
   await browser.close();
 })();
