@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>Multiplier LinkedIn series 01</title>
+<style>
+@font-face{font-family:SG;src:url(assets/sg400.woff2) format("woff2");font-weight:400}
+@font-face{font-family:SG;src:url(assets/sg500.woff2) format("woff2");font-weight:500}
+@font-face{font-family:IN;src:url(assets/in400.woff2) format("woff2");font-weight:400}
+@font-face{font-family:IN;src:url(assets/in500.woff2) format("woff2");font-weight:500}
+:root{--ink:#060809;--ink2:#0e1517;--paper:#f2f4f3;--white:#fff;--muted:#4a5553;--subtle:#5b6664;--inv:#f2f4f3;--invm:#9aa7a4;--teal:#0b6e61;--tealb:#2fb89c;--tealbg:#e7f1ee;--line:#d9dfdd;--lined:#1f2a2c;--amber:#8a5a0b;--amberbg:#f6eedd}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#888;font-family:IN,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;margin:40px auto;display:flex;flex-direction:column;padding:88px 88px 72px}
+.dark{background:var(--ink);color:var(--inv)}
+.light{background:var(--paper);color:var(--ink)}
+.logo{height:44px;width:auto}
+.top{display:flex;justify-content:space-between;align-items:center;position:relative;z-index:2}
+.kicker{font-family:SG;font-weight:500;font-size:22px;letter-spacing:.14em;text-transform:uppercase}
+.dark .kicker{color:var(--tealb)} .light .kicker{color:var(--teal)}
+h1{font-family:SG;font-weight:400;font-size:96px;line-height:1.02;letter-spacing:-.035em;position:relative;z-index:2}
+h2{font-family:SG;font-weight:400;font-size:76px;line-height:1.04;letter-spacing:-.03em;position:relative;z-index:2}
+.lead{font-size:30px;line-height:1.45;max-width:820px;position:relative;z-index:2}
+.dark .lead{color:var(--invm)} .light .lead{color:var(--muted)}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;font-size:19px;position:relative;z-index:2}
+.dark .foot{color:var(--invm)} .light .foot{color:var(--subtle)}
+.foot b{font-family:SG;font-weight:500;font-size:24px;letter-spacing:.01em}
+.dark .foot b{color:var(--inv)} .light .foot b{color:var(--ink)}
+.rings{position:absolute;inset:0;z-index:1;pointer-events:none}
+.gap-l{height:56px}.gap-m{height:36px}.gap-s{height:20px}
+/* product pieces */
+.card{background:var(--white);border:1px solid var(--line);border-radius:6px;color:var(--ink)}
+.chip{display:inline-flex;align-items:center;gap:10px;font-size:19px;padding:7px 14px;border-radius:4px;font-weight:500;white-space:nowrap}
+.chip:before{content:"";width:9px;height:9px;background:currentColor;border-radius:1px}
+.chip.g{background:var(--tealbg);color:var(--teal)} .chip.n{background:var(--paper);color:var(--muted)} .chip.a{background:var(--amberbg);color:var(--amber)}
+.ref{font-family:SG;font-size:46px;letter-spacing:.02em;font-weight:400}
+.lbl{font-size:19px;color:var(--subtle)}
+.val{font-size:22px;color:var(--ink)}
+.facts div{display:flex;justify-content:space-between;padding:15px 0;border-top:1px solid var(--line)}
+.btn{display:inline-flex;align-items:center;justify-content:center;font-size:22px;font-weight:500;padding:16px 26px;border-radius:5px;white-space:nowrap}
+.btn.o{border:1.5px solid var(--ink);color:var(--ink)} .btn.p{background:var(--teal);color:#fff}
+.sample{position:absolute;right:0;top:-38px;font-size:17px;letter-spacing:.06em;text-transform:uppercase}
+.dark .sample{color:var(--invm)} .light .sample{color:var(--subtle)}
+</style>
+</head>
+<body>
+
+<!-- 1. HERO -->
+<section class="s dark" id="s01">
+  <svg class="rings" viewBox="0 0 1080 1350"><g fill="none" stroke="#1d4a43" stroke-width="1.4"><circle cx="760" cy="430" r="330"/><circle cx="980" cy="430" r="330"/><circle cx="760" cy="650" r="330"/><circle cx="980" cy="650" r="330"/></g></svg>
+  <div class="top"><img class="logo" src="assets/multiplier-logo-white.svg" alt=""></div>
+  <div style="margin-top:auto"></div>
+  <div class="kicker">Private markets distribution</div>
+  <div class="gap-m"></div>
+  <h1>Private markets distribution, by invitation.</h1>
+  <div class="gap-m"></div>
+  <p class="lead">Sponsors list deals. Advisers and adviser firms request terms and distribute them. Every account is invited.</p>
+  <div class="gap-l"></div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 2. THE EXCHANGE -->
+<section class="s light" id="s02">
+  <div class="top"><span class="kicker">For advisers</span><img class="logo" src="assets/multiplier-logo-black.svg" alt=""></div>
+  <div class="gap-l"></div>
+  <h2>The Exchange.</h2>
+  <div class="gap-s"></div>
+  <p class="lead">Every listing is anonymised. Request terms in one tap, and the deal opens in full once they are agreed.</p>
+  <div style="position:relative;margin:auto 0;padding-top:40px">
+    <span class="sample">Illustrative screen, fictional data</span>
+    <div style="display:flex;gap:28px;align-items:flex-start">
+      <div class="card" style="flex:1;padding:34px 34px 36px">
+        <div style="display:flex;justify-content:space-between;align-items:center"><span class="lbl" style="font-size:21px">Private credit</span><span class="chip n">Terms not requested</span></div>
+        <div class="ref" style="margin:22px 0 18px">MP-7K2QXD</div>
+        <div class="facts">
+          <div><span class="lbl">Sector</span><span class="val">Logistics</span></div>
+          <div><span class="lbl">Region</span><span class="val">Middle East</span></div>
+          <div><span class="lbl">Instrument</span><span class="val">Senior notes</span></div>
+          <div style="border-bottom:1px solid var(--line)"><span class="lbl">Minimum</span><span class="val">USD 250,000</span></div>
+        </div>
+        <div style="margin-top:28px"><span class="btn p">Request terms</span></div>
+      </div>
+      <div class="card" style="flex:1;padding:34px 34px 36px;margin-top:70px">
+        <div style="display:flex;justify-content:space-between;align-items:center"><span class="lbl" style="font-size:21px">Venture capital</span><span class="chip a">Terms requested</span></div>
+        <div class="ref" style="margin:22px 0 18px">MP-2XWQ8N</div>
+        <div class="facts">
+          <div><span class="lbl">Sector</span><span class="val">Healthcare</span></div>
+          <div><span class="lbl">Region</span><span class="val">Europe</span></div>
+          <div><span class="lbl">Round</span><span class="val">Series A</span></div>
+          <div style="border-bottom:1px solid var(--line)"><span class="lbl">Minimum</span><span class="val">EUR 100,000</span></div>
+        </div>
+        <div style="margin-top:28px"><span class="btn o">View your request</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 3. THE DESK -->
+<section class="s dark" id="s03">
+  <div class="top"><span class="kicker">For advisers</span><img class="logo" src="assets/multiplier-logo-white.svg" alt=""></div>
+  <div class="gap-l"></div>
+  <h2>Your Desk.</h2>
+  <div class="gap-s"></div>
+  <p class="lead">Every deal you hold terms on, in one place: the sponsor's summary, key facts, documents and your questions.</p>
+  <div style="position:relative;margin:auto 0;padding-top:40px">
+    <span class="sample">Illustrative screen, fictional data</span>
+    <div class="card" style="overflow:hidden">
+      <svg viewBox="0 0 904 250" style="display:block;width:100%"><rect width="904" height="250" fill="#1f4f5a"/><rect x="0" y="170" width="904" height="80" fill="#14303a"/><rect x="120" y="60" width="150" height="110" fill="#e9e3d6"/><rect x="300" y="95" width="240" height="75" fill="#cfc6b3"/><rect x="600" y="40" width="120" height="130" fill="#efe9dc"/><rect x="740" y="80" width="90" height="90" fill="#d9d0bd"/></svg>
+      <div style="padding:34px 38px 38px">
+        <div style="display:flex;justify-content:space-between;align-items:center"><span class="lbl" style="font-size:21px">Private credit · Example Quay Notes Ltd</span><span class="chip g">On your Desk</span></div>
+        <div style="font-family:SG;font-size:44px;letter-spacing:-.02em;margin:18px 0 26px">Example Quay Logistics Notes</div>
+        <div style="display:flex;gap:44px;border-top:1px solid var(--line);padding-top:24px">
+          <div><div class="lbl">Minimum</div><div class="val" style="margin-top:6px">USD 250,000</div></div>
+          <div><div class="lbl">Term</div><div class="val" style="margin-top:6px">3 years</div></div>
+          <div><div class="lbl">Documents</div><div class="val" style="margin-top:6px">4 folders</div></div>
+          <div style="margin-left:auto;align-self:center"><span class="btn o">Open deal</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 4. SPONSORS -->
+<section class="s light" id="s04">
+  <div class="top"><span class="kicker">For sponsors</span><img class="logo" src="assets/multiplier-logo-black.svg" alt=""></div>
+  <div class="gap-l"></div>
+  <h2>List once. Reach advisers in every country you permit.</h2>
+  <div class="gap-s"></div>
+  <p class="lead">Your deal appears anonymised on the Exchange. You see who asks, and you decide.</p>
+  <div style="position:relative;margin:auto 0;padding-top:40px">
+    <span class="sample">Illustrative screen, fictional data</span>
+    <div class="card" style="padding:38px">
+      <div style="display:flex;justify-content:space-between;align-items:center"><span style="font-family:SG;font-size:36px;letter-spacing:-.02em">Example Growth Fund I</span><span class="chip g">Live</span></div>
+      <div style="display:flex;gap:56px;align-items:baseline;border-top:1.5px solid var(--ink);margin-top:28px;padding-top:28px">
+        <div><span style="font-family:SG;font-size:92px;line-height:1">2</span><span class="val" style="margin-left:14px">requests waiting</span></div>
+        <div><span style="font-family:SG;font-size:92px;line-height:1">5</span><span class="val" style="margin-left:14px">hold terms</span></div>
+      </div>
+      <div style="margin-top:30px;border-top:1px solid var(--line)">
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:20px 0;border-bottom:1px solid var(--line)"><div><div style="font-family:SG;font-size:24px">INT-4HR9QA</div><div class="lbl" style="margin-top:4px">Adviser firm · Wealth manager · United Kingdom</div></div><span class="chip a">Decide by Thursday</span></div>
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:20px 0"><div><div style="font-family:SG;font-size:24px">INT-8MC2LT</div><div class="lbl" style="margin-top:4px">Individual adviser · Family office · Singapore</div></div><span class="chip a">Decide by Friday</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 5. HOW IT WORKS -->
+<section class="s dark" id="s05">
+  <div class="top"><span class="kicker">How it works</span><img class="logo" src="assets/multiplier-logo-white.svg" alt=""></div>
+  <div class="gap-l"></div>
+  <h2>Three steps from listing to distribution.</h2>
+  <div style="margin-top:auto"></div>
+  <div style="border-top:1px solid var(--lined)">
+    <div style="display:flex;gap:44px;padding:40px 0;border-bottom:1px solid var(--lined)"><span style="font-family:SG;font-size:64px;color:var(--tealb);width:70px;line-height:1">1</span><div><div style="font-family:SG;font-size:40px">The sponsor lists</div><div class="lead" style="font-size:26px;margin-top:10px">A summary, the key facts for its asset class and the terms on offer.</div></div></div>
+    <div style="display:flex;gap:44px;padding:40px 0;border-bottom:1px solid var(--lined)"><span style="font-family:SG;font-size:64px;color:var(--tealb);width:70px;line-height:1">2</span><div><div style="font-family:SG;font-size:40px">Multiplier reviews the listing</div><div class="lead" style="font-size:26px;margin-top:10px">One review before it appears, anonymised, on the Exchange.</div></div></div>
+    <div style="display:flex;gap:44px;padding:40px 0;border-bottom:1px solid var(--lined)"><span style="font-family:SG;font-size:64px;color:var(--tealb);width:70px;line-height:1">3</span><div><div style="font-family:SG;font-size:40px">Advisers request terms</div><div class="lead" style="font-size:26px;margin-top:10px">Once agreed, the deal sits on their Desk, ready to share with clients.</div></div></div>
+  </div>
+  <div class="gap-l"></div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 6. NO WAITING -->
+<section class="s light" id="s06">
+  <div class="top"><span class="kicker">Built for speed</span><img class="logo" src="assets/multiplier-logo-black.svg" alt=""></div>
+  <div style="margin-top:auto"></div>
+  <h1 style="font-size:88px">No adviser waits on a sponsor who forgot to sign in.</h1>
+  <div class="gap-m"></div>
+  <p class="lead">Sponsors choose automatic or manual approval. A manual request has two business days, then Multiplier steps in. Nobody is left waiting.</p>
+  <div class="gap-l"></div>
+  <div style="display:flex;gap:20px;flex-wrap:wrap"><span class="chip g" style="font-size:22px;padding:10px 18px">Automatic by default</span><span class="chip a" style="font-size:22px;padding:10px 18px">Two business days</span><span class="chip n" style="font-size:22px;padding:10px 18px">Then Multiplier decides</span></div>
+  <div class="gap-l"></div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 7. EFFORTLESS ENTRY -->
+<section class="s dark" id="s07">
+  <div class="top"><span class="kicker">For sponsors</span><img class="logo" src="assets/multiplier-logo-white.svg" alt=""></div>
+  <div class="gap-l"></div>
+  <h2>Five fields to list a private equity deal.</h2>
+  <div class="gap-s"></div>
+  <p class="lead">Tap, don't type. Write "eur 250k" and it reads EUR 250,000. Everything else is optional.</p>
+  <div style="position:relative;margin:auto 0;padding-top:40px">
+    <span class="sample">Illustrative screen, fictional data</span>
+    <div class="card" style="padding:38px 40px">
+      <div style="display:flex;justify-content:space-between;align-items:center"><span style="font-family:SG;font-size:30px">Essentials</span><span style="display:flex;align-items:center;gap:16px;font-size:22px">3 of 5 <span style="display:flex;gap:6px"><i style="width:44px;height:6px;background:var(--teal);border-radius:3px"></i><i style="width:44px;height:6px;background:var(--teal);border-radius:3px"></i><i style="width:44px;height:6px;background:var(--teal);border-radius:3px"></i><i style="width:44px;height:6px;background:var(--line);border-radius:3px"></i><i style="width:44px;height:6px;background:var(--line);border-radius:3px"></i></span></span></div>
+      <div class="lbl" style="margin-top:34px;color:var(--ink);font-size:21px">Deal type <span style="color:var(--teal)">✓</span></div>
+      <div style="display:flex;gap:12px;margin-top:14px"><span class="btn o" style="border-color:var(--line)">Buyout</span><span class="btn o" style="border-color:var(--line)">Growth</span><span class="btn" style="background:var(--ink);color:#fff">Co-investment</span><span class="btn o" style="border-color:var(--line)">Secondary</span></div>
+      <div class="lbl" style="margin-top:34px;color:var(--ink);font-size:21px">Minimum investment <span style="color:var(--teal)">✓</span></div>
+      <div style="display:flex;margin-top:14px;border:2px solid var(--teal);border-radius:5px;overflow:hidden"><span style="flex:1;padding:18px 20px;font-size:26px">eur 250k</span><span style="padding:18px 22px;background:var(--paper);font-size:24px;border-left:1px solid var(--line)">EUR 250,000</span></div>
+      <div style="margin-top:34px;display:flex;justify-content:flex-end"><span class="btn p">Save and continue</span></div>
+    </div>
+  </div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 8. SCREENING -->
+<section class="s light" id="s08">
+  <div class="top"><span class="kicker">Our standard</span><img class="logo" src="assets/multiplier-logo-black.svg" alt=""></div>
+  <div style="margin-top:auto"></div>
+  <div style="font-family:SG;font-size:150px;line-height:.6;color:var(--teal)">“</div>
+  <h2 style="font-size:66px;line-height:1.12">We screen sponsors and issuers for regulatory status and track record before listing.</h2>
+  <div class="gap-m"></div>
+  <p class="lead">We do not underwrite, recommend or endorse any individual product. Every deal page says whose statement it is.</p>
+  <div class="gap-l"></div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+<!-- 9. ASSET CLASSES -->
+<section class="s dark" id="s09">
+  <div class="top"><span class="kicker">The Exchange</span><img class="logo" src="assets/multiplier-logo-white.svg" alt=""></div>
+  <div class="gap-l"></div>
+  <h2>Eight asset classes. One place to find them.</h2>
+  <div style="margin-top:auto"></div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--lined)">
+    <div style="padding:30px 0;border-bottom:1px solid var(--lined);font-family:SG;font-size:36px">Private credit</div>
+    <div style="padding:30px 0 30px 30px;border-bottom:1px solid var(--lined);border-left:1px solid var(--lined);font-family:SG;font-size:36px">Loan notes</div>
+    <div style="padding:30px 0;border-bottom:1px solid var(--lined);font-family:SG;font-size:36px">Private equity</div>
+    <div style="padding:30px 0 30px 30px;border-bottom:1px solid var(--lined);border-left:1px solid var(--lined);font-family:SG;font-size:36px">Venture capital</div>
+    <div style="padding:30px 0;border-bottom:1px solid var(--lined);font-family:SG;font-size:36px">Funds</div>
+    <div style="padding:30px 0 30px 30px;border-bottom:1px solid var(--lined);border-left:1px solid var(--lined);font-family:SG;font-size:36px">Real estate</div>
+    <div style="padding:30px 0;border-bottom:1px solid var(--lined);font-family:SG;font-size:36px">Infrastructure</div>
+    <div style="padding:30px 0 30px 30px;border-bottom:1px solid var(--lined);border-left:1px solid var(--lined);font-family:SG;font-size:36px">Pre-IPO and secondaries</div>
+  </div>
+  <div class="gap-l"></div>
+  <p class="lead" style="font-size:26px">Each class has its own key facts and data room folders, so every deal page answers the questions an adviser asks first.</p>
+  <div class="gap-l"></div>
+  <div class="foot"><span>For professional advisers and sponsors only.</span><b>multiplier.club</b></div>
+</section>
+
+</body>
+</html>
