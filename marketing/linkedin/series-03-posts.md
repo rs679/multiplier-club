@@ -3,6 +3,7 @@
 Thirteen posts, Tuesday 18 November to Tuesday 30 December. Graphics in `png/series-03/`, source `src/series-03.html`. The persona thinking behind each post is in `series-02-strategy.md`; this file replaces its captions.
 
 ## Language rules for every post
+- Reassure on doing things properly with facts the platform delivers (country and client-type restrictions, review of every deal, a record of every decision, documents viewed on the platform). Never say the platform or a deal is "compliant", "regulated" or "approved": that is a regulatory claim.
 - Say **fund managers and issuers** (or "raising capital"), never "sponsor". Say **advisers**, never "intermediaries".
 - Describe the action, not our feature name: "offer the deal to your clients", not "request terms"; "your deal list", not "Desk". Use "the Exchange" only after saying what it is.
 - One idea per post. The first line of the caption must work alone, because LinkedIn cuts the rest behind "see more".
@@ -13,7 +14,7 @@ Thirteen posts, Tuesday 18 November to Tuesday 30 December. Graphics in `png/ser
 
 **Tue 18 Nov · Opener · `o1-opener.png`**
 Fund managers raising capital. Advisers with the clients. Until now, they met one introduction at a time.
-Multiplier is one platform for both: fund managers and issuers list their deals, advisers choose the ones that suit their clients, and both sides agree terms in a few clicks. By invitation.
+Multiplier is one platform for both: fund managers and issuers list their deals, advisers choose the ones that suit their clients, and both sides agree terms in a few clicks. Every deal is reviewed before advisers see it, and every account is by invitation.
 Request access: multiplier.club
 
 **Thu 20 Nov · Raising capital · `s1-reach.png`**
@@ -38,32 +39,32 @@ multiplier.club
 
 **Thu 4 Dec · Advisers · `a2-terms-in-a-tap.png`**
 Offer a new deal to clients in minutes, not weeks.
-Find a deal, ask to offer it, and in most cases the fund manager's answer is automatic. Where they decide each request themselves, they have two working days. No more chasing for weeks.
+Find a deal, ask to offer it, and in most cases the fund manager's answer is automatic. You only see deals you are allowed to offer, in your country and to your type of client, so you stay within your own rules.
 multiplier.club
 
 **Tue 9 Dec · Wealth management firms · `f2-one-agreement.png`**
 One agreement covers every adviser in your firm.
-Your firm signs once and decides who joins. When the firm agrees terms on a deal, every adviser in the firm can offer it. No side letters, no duplicate relationships with the same fund manager.
+Your firm signs once, decides who joins and sees everything its advisers offer. When the firm agrees terms on a deal, every adviser in the firm can offer it. No side letters, no duplicate relationships with the same fund manager.
 multiplier.club
 
 **Thu 11 Dec · Raising capital · `s3-control.png`**
 You choose which advisers offer your deal.
-Before you say yes, you see each adviser's profile: firm or individual, where they work, whether they are regulated and the size of their client book. Or let advisers in the countries you permit offer it automatically.
+Before you say yes, you see each adviser's profile: firm or individual, where they work, whether they are regulated and the size of their client book. You decide which countries and types of client it can be offered to, and every decision is recorded.
 multiplier.club
 
 **Tue 16 Dec · Advisers · `a3-client-ready.png`**
 Every deal answers your client's first five questions.
-What is it? Who is behind it? What is the minimum? How long is it locked up? What are the risks? Every deal on Multiplier is laid out the same way, so a client meeting starts with answers.
+What is it? Who is behind it? What is the minimum? How long is it locked up? What are the risks? Every deal on Multiplier is laid out the same way, with the risks set out plainly and documents viewed on the platform rather than emailed around.
 multiplier.club
 
 **Thu 18 Dec · Wealth management firms · `f3-oversight.png`**
 See every deal your firm offers, in one list.
-Every deal your advisers can offer, where it can be offered and to which clients, in one place. Know your firm's private markets exposure before anyone asks.
+Every deal your advisers can offer, where it can be offered and to which clients, in one place. With a record of every decision, so you can answer your compliance team before they ask.
 multiplier.club
 
 **Mon 22 Dec · Raising capital · `s4-confidential.png`**
 Your deal stays anonymous until you say yes.
-Advisers first see the asset class, sector and region. No deal name, no fund manager. Enough to know if it suits their clients, nothing that lets it be shopped around.
+Advisers first see the asset class, sector and region. No deal name, no fund manager. No name and no documents until you approve the adviser, so nothing can be shopped around.
 multiplier.club
 
 **Tue 23 Dec · Independent advisers · `a4-institution.png`**
